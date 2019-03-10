@@ -24,7 +24,7 @@
             var path = d3.geoPath()
                         .projection(projection);
             
-            var color = d3.scale.category20();
+            var color = d3.scaleOrdinal(d3.schemeCategory20);
 
             d3.json("worldmap.geojson", function(error, root){
 
@@ -59,7 +59,7 @@
                         capacity: +data["capacity_mw"],
                         latitude: +data["latitude"],
                         longitude: +data["longitude"],
-                        fuel: +data["fuel1"]
+                        fuel: data["fuel1"]
                     };
                 },
 
