@@ -56,7 +56,7 @@
                 function(data) {
                     return {
                         country: data["country_long"],
-                        capacity: +data["capacity_mw"],
+                        capacity: +data["capacity_mw"].toFixed(2),
                         latitude: +data["latitude"],
                         longitude: +data["longitude"],
                         fuel: data["fuel1"]

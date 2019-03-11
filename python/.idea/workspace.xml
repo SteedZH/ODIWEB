@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00f363c8-1c93-42cf-be5a-dd6b671f2481" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analyse_ODI.py" beforeDir="false" afterPath="$PROJECT_DIR$/analyse_ODI.py" afterDir="false" />
-    </list>
+    <list default="true" id="00f363c8-1c93-42cf-be5a-dd6b671f2481" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +34,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="26" />
     <option name="y" value="272" />
     <option name="width" value="1400" />
@@ -122,12 +119,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552235604694</updated>
       <workItem from="1552235605975" duration="6789000" />
-      <workItem from="1552257286959" duration="802000" />
+      <workItem from="1552257286959" duration="1699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7591000" />
+    <option name="totallyTimeSpent" value="8488000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
