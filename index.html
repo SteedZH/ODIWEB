@@ -6,6 +6,11 @@
         <link rel="stylesheet" type="text/css" href="map.css">
         <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
     </head>
+    <!-- <style>
+    .position circle{
+        fill: rgb(0, 51, 0);
+    }
+    </style> -->
     <body>
         <script>
             var width = window.innerWidth;
@@ -77,15 +82,20 @@
                     .attr("transform",function(d){
                         var coordinates = projection([d.longitude, d.latitude]);
                         return "translate("+ coordinates[0] + "," + coordinates[1] +")";
+                    })
+                    .on("mouseover", function(d){
+                            d3.select(this)
+                                .classed("active", true)
+                    })
+                    .on("mouseout", function(d){
+                            d3.select(this)
+                                .classed("active", false)
                     });
                 position.append("circle")
 			        .attr("r",1.6);
                 }
             );
             });
-            
-            
-
         </script>
     </body>
 </html>
