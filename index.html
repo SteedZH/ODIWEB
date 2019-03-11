@@ -32,6 +32,11 @@
             
             var color = d3.scaleOrdinal(d3.schemeCategory20);
 
+            var tooltip = d3.select("body")
+                    .append("div")
+                    .attr("class", "tooltip")
+                    .style("opacity", 0.0)  
+                    
             d3.json("worldmap.geojson", function(error, root){
 
                 if(error)
@@ -84,6 +89,7 @@
                     .attr("transform",function(d){
                         var coordinates = projection([d.longitude, d.latitude]);
                         return "translate("+ coordinates[0] + "," + coordinates[1] +")"
+                    })
                     .on("mouseover", function(d){
                                 d3.select(this)
                                     .classed("active", true);
@@ -102,19 +108,9 @@
                                 d3.select(this)
                                     .classed("active", false)
                         });
-                    })
+                    
                 // position.append("circle")
-                //     .attr("r",3);
-
-
-                var tooltip = d3.select("body")
-                    .append("div")
-                    .attr("class", "tooltip")
-                    .style("opacity", 0.0)
-                var circle = svg.selectAll("circle")
-                        .data(data)
-                        .enter()
-                        
+                //     .attr("r",3);     
                 }
             );
             });
