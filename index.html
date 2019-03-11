@@ -111,8 +111,8 @@
                         })
                         .on("mouseout", function(d){
                                 tooltip.style("opacity", 0.0)
-                                // d3.select(this)
-                                //     .classed("active", false)
+                                d3.select(this)
+                                    .classed("active", false)
                         });
                 }
             );
