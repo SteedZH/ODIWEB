@@ -84,16 +84,18 @@
                         var coordinates = projection([d.longitude, d.latitude]);
                         return "translate("+ coordinates[0] + "," + coordinates[1] +")";
                     })
-                    .on("mouseover", function(d){
-                            d3.select(this)
-                                .classed("active", true)
-                    })
-                    .on("mouseout", function(d){
-                            d3.select(this)
-                                .classed("active", false)
-                    });
                 position.append("circle")
-			        .attr("r",1.6);
+                    .attr("r",1.6);
+                    
+                var circle = svg.selectAll("circle")
+                        .on("mouseover", function(d){
+                                d3.select(this)
+                                    .classed("active", true)
+                        })
+                        .on("mouseout", function(d){
+                                d3.select(this)
+                                    .classed("active", false)
+                        });
                 }
             );
             });
