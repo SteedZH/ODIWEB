@@ -81,7 +81,7 @@
                     .append("g")
                     .attr("class", "position")
                     .attr("transform",function(d){
-                        var coordinates = projection(d.longitude, d.latitude);
+                        var coordinates = projection([d.longitude, d.latitude]);
                         return "translate("+ coordinates[0] + "," + coordinates[1] +")";
                     });
                 position.append("circle")
