@@ -1,0 +1,4920 @@
+country_long,capacity_mw,latitude,longitude,fuel1
+Afghanistan,33.0,32.321999999999996,65.119,Hydro
+Afghanistan,66.0,34.556,69.4787,Hydro
+Afghanistan,100.0,34.641,69.717,Hydro
+Afghanistan,11.55,34.4847,70.3633,Hydro
+Afghanistan,42.0,34.5638,69.1134,Gas
+Afghanistan,6.0,35.9416,68.71,Hydro
+Afghanistan,22.0,34.5865,69.7757,Hydro
+Albania,27.0,39.9116,20.1047,Hydro
+Albania,500.0,42.2514,20.0431,Hydro
+Albania,600.0,42.1033,19.8224,Hydro
+Albania,5.0,41.3428,19.8964,Hydro
+Albania,24.0,41.6796,19.8305,Hydro
+Albania,25.0,41.6796,19.8936,Hydro
+Albania,250.0,42.0137,19.6359,Hydro
+Albania,98.0,40.4874,19.434,Other
+Algeria,520.0,35.8665,6.0262,Gas
+Algeria,71.0,36.8924,7.7634,Gas
+Algeria,560.0,36.5988,3.1375,Gas
+Algeria,100.0,36.5914,2.9223,Gas
+Algeria,450.0,36.596,2.878,Gas
+Algeria,450.0,35.5658,-0.9386,Gas
+Algeria,292.0,35.7666,7.3619,Gas
+Algeria,1200.0,36.5767,2.0797,Gas
+Algeria,418.0,36.7489,3.0823,Gas
+Algeria,72.0,31.6703,6.0531,Gas
+Algeria,600.0,31.6703,6.0531,Gas
+Algeria,200.0,31.7877,6.0517,Gas
+Algeria,492.0,31.8065,5.9924,Gas
+Algeria,24.0,36.4739,5.2719,Hydro
+Algeria,588.0,36.8139,5.876,Gas
+Algeria,345.0,35.8064,-0.2476,Gas
+Algeria,1200.0,36.885,8.0778,Gas
+Algeria,396.0,34.5056,6.9848,Gas
+Algeria,840.0,35.8,-0.1924,Gas
+Algeria,184.0,35.8,-0.1924,Gas
+Algeria,980.0,35.7071,4.4804,Gas
+Algeria,672.0,36.8509,3.6983,Gas
+Algeria,73.0,35.7095,-0.6319,Gas
+Algeria,465.0,35.7835,0.5407,Gas
+Algeria,484.0,36.1399,2.9296,Gas
+Algeria,815.0,36.8789,6.9366,Gas
+Angola,132.0,-8.8383,13.2344,Gas
+Angola,16.26,-12.76,15.75,Oil
+Angola,20.0,-12.37,13.57,Gas
+Angola,18.5,-8.8383,13.2344,Oil
+Angola,10.0,-5.55,12.2,Oil
+Angola,40.0,-14.7333,15.0333,Hydro
+Angola,11.68,-15.1961,12.1522,Gas
+Angola,16.0,-7.3,20.85,Hydro
+Angola,11.34,-15.3333,15.0,Oil
+Antarctica,6.6,-77.847,166.6605,Oil
+Antarctica,1.0,-77.8428,166.7271,Wind
+Argentina,479.2,-38.9368,-68.3556,Gas
+Argentina,192.0,-38.9368,-68.3556,Gas
+Argentina,130.0,-34.5792,-68.9892,Hydro
+Argentina,1050.0,-40.58,-70.7489,Hydro
+Argentina,25.0,-34.8386,-58.4033,Oil
+Argentina,25.0,-38.9524,-68.0218,Gas
+Argentina,15.0,-38.9524,-68.0218,Gas
+Argentina,25.0,-38.9524,-68.0218,Other
+Argentina,17.5,-38.9524,-68.0218,Gas
+Argentina,15.0,-38.9524,-68.0218,Other
+Argentina,1.9040000000000001,-39.2145,-70.9157,Oil
+Argentina,50.7,-33.0452,-69.0516,Hydro
+Argentina,128.0,-39.1009,-68.5982,Hydro
+Argentina,10.4,-37.0781,-57.8181,Gas
+Argentina,23.37,-37.0781,-57.8181,Gas
+Argentina,6.0,-27.0289,-58.6997,Oil
+Argentina,15.0,-40.8421,-68.0869,Oil
+Argentina,15.002,-34.8578,-61.5206,Oil
+Argentina,15.686,-35.1917,-59.0808,Oil
+Argentina,25.0,-35.1001,-57.4839,Oil
+Argentina,41.0,-34.3931,-58.8372,Gas
+Argentina,32.0,-37.4102,-68.9,Oil
+Argentina,20.0,-38.2472,-57.8242,Oil
+Argentina,38.8,-36.9439,-60.2361,Gas
+Argentina,15.0,-23.1258,-64.3069,Oil
+Argentina,40.0,-31.7764,-60.4553,Gas
+Argentina,15.0,-28.5339,-65.7997,Oil
+Argentina,7.2,-27.3236,-58.5667,Oil
+Argentina,22.4,-35.8336,-61.8758,Oil
+Argentina,21.0,-37.0953,-56.8789,Gas
+Argentina,16.25,-25.6786,-59.0756,Oil
+Argentina,246.0,-26.9955,-65.166,Gas
+Argentina,19.2,-31.2567,-61.5203,Oil
+Argentina,24.0,-35.055,-64.2406,Oil
+Argentina,130.0,-31.8919,-60.0106,Gas
+Argentina,20.0,-26.8156,-60.4114,Oil
+Argentina,15.0,-26.8153,-60.4125,Oil
+Argentina,22.5,-27.4597,-65.6055,Oil
+Argentina,5.1,-34.5252,-58.6206,Oil
+Argentina,396.62,-26.9955,-65.166,Gas
+Argentina,11.5,-34.5252,-58.6206,Oil
+Argentina,6.0,-28.2628,-58.0006,Oil
+Argentina,10.0,-22.5406,-63.8056,Oil
+Argentina,8.0,-28.4289,-65.7878,Oil
+Argentina,15.0,-28.0486,-67.5667,Oil
+Argentina,438.0,-26.9955,-65.166,Gas
+Argentina,19.2,-33.7736,-61.9564,Oil
+Argentina,10.0,-31.8919,-60.0106,Oil
+Argentina,15.0,-27.5808,-60.7094,Oil
+Argentina,5.0,-39.0872,-67.0881,Oil
+Argentina,10.55,-30.1833,-69.0667,Hydro
+Argentina,70.12,-31.3934,-64.2059,Coal
+Argentina,68.44,-34.8902,-57.933,Oil
+Argentina,872.3,-34.6533,-58.342,Gas
+Argentina,14.0,-26.6156,-65.1929,Hydro
+Argentina,17.0,-33.2993,-68.7199,Hydro
+Argentina,1200.0,-39.2577,-68.7483,Hydro
+Argentina,14.4,-34.61,-68.6136,Hydro
+Argentina,11.0,-25.2323,-64.4762,Hydro
+Argentina,648.0,-32.2316,-64.4422,Nuclear
+Argentina,24.0,-27.6589,-65.7633,Hydro
+Argentina,2.215,-30.0102,-59.5321,Oil
+Argentina,321.0,-34.626999999999995,-58.3382,Gas
+Argentina,67.5,-37.2742,-69.652,Gas
+Argentina,10.8,-32.1784,-64.4207,Hydro
+Argentina,60.0,-43.6996,-66.4815,Hydro
+Argentina,472.0,-43.1288,-71.63,Hydro
+Argentina,60.0,-28.6072,-65.1228,Gas
+Argentina,1.8,-37.4309,-64.71600000000001,Wind
+Argentina,72.78,-34.0364,-63.9217,Oil
+Argentina,6.0,-33.0449,-68.9219,Hydro
+Argentina,1.33,-29.1388,-59.2277,Oil
+Argentina,17.3,-29.1388,-59.2277,Gas
+Argentina,5.2,-39.56,-65.6817,Hydro
+Argentina,285.0,-40.012,-69.9918,Hydro
+Argentina,3.115,-33.2422,-62.3946,Oil
+Argentina,1.052,-27.4252,-57.3341,Oil
+Argentina,1.33,-27.5785,-56.6726,Oil
+Argentina,6.2,-38.8367,-68.038,Hydro
+Argentina,1.33,-29.1762,-56.6394,Oil
+Argentina,128.0,-34.889,-57.9206,Gas
+Argentina,42.0,-29.3823,-66.8325,Oil
+Argentina,22.15,-27.4184,-55.9097,Gas
+Argentina,16.0,-31.8708,-65.0349,Hydro
+Argentina,30.0,-24.4438,-65.2203,Hydro
+Argentina,59.04,-31.838,-64.4452,Hydro
+Argentina,4.5,-31.838,-64.4452,Hydro
+Argentina,2.5,-27.6509,-64.3618,Hydro
+Argentina,224.0,-34.6028,-68.6383,Hydro
+Argentina,31.7,-33.0551,-68.98100000000001,Other
+Argentina,90.0,-33.0551,-68.98100000000001,Other
+Argentina,50.46,-33.0551,-68.98100000000001,Gas
+Argentina,57.6,-33.0551,-68.98100000000001,Gas
+Argentina,200.0,-33.0551,-68.98100000000001,Gas
+Argentina,25.2,-28.6684,-66.7524,Wind
+Argentina,6.3,-45.7458,-67.6953,Wind
+Argentina,226.0,-32.9053,-60.6807,Coal
+Argentina,140.0,-31.463,-64.2388,Gas
+Argentina,17.0,-22.5099,-63.797,Oil
+Argentina,163.2,-33.3655,-60.1435,Gas
+Argentina,3.2,-29.2352,-61.7577,Oil
+Argentina,42.0,-31.4557,-68.7556,Hydro
+Argentina,120.0,-25.8766,-54.5687,Hydro
+Argentina,9.1,-33.7777,-61.9555,Oil
+Argentina,130.0,-37.2487,-56.9973,Gas
+Argentina,48.0,-39.0872,-67.0881,Gas
+Argentina,560.0,-32.5807,-60.7903,Coal
+Argentina,1550.0,-27.4827,-56.7397,Hydro
+Armenia,375.0,40.1805,44.1498,Nuclear
+Armenia,1110.0,40.564,44.7479,Gas
+Armenia,271.0,40.1152,44.4973,Gas
+Armenia,561.0,40.5078,44.7606,Hydro
+Armenia,170.0,39.4743,46.1306,Hydro
+Armenia,76.0,39.6494,45.85,Hydro
+Armenia,158.0,39.3956,46.2578,Hydro
+Armenia,550.0,40.1138,44.5038,Gas
+Australia,1.0,-34.9453,138.5882,Solar
+Australia,21.6,-35.0641,117.7977,Wind
+Australia,4.0,-34.5509,138.7659,Oil
+Australia,50.0,-34.5035,139.0245,Oil
+Australia,150.0,-38.3861,144.1828,Coal
+Australia,59.7,-34.2082,150.7722,Gas
+Australia,32.0,-16.7162,128.4031,Oil
+Australia,1.1,-33.025,151.5497,Waste
+Australia,94.0,-37.8429,147.5639,Gas
+Australia,2.0,-37.5596,143.8469,Gas
+Australia,320.0,-34.903,150.5258,Gas
+Australia,200.0,-34.6058,148.8696,Wind
+Australia,12.5,-36.5342,147.4594,Hydro
+Australia,2.1,-33.9197,151.0332,Oil
+Australia,600.0,-34.4318,150.0531,Gas
+Australia,55.0,-23.5525,145.3142,Gas
+Australia,66.0,-16.8502,145.6465,Hydro
+Australia,79.9,-41.736000000000004,145.5321,Hydro
+Australia,2640.0,-32.3953,150.9491,Coal
+Australia,1.0,-35.2142,148.9872,Waste
+Australia,120.0,-41.1429,146.903,Gas
+Australia,200.0,-29.9623,151.6585,Wind
+Australia,80.0,-34.7337,150.4669,Hydro
+Australia,32.0,-12.4262,130.9195,Gas
+Australia,4.6,-38.1197,145.2665,Waste
+Australia,1.3,-18.6816,121.7848,Oil
+Australia,9.9,-33.6219,149.1982,Wind
+Australia,70.0,-35.3986,148.2463,Hydro
+Australia,65.0,-40.7207,144.6869,Wind
+Australia,270.0,-36.5914,149.1297,Wind
+Australia,100.0,-32.4137,149.059,Wind
+Australia,140.0,-36.8055,147.22799999999998,Hydro
+Australia,25.0,-30.4994,151.6839,Wind
+Australia,504.0,-27.1109,150.9053,Gas
+Australia,519.0,-27.1128,150.9049,Gas
+Australia,1.3,-34.4018,119.3888,Oil
+Australia,8.5,-23.8817,133.8281,Gas
+Australia,6.2,-37.6878,144.9663,Waste
+Australia,30.0,-29.0118,153.4335,Biomass
+Australia,50.0,-31.9863,141.4203,Gas
+Australia,53.0,-31.9867,141.3915,Solar
+Australia,2.8,-37.818000000000005,144.8319,Waste
+Australia,39.6,-17.980999999999998,122.2046,Gas
+Australia,5.4,-36.5951,149.4741,Hydro
+Australia,2.2,-27.6721,153.0663,Waste
+Australia,33.0,-27.4036,153.1363,Gas
+Australia,150.0,-34.1013,142.2617,Gas
+Australia,18.0,-32.6646,149.108,Hydro
+Australia,27.2,-35.0025,148.5834,Hydro
+Australia,240.0,-20.6286,116.7821,Gas
+Australia,160.0,-20.5937,116.7802,Gas
+Australia,12.2,-42.2669,146.2618,Hydro
+Australia,1.5,-32.8835,151.7275,Solar
+Australia,120.0,-24.334,150.628,Coal
+Australia,700.0,-24.3449,150.6197,Coal
+Australia,900.0,-24.3449,150.6182,Coal
+Australia,1.04,-18.0278,124.1621,Gas
+Australia,4.0,-32.0739,115.8914,Waste
+Australia,40.0,-21.8601,140.9158,Gas
+Australia,46.0,-37.7603,140.4033,Wind
+Australia,58.0,-38.3577,141.385,Wind
+Australia,120.0,-20.6488,117.1407,Gas
+Australia,22.0,-38.3676,141.543,Wind
+Australia,44.0,-38.412,141.543,Wind
+Australia,450.0,-21.0767,116.15899999999999,Gas
+Australia,54.0,-38.3976,141.6209,Wind
+Australia,140.7,-35.166,149.5186,Wind
+Australia,300.0,-32.7897,151.4813,Gas
+Australia,15.0,-24.8692,113.6754,Gas
+Australia,48.0,-42.4524,146.5977,Hydro
+Australia,66.0,-34.8509,135.5824,Wind
+Australia,16.5,-30.3808,121.1635,Gas
+Australia,100.0,-41.4802,146.1348,Hydro
+Australia,79.2,-30.4881,115.337,Wind
+Australia,189.0,-38.2546,146.4137,Coal
+Australia,42.0,-33.0617,151.5223,Oil
+Australia,2820.0,-33.0621,151.5206,Coal
+Australia,39.0,-33.8762,121.8998,Gas
+Australia,3.6,-33.8927,121.7778,Wind
+Australia,2.03,-33.8802,121.76899999999999,Wind
+Australia,8.0,-21.9465,114.125,Gas
+Australia,58.0,-36.1066,147.0326,Hydro
+Australia,29.0,-32.836,151.4505,Oil
+Australia,50.0,-32.3893,150.9664,Gas
+Australia,10.5,-19.6422,147.4016,Biomass
+Australia,50.0,-19.5167,147.1065,Biomass
+Australia,25.0,-25.194000000000003,152.2086,Biomass
+Australia,2.3,-34.0734,150.7427,Waste
+Australia,212.0,-38.2753,146.4263,Gas
+Australia,228.0,-38.2746,146.4249,Gas
+Australia,1.1,-36.4351,148.6333,Hydro
+Australia,143.0,-42.1548,145.5345,Hydro
+Australia,14.4,-35.562,148.3055,Hydro
+Australia,21.0,-26.3712,120.5776,Gas
+Australia,4.2,-27.4453,153.1185,Gas
+Australia,9.0,-19.5223,147.4152,Biomass
+Australia,1.3,-31.9768,115.9988,Oil
+Australia,1.7,-27.8995,114.1946,Wind
+Australia,110.0,-30.7378,121.5065,Gas
+Australia,37.0,-30.8737,121.4842,Gas
+Australia,42.0,-31.1919,121.6741,Gas
+Australia,160.0,-34.723,150.4795,Hydro
+Australia,88.0,-17.767,145.5779,Hydro
+Australia,86.0,-20.7626,116.8375,Gas
+Australia,21.0,-14.4587,132.2445,Gas
+Australia,310.0,-33.1632,115.7805,Gas
+Australia,744.0,-26.9177,150.7493,Coal
+Australia,7.3,-17.8313,145.6034,Hydro
+Australia,12.4,-15.7796,128.7395,Oil
+Australia,21.0,-32.196999999999996,115.7759,Gas
+Australia,66.0,-32.1946,115.7797,Gas
+Australia,320.0,-32.202,115.7728,Gas
+Australia,240.0,-32.198,115.7752,Coal
+Australia,400.0,-32.1992,115.7747,Coal
+Australia,123.0,-32.2225,115.7661,Gas
+Australia,200.0,-32.1973,115.7754,Gas
+Australia,120.0,-32.2243,115.7783,Gas
+Australia,80.0,-37.4567,140.7827,Gas
+Australia,159.0,-37.7713,140.3981,Wind
+Australia,32.0,-42.2537,146.6207,Hydro
+Australia,3.8,-37.9047,146.8011,Hydro
+Australia,6.5,-30.8792,150.4914,Hydro
+Australia,1.8,-36.9132,146.3916,Hydro
+Australia,1.1,-12.3892,130.9254,Waste
+Australia,420.0,-38.0075,142.1865,Wind
+Australia,34.0,-21.1446,149.1591,Gas
+Australia,81.0,-41.6997,145.6461,Hydro
+Australia,8.0,-18.589000000000002,146.25799999999998,Biomass
+Australia,1.3,-32.5079,115.759,Waste
+Australia,1.28,-21.1649,119.7419,Oil
+Australia,7.5,-25.5476,152.7171,Biomass
+Australia,54.5,-38.1809,146.4479,Biomass
+Australia,20.9,-16.4335,136.0935,Gas
+Australia,150.0,-36.8584,147.2345,Hydro
+Australia,40.0,-42.6112,146.8457,Hydro
+Australia,2.9,-26.5952,118.48299999999999,Oil
+Australia,1.2,-37.8086,144.9685,Gas
+Australia,82.0,-31.5423,118.227,Gas
+Australia,325.0,-20.7777,139.4905,Gas
+Australia,1.5,-34.4671,142.1833,Solar
+Australia,856.0,-27.9615,151.2789,Coal
+Australia,90.0,-33.9031,138.7383,Gas
+Australia,12.0,-21.9851,148.0246,Gas
+Australia,45.6,-21.8967,147.9507,Gas
+Australia,566.0,-38.0632,142.6675,Gas
+Australia,112.0,-27.2146,120.54799999999999,Gas
+Australia,1.9,-28.0871,117.8327,Gas
+Australia,70.0,-33.6267,136.7046,Wind
+Australia,424.0,-19.338,146.8512,Oil
+Australia,10.0,-37.8388,140.8057,Biomass
+Australia,1400.0,-33.3589,150.0313,Coal
+Australia,3.5,-35.3953,149.1458,Waste
+Australia,120.0,-33.4467,116.3081,Coal
+Australia,120.0,-33.4468,116.3087,Coal
+Australia,400.0,-33.4458,116.306,Coal
+Australia,454.0,-33.4462,116.3072,Coal
+Australia,55.0,-28.9918,114.9599,Wind
+Australia,112.0,-28.8893,115.1179,Gas
+Australia,18.0,-24.8911,113.7095,Gas
+Australia,600.0,-33.2117,151.5418,Coal
+Australia,950.0,-36.2467,148.1901,Hydro
+Australia,552.0,-36.2423,148.1362,Hydro
+Australia,168.0,-40.7798,148.0098,Wind
+Australia,1.0,-32.9521,117.1916,Biomass
+Australia,330.0,-31.6712,115.8021,Gas
+Australia,140.0,-23.3443,119.7086,Gas
+Australia,500.0,-37.8415,144.8942,Gas
+Australia,2.2,-42.2686,146.2629,Hydro
+Australia,3.2,-33.811,151.1966,Oil
+Australia,1.1,-31.8654,115.8773,Waste
+Australia,9.0,-32.1963,121.7943,Oil
+Australia,2.4,-33.8398,151.2069,Gas
+Australia,530.0,-32.5433,137.7882,Coal
+Australia,33.6,-29.9257,152.7417,Hydro
+Australia,102.0,-31.5527,147.0854,Solar
+Australia,282.0,-27.4184,151.6798,Gas
+Australia,67.2,-37.6638,142.5481,Wind
+Australia,4.8,-30.5751,152.069,Hydro
+Australia,20.0,-22.9878,148.5817,Gas
+Australia,3.6,-21.6582,115.09899999999999,Gas
+Australia,30.0,-16.1201,128.73817,Hydro
+Australia,180.0,-34.798,138.5079,Gas
+Australia,36.7,-23.8636,133.8255,Gas
+Australia,30.0,-41.2826,146.249,Hydro
+Australia,153.0,-23.2235,117.6135,Gas
+Australia,20.0,-23.221999999999998,117.615,Gas
+Australia,3.1,-35.2023,138.5021,Waste
+Australia,478.0,-34.765,138.5053,Gas
+Australia,5.7,-29.3886,151.2442,Hydro
+Australia,34.76,-13.7856,131.8624,Gas
+Australia,584.0,-31.5577,115.8204,Gas
+Australia,280.0,-32.6473,115.9469,Gas
+Australia,67.8,-19.5575,147.3308,Biomass
+Australia,14.0,-21.4282,149.2159,Biomass
+Australia,240.0,-32.5393,137.7819,Coal
+Australia,28.0,-25.311,119.4508,Gas
+Australia,300.0,-41.8116,146.91899999999998,Hydro
+Australia,84.0,-20.3782,118.5384,Gas
+Australia,126.0,-20.4283,118.5498,Gas
+Australia,73.5,-34.7002,135.8047,Oil
+Australia,57.6,-35.1104,138.4915,Oil
+Australia,17.0,-20.3985,148.5797,Biomass
+Australia,224.0,-34.7793,138.5224,Gas
+Australia,56.0,-33.61,120.36,Oil
+Australia,3.65,-31.8317,116.0992,Waste
+Australia,143.8,-32.5802,151.0719,Coal
+Australia,238.0,-41.7238,145.1359,Hydro
+Australia,2.2,-41.395,147.1554,Waste
+Australia,28.0,-42.5077,146.64700000000002,Hydro
+Australia,2.5,-33.9534,151.0137,Oil
+Australia,4.2,-27.5591,153.1236,Waste
+Australia,2.1,-32.2863,115.8154,Waste
+Australia,30.0,-27.7334,153.3276,Biomass
+Australia,1.0,-27.3388,153.0344,Waste
+Australia,80.0,-26.5772,148.8402,Gas
+Australia,59.6,-23.7091,133.8912,Gas
+Australia,10.5,-41.7295,146.2176,Hydro
+Australia,9.6,-37.3272,145.8605,Hydro
+Australia,10.8,-17.3631,128.0331,Oil
+Australia,1.0,-31.9577,115.7924,Waste
+Australia,1.1,-36.3218,145.379,Waste
+Australia,170.9,-33.85,150.9495,Gas
+Australia,98.7,-33.7215,138.1471,Wind
+Australia,98.7,-33.8301,138.1184,Wind
+Australia,63.0,-37.6646,140.4156,Gas
+Australia,125.0,-22.1581,117.9849,Gas
+Australia,160.0,-37.6318,144.9531,Gas
+Australia,3.3,-32.2664,116.0193,Waste
+Australia,20.0,-17.6057,145.991,Biomass
+Australia,4.12,-37.9733,145.1396,Waste
+Australia,1.5,-33.9748,151.1294,Oil
+Australia,1460.0,-23.5097,150.3195,Coal
+Australia,4.8,-27.7334,153.2463,Biomass
+Australia,34.5,-35.5678,138.1432,Wind
+Australia,75.0,-40.7788,144.7362,Wind
+Australia,2.2,-32.8885,151.643,Waste
+Australia,1.5,-26.2261,152.6981,Biomass
+Australia,28.4,-29.0927,122.4393,Gas
+Australia,480.0,-27.6601,152.8145,Coal
+Australia,385.0,-27.6554,152.8179,Gas
+Austria,168.0,48.248000000000005,14.4305,Hydro
+Austria,26.0,46.7667,15.55,Hydro
+Austria,30.0,47.0167,15.1667,Hydro
+Austria,287.0,48.3853,14.023,Hydro
+Austria,16.0,47.407,13.2205,Hydro
+Austria,100.0,48.244,13.005999999999998,Hydro
+Austria,25.0,47.2354,12.0583,Hydro
+Austria,14.0,46.7772,15.5842,Hydro
+Austria,14.0,48.1766,16.4813,Hydro
+Austria,200.0,47.2342,11.8997,Hydro
+Austria,11.0,47.1333,15.35,Hydro
+Austria,293.0,48.3553,16.2424,Hydro
+Austria,63.0,47.6,14.7333,Hydro
+Austria,1.0,47.6,14.7333,Hydro
+Austria,132.0,48.5184,13.7076,Hydro
+Austria,60.0,46.8142,12.7618,Hydro
+Austria,89.0,47.2122,10.7215,Hydro
+Austria,79.0,47.3932,11.7886,Hydro
+Austria,392.0,47.0678,10.6652,Hydro
+Austria,289.0,47.2078,11.0057,Hydro
+Austria,500.0,47.2696,10.9678,Hydro
+Austria,480.0,47.1985,12.7223,Hydro
+Austria,113.0,47.1968,12.7192,Hydro
+Austria,240.0,47.2591,12.7389,Hydro
+Austria,25.0,46.67,13.6886,Hydro
+Austria,1.0,47.2591,12.7389,Hydro
+Austria,20.0,47.8314,14.1572,Hydro
+Austria,525.0,46.975,10.043,Hydro
+Austria,18.0,47.4412,13.2108,Hydro
+Austria,45.0,46.8727,13.3117,Hydro
+Austria,30.0,47.6833,14.7,Hydro
+Austria,25.0,47.65,14.7167,Hydro
+Austria,18.0,47.3,15.3167,Hydro
+Austria,20.0,46.8522,15.5383,Hydro
+Austria,10.0,47.3833,15.1,Hydro
+Austria,39.0,47.9243,14.4367,Hydro
+Austria,2.0,47.1485,11.8225,Hydro
+Austria,280.0,47.074,9.874,Hydro
+Austria,120.0,47.0659,13.3539,Hydro
+Austria,730.0,47.0659,13.3539,Hydro
+Austria,6.0,47.4,13.5667,Hydro
+Austria,355.0,47.1581,11.8501,Hydro
+Austria,187.0,48.2232,15.3042,Hydro
+Austria,16.0,46.8833,15.5167,Hydro
+Austria,26.1,40.1247,-8.7751,Hydro
+Austria,2.0,46.8167,13.3167,Hydro
+Austria,5.0,47.2167,14.4833,Hydro
+Austria,60.0,47.6413,12.1989,Hydro
+Austria,30.0,46.9271,10.0539,Hydro
+Austria,13.0,46.745,15.5847,Hydro
+Austria,179.0,48.3166,14.1512,Hydro
+Austria,86.0,48.5536,13.4371,Hydro
+Austria,24.0,46.7209,13.6453,Hydro
+Austria,13.0,47.2,15.35,Hydro
+Austria,22.0,47.3598,15.3424,Hydro
+Austria,2.0,47.65,13.6667,Hydro
+Austria,14.0,47.35,13.6833,Hydro
+Austria,1.0,46.7333,15.5667,Hydro
+Austria,198.0,47.085,9.8813,Hydro
+Austria,295.0,47.0847,9.8744,Hydro
+Austria,80.0,46.5696,14.0268,Hydro
+Austria,1.0,47.1485,11.8225,Hydro
+Austria,16.0,47.3749,13.2101,Hydro
+Austria,172.0,48.1766,16.4814,Hydro
+Austria,25.0,46.6329,13.8294,Hydro
+Austria,86.0,47.192,9.6815,Hydro
+Austria,13.0,47.316,13.140999999999998,Hydro
+Austria,5.0,47.3833,12.6,Hydro
+Austria,210.0,48.1666,14.6953,Hydro
+Austria,1.0,46.8167,15.8667,Hydro
+Austria,16.0,47.4698,13.1945,Hydro
+Austria,37.0,48.1465,14.1176,Hydro
+Austria,9.0,48.0338,16.7264,Wind
+Austria,37.0,48.09,16.844,Wind
+Austria,21.0,48.09,16.844,Wind
+Austria,21.0,48.095,16.89,Wind
+Austria,236.0,48.1892,15.0682,Hydro
+Azerbaijan,87.0,38.455999999999996,48.875,Gas
+Azerbaijan,2400.0,40.78,46.9901,Oil
+Azerbaijan,105.0,40.3734,49.9192,Gas
+Azerbaijan,107.0,40.3734,49.9192,Gas
+Azerbaijan,1.0,41.3979,48.3308,Hydro
+Azerbaijan,780.0,39.8943,48.9173,Gas
+Azerbaijan,87.0,41.4635,48.806000000000004,Gas
+Azerbaijan,402.0,40.79,47.0287,Hydro
+Azerbaijan,299.0,40.1794,49.47,Gas
+Azerbaijan,405.0,40.9487,46.168,Hydro
+Azerbaijan,400.0,40.4995,50.2077,Gas
+Azerbaijan,525.0,40.6036,49.6332,Gas
+Azerbaijan,16.0,40.6837,47.0926,Hydro
+Azerbaijan,150.0,40.9193,46.2829,Hydro
+Bahrain,1540.0,25.9714,50.6076,Gas
+Bahrain,962.0,26.2175,50.6595,Gas
+Bahrain,2204.0,26.0945,50.6008,Gas
+Bahrain,7.3,26.1981,50.5919,Oil
+Bahrain,963.0,26.2223,50.6621,Gas
+Bahrain,700.0,26.1199,50.5889,Gas
+Bahrain,1205.0,26.1833,50.6237,Gas
+Bangladesh,50.0,24.6301,88.4006,Oil
+Bangladesh,1649.0,24.0426,91.0158,Gas
+Bangladesh,223.0,24.1361,89.5933,Oil
+Bangladesh,22.0,22.5713,91.6841,Oil
+Bangladesh,40.0,22.6588,90.3373,Gas
+Bangladesh,250.0,25.5502,88.9527,Coal
+Bangladesh,71.0,24.0895,89.6176,Oil
+Bangladesh,560.0,24.0487,89.0173,Oil
+Bangladesh,227.0,22.4786,90.7101,Gas
+Bangladesh,42.0,24.8408,89.3506,Gas
+Bangladesh,100.0,23.6473,90.3473,Oil
+Bangladesh,553.0,22.456999999999997,91.9784,Gas
+Bangladesh,54.0,23.6183,89.7733,Oil
+Bangladesh,296.0,24.6863,91.9189,Gas
+Bangladesh,33.0,23.9186,90.6926,Gas
+Bangladesh,861.0,23.9797,90.637,Gas
+Bangladesh,109.0,23.9797,90.637,Oil
+Bangladesh,98.0,22.4918,91.8051,Oil
+Bangladesh,11.0,24.2639,91.37899999999999,Gas
+Bangladesh,946.0,23.6839,90.5314,Oil
+Bangladesh,95.0,24.9103,89.9607,Oil
+Bangladesh,100.0,22.2972,91.8062,Oil
+Bangladesh,230.0,22.495,92.21600000000001,Hydro
+Bangladesh,100.0,23.6783,90.4295,Oil
+Bangladesh,100.0,24.366,88.6763,Oil
+Bangladesh,52.0,23.5699,90.4804,Oil
+Bangladesh,510.0,22.8646,89.5357,Gas
+Bangladesh,33.0,24.2276,90.4201,Gas
+Bangladesh,80.0,23.8901,90.0323,Gas
+Bangladesh,33.0,23.755,90.5496,Gas
+Bangladesh,222.0,24.9096,91.83,Gas
+Bangladesh,47.0,26.0383,88.4256,Oil
+Bangladesh,52.0,23.5461,90.7779,Oil
+Bangladesh,105.0,23.897,90.4123,Gas
+Bangladesh,11.0,24.3071,89.5512,Gas
+Belarus,1130.0,52.4538,25.1926,Gas
+Belarus,180.0,53.1895,29.2055,Gas
+Belarus,6.0,52.4141,31.0031,Gas
+Belarus,544.0,52.4492,30.8167,Gas
+Belarus,180.0,53.6675,23.9272,Gas
+Belarus,43.0,53.9011,25.291,Gas
+Belarus,2460.0,54.6803,29.1341,Gas
+Belarus,542.0,53.8799,27.6476,Gas
+Belarus,1035.0,53.872,27.4022,Gas
+Belarus,780.0,53.611999999999995,27.954,Gas
+Belarus,345.0,53.8128,30.3421,Gas
+Belarus,195.0,51.9049,29.3136,Gas
+Belarus,505.0,55.5265,28.549,Gas
+Belarus,73.0,54.4809,30.3926,Gas
+Belarus,155.0,52.6274,29.7708,Gas
+Belarus,75.0,55.1689,30.1355,Gas
+Belarus,54.0,54.0941,28.3505,Gas
+Belgium,18.6,51.0902,3.4469,Oil
+Belgium,128.0,50.6177,5.5837,Gas
+Belgium,95.0,50.5851,5.417999999999999,Biomass
+Belgium,43.0,50.93600000000001,4.0355,Gas
+Belgium,5.0,50.93600000000001,4.0355,Gas
+Belgium,451.0,50.4304,4.3955,Gas
+Belgium,22.1,51.2488,3.2166,Wind
+Belgium,33.2,51.3193,4.853,Oil
+Belgium,18.6,50.9079,4.4155,Oil
+Belgium,1.8,50.4359,6.2106,Hydro
+Belgium,171.0,51.66,2.8,Wind
+Belgium,20.0,51.2119,4.2563,Hydro
+Belgium,22.8,51.2119,4.2563,Gas
+Belgium,18.6,50.2444,5.9302,Oil
+Belgium,1164.0,50.3849,5.8618,Hydro
+Belgium,2910.0,51.3254,4.2597,Nuclear
+Belgium,5.0,50.8023,4.2989999999999995,Gas
+Belgium,48.0,50.8023,4.2989999999999995,Gas
+Belgium,465.0,50.8023,4.2989999999999995,Gas
+Belgium,18.6,50.7303,3.8531,Oil
+Belgium,17.9,51.2234,2.9119,Hydro
+Belgium,25.0,50.2233,4.32,Wind
+Belgium,52.0,51.05,3.7167,Gas
+Belgium,465.0,51.2629,3.2112,Gas
+Belgium,3.0,51.2622,3.2132,Wind
+Belgium,9.9,50.5335,5.2962,Hydro
+Belgium,357.0,51.1049,3.7257,Gas
+Belgium,268.0,51.1341,3.7769999999999997,Biomass
+Belgium,4.5,51.1357,3.7878,Wind
+Belgium,350.0,50.4719,3.8248,Gas
+Belgium,4.5,51.1265,4.3226,Wind
+Belgium,45.0,50.8504,4.3488,Hydro
+Belgium,422.0,51.0586,5.1056,Gas
+Belgium,962.0,50.5342,5.2751,Nuclear
+Belgium,2053.8,50.5342,5.2751,Nuclear
+Belgium,147.6,51.556000000000004,2.9689,Wind
+Belgium,177.6,51.54,2.9210000000000003,Wind
+Belgium,12.0,51.32899999999999,3.1819,Wind
+Belgium,10.5,51.1673,4.3951,Hydro
+Belgium,80.0,50.4116,4.0804,Wind
+Belgium,12.0,51.3596,3.2219,Wind
+Belgium,18.6,51.1424,3.1368,Oil
+Belgium,40.0,51.32899999999999,3.1819,Gas
+Belgium,18.6,51.32899999999999,3.1819,Oil
+Belgium,315.0,51.1587,3.8068,Gas
+Belgium,18.6,51.1896,3.8078,Oil
+Belgium,43.0,51.2382,4.3408,Gas
+Belgium,15.0,51.2382,4.3408,Gas
+Benin,40.5,6.3506,2.4295,Gas
+Benin,20.0,6.4263,2.3066,Oil
+Bhutan,64.0,27.4254,89.9043,Hydro
+Bhutan,336.0,27.1104,89.5313,Hydro
+Bhutan,60.0,27.2162,91.2035,Hydro
+Bhutan,2.2,27.3567,91.6497,Hydro
+Bhutan,1020.0,27.035999999999998,89.5953,Hydro
+Bolivia,36.7,-19.0394,-65.2697,Gas
+Bolivia,10.6,-16.1925,-68.1405,Hydro
+Bolivia,90.0,-17.2424,-64.5409,Gas
+Bolivia,30.0,-16.0456,-67.9939,Hydro
+Bolivia,152.6,-17.2125,-64.5275,Gas
+Bolivia,38.4,-16.4124,-67.7725,Hydro
+Bolivia,34.0,-16.105,-68.067,Hydro
+Bolivia,54.0,-17.2122,-65.8758,Hydro
+Bolivia,24.0,-16.1425,-68.1158,Hydro
+Bolivia,80.42,-16.5653,-68.1811,Gas
+Bolivia,120.0,-21.52,-64.1714,Gas
+Bolivia,350.0,-17.7875,-63.1521,Gas
+Bolivia,30.0,-16.0784,-68.0336,Hydro
+Bolivia,34.0,-16.0416,-67.9566,Hydro
+Bolivia,14.4,-19.551,-65.722,Gas
+Bolivia,11.0,-16.124000000000002,-68.09,Hydro
+Bolivia,42.3,-17.7549,-63.1398,Gas
+Bolivia,93.4,-17.1916,-65.8232,Hydro
+Bosnia and Herzegovina,450.0,44.0899,18.1143,Coal
+Bosnia and Herzegovina,48.5,44.5624,17.135,Hydro
+Bosnia and Herzegovina,75.0,43.3776,17.8449,Hydro
+Bosnia and Herzegovina,60.0,43.2989,17.794,Hydro
+Bosnia and Herzegovina,30.0,43.3375,17.3261,Hydro
+Bosnia and Herzegovina,160.0,43.747,17.6758,Hydro
+Bosnia and Herzegovina,210.0,43.4478,17.8369,Hydro
+Bosnia and Herzegovina,180.0,42.7338,18.4971,Hydro
+Bosnia and Herzegovina,8.0,42.7066,18.3805,Hydro
+Bosnia and Herzegovina,730.0,44.5215,18.6056,Coal
+Bosnia and Herzegovina,300.0,44.6829,18.9671,Coal
+Bosnia and Herzegovina,315.0,43.7603,19.2891,Hydro
+Botswana,732.0,-22.5223,27.0491,Coal
+Botswana,14.0,-21.1667,27.5167,Coal
+Brunei Darussalam,102.0,4.9707,114.9303,Gas
+Brunei Darussalam,110.0,4.8282,114.7461,Gas
+Brunei Darussalam,128.0,4.9111,114.9103,Gas
+Brunei Darussalam,246.0,4.6654,114.4646,Gas
+Bulgaria,200.0,42.1551,25.9072,Coal
+Bulgaria,132.0,43.1964,27.6368,Coal
+Bulgaria,114.0,41.5839,26.1075,Hydro
+Bulgaria,110.0,41.6334,25.3381,Hydro
+Bulgaria,2000.0,43.7438,23.7723,Nuclear
+Bulgaria,120.0,42.232,23.9494,Hydro
+Bulgaria,1604.0,42.0532,25.6231,Coal
+Bulgaria,908.0,42.1421,26.0025,Coal
+Bulgaria,135.0,42.0132,24.2574,Hydro
+Bulgaria,375.0,42.1996,23.8586,Hydro
+Bulgaria,864.0,42.1603,23.8612,Hydro
+Bulgaria,105.0,42.6064,23.0784,Coal
+Bulgaria,180.0,43.8662,26.0093,Coal
+Bulgaria,240.0,42.2083,23.9158,Hydro
+Bulgaria,156.0,43.4229,28.375999999999998,Wind
+Bulgaria,570.0,42.2855,23.0319,Coal
+Bulgaria,120.0,42.0532,25.6231,Coal
+Bulgaria,110.0,42.2569,26.136,Coal
+Burkina Faso,16.0,11.475,-0.546,Hydro
+Burkina Faso,23.846,11.2,-4.3,Oil
+Burkina Faso,14.0,11.07,0.7,Hydro
+Burkina Faso,64.0,12.3703,-1.5247,Oil
+Burkina Faso,58.56,12.3703,-1.5247,Oil
+Burundi,20.0,-2.89,29.12,Hydro
+Burundi,10.4,-3.0833,29.3944,Hydro
+Burundi,19.17,-2.9319,29.5194,Hydro
+Cambodia,2.0,11.5123,104.7165,Biomass
+Cambodia,193.0,10.7041,104.1175,Hydro
+Cambodia,30.0,11.5238,104.87299999999999,Oil
+Cambodia,12.0,11.2377,104.0343,Hydro
+Cambodia,338.0,11.7818,103.0854,Hydro
+Cambodia,23.2,11.7594,104.8242,Waste
+Cameroon,154.2,3.8127,10.1278,Hydro
+Cameroon,16.0,9.3,13.4,Oil
+Cameroon,200.0,3.01,9.96,Gas
+Cameroon,80.0,9.0594,13.6882,Hydro
+Cameroon,10.62,4.0167,9.2,Oil
+Cameroon,396.0,4.078,10.4649,Hydro
+Cape Verde,66.23,14.9,-23.55,Oil
+Cape Verde,11.575,16.7667,-22.9833,Oil
+Cape Verde,10.0,14.927999999999999,-23.545,Oil
+Central African Republic,14.364,4.3833,18.6167,Oil
+Central African Republic,19.3,4.8811,18.0341,Hydro
+Chile,136.0,-37.3646,-71.4894,Hydro
+Chile,2.0,-24.1355,-69.8649,Oil
+Chile,178.0,-33.5012,-70.1927,Hydro
+Chile,3.0,-38.9987,-72.223,Hydro
+Chile,1.98,-45.526,-72.1046,Wind
+Chile,1.5,-37.9658,-72.8269,Oil
+Chile,324.0,-37.7103,-71.8169,Hydro
+Chile,101.3,-39.8009,-73.1852,Oil
+Chile,320.0,-37.3103,-71.6264,Hydro
+Chile,767.8,-23.0898,-70.4168,Gas
+Chile,13.532,-34.8666,-71.1432,Oil
+Chile,13.9,-27.4809,-70.3897,Oil
+Chile,26.0,-32.8535,-70.5061,Hydro
+Chile,112.0,-34.2756,-70.4523,Hydro
+Chile,36.0,-26.3748,-70.0657,Solar
+Chile,10.0,-18.3695,-69.5469,Hydro
+Chile,19.0,-35.6615,-71.3551,Hydro
+Chile,9.0,-43.0914,-73.6155,Oil
+Chile,1.6,-38.2624,-72.6165,Oil
+Chile,11.3,-40.5786,-73.0884,Oil
+Chile,106.0,-35.7872,-70.8084,Hydro
+Chile,33.0,-37.7917,-72.4842,Biomass
+Chile,5.0,-37.5151,-72.6565,Biomass
+Chile,25.0,-37.2895,-72.7114,Biomass
+Chile,474.0,-35.6853,-71.3699,Hydro
+Chile,21.2,-34.2425,-70.6744,Oil
+Chile,7.0,-42.5976,-73.958,Hydro
+Chile,57.71,-32.9304,-71.47399999999999,Oil
+Chile,2.3,-32.9331,-71.4742,Oil
+Chile,9.0,-35.3604,-72.4069,Oil
+Chile,46.81,-36.9676,-73.1686,Gas
+Chile,12.0,-34.2049,-70.5257,Hydro
+Chile,2.4,-38.4528,-71.8194,Oil
+Chile,2.5,-33.1291,-71.557,Oil
+Chile,92.0,-35.8051,-70.9411,Hydro
+Chile,6.0,-42.5678,-73.8945,Hydro
+Chile,2.4,-38.5377,-72.4608,Oil
+Chile,115.0,-30.5793,-71.6981,Wind
+Chile,6.0,-33.6031,-70.3597,Hydro
+Chile,3.0,-37.4229,-72.0818,Hydro
+Chile,2.0,-33.6212,-70.5351,Hydro
+Chile,5.0,-38.8392,-71.7633,Hydro
+Chile,80.83800000000001,-30.1418,-71.2296,Oil
+Chile,23.6691,-26.3923,-70.0396,Oil
+Chile,450.0,-37.2934,-71.4924,Hydro
+Chile,3.0,-33.4274,-71.6369,Oil
+Chile,68.7,-26.3803,-70.0222,Oil
+Chile,1.0,-41.2719,-72.5408,Hydro
+Chile,33.0,-37.5107,-72.4937,Wind
+Chile,36.0,-42.2704,-73.9401,Wind
+Chile,22.2,-34.2421,-70.6741,Oil
+Chile,3.0,-33.6598,-70.7125,Oil
+Chile,6.4,-20.2065,-70.1293,Oil
+Chile,2.0,-33.6079,-70.5106,Hydro
+Chile,7.2,-36.8348,-73.0961,Biomass
+Chile,15.6,-33.9817,-70.6976,Biomass
+Chile,14.0,-36.935,-73.1556,Biomass
+Chile,28.0,-33.5476,-70.5454,Hydro
+Chile,760.0,-28.4673,-71.2573,Coal
+Chile,12.0,-33.6027,-70.3597,Hydro
+Chile,2.2,-37.2864,-72.351,Biomass
+Chile,9.0,-40.9178,-72.4036,Hydro
+Chile,3.0,-40.9178,-72.4036,Hydro
+Chile,6.6,-23.7819,-70.3202,Oil
+Chile,70.0,-35.8104,-70.8357,Hydro
+Chile,29.0,-32.9011,-70.2697,Hydro
+Chile,1.0,-32.9011,-70.2697,Hydro
+Chile,7.0,-41.6813,-72.6455,Hydro
+Chile,163.0,-34.8335,-70.5537,Hydro
+Chile,155.0,-34.7515,-70.7143,Hydro
+Chile,5.0,-30.7004,-71.0373,Hydro
+Chile,65.0,-33.1032,-71.6772,Oil
+Chile,34.0,-37.2441,-72.5302,Hydro
+Chile,71.5,-25.1208,-70.311,Solar
+Chile,2.0,-40.1363,-72.3961,Hydro
+Chile,2.09895,-32.8428,-71.0115,Oil
+Chile,2.0,-33.5927,-70.4696,Hydro
+Chile,6.54,-37.6861,-73.6491,Wind
+Chile,2.4,-37.6154,-73.6694,Oil
+Chile,18.0,-40.618,-72.4014,Hydro
+Chile,19.0,-35.5373,-71.2614,Hydro
+Chile,101.02,-27.1175,-70.1711,Solar
+Chile,2.0,-37.5667,-71.5241,Hydro
+Chile,40.0,-35.7909,-70.9822,Hydro
+Chile,1.2,-38.5528,-71.4293,Oil
+Chile,6.0,-33.6352,-70.5947,Hydro
+Chile,1.0,-40.9849,-72.8861,Hydro
+Chile,1.0,-40.6472,-72.3148,Hydro
+Chile,1.0,-40.6412,-72.3144,Hydro
+Chile,109.6,-31.0299,-71.6571,Wind
+Chile,124.0,-31.883000000000003,-71.4503,Oil
+Chile,25.0,-35.8578,-71.0639,Hydro
+Chile,6.0,-35.8398,-71.0789,Hydro
+Chile,18.0,-30.7447,-70.5875,Hydro
+Chile,3.0,-33.6482,-70.6566,Hydro
+Chile,2.0,-37.5283,-71.7059,Hydro
+Chile,102.839478,-37.0854,-72.3247,Oil
+Chile,40.0,-32.8665,-70.408,Hydro
+Chile,1.5,-37.9658,-72.8269,Oil
+Chile,131.34,-32.8439,-71.0128,Oil
+Chile,3.2,-38.5418,-72.4699,Oil
+Chile,12.6,-37.169000000000004,-72.4087,Biomass
+Chile,26.0,-38.5419,-72.4674,Biomass
+Chile,22.0,-38.5407,-72.4682,Biomass
+Chile,9.0,-35.7859,-70.8076,Hydro
+Chile,115.2,-31.9353,-71.4769,Oil
+Chile,32.0,-38.0452,-71.4713,Hydro
+Chile,467.0,-37.9099,-71.6087,Hydro
+Chile,570.0,-35.7338,-71.1555,Hydro
+Chile,1.0,-40.5567,-72.5161,Hydro
+Chile,85.0,-37.5404,-71.5965,Hydro
+Chile,1.0,-40.329,-72.3226,Hydro
+Chile,41.0,-40.6381,-72.6497,Hydro
+Chile,3.0,-33.1085,-71.5591,Oil
+Chile,2.0,-35.0207,-71.2436,Coal
+Chile,7.5,-20.2717,-69.7559,Solar
+Chile,16.0,-20.2517,-69.7588,Solar
+Chile,14.0,-35.4697,-71.2729,Hydro
+Chile,6.0,-29.9961,-70.8638,Hydro
+Chile,51.0,-39.5957,-72.2175,Hydro
+Chile,20.0,-29.3662,-71.0585,Wind
+Chile,16.609,-29.3668,-71.0429,Oil
+Chile,172.2,-20.8057,-70.1928,Coal
+Chile,1001.7,-22.090999999999998,-70.2126,Coal
+Chile,86.05755,-27.491999999999997,-70.3818,Oil
+Chile,1.0,-32.8489,-71.2267,Oil
+Chile,1.6,-32.8489,-71.2267,Gas
+Chile,46.0,-31.3256,-71.611,Wind
+Chile,81.0,-41.5177,-73.0768,Oil
+Chile,2.8,-37.4914,-73.3208,Oil
+Chile,7.2,-34.0448,-71.6108,Wind
+Chile,10.75,-34.0427,-71.6223,Wind
+Chile,90.0,-22.4803,-68.8236,Wind
+Chile,322.0,-32.7493,-71.4812,Coal
+Chile,13.0,-33.8206,-70.2148,Hydro
+Chile,3.0,-40.591,-73.0973,Oil
+Chile,199.1,-37.1055,-72.2933,Oil
+China,50.0,40.2089,97.3602,Coal
+China,128.0,31.4837,103.6032,Hydro
+China,49.0,43.35,115.9,Wind
+China,4750.0,27.3488,100.5061,Hydro
+China,400.0,41.0791,80.1685,Coal
+China,9.0,34.5434,102.6284,Hydro
+China,20.0,39.14,105.95,Solar
+China,772.0,29.52,103.64,Hydro
+China,25.0,35.2327,103.5145,Hydro
+China,3.0,33.42,117.0,Gas
+China,49.0,32.6739,118.4318,Wind
+China,49.0,32.601,118.535,Wind
+China,49.0,32.67,118.45,Wind
+China,140.0,27.2869,110.0994,Hydro
+China,800.0,32.6,108.88,Hydro
+Czech Republic,2.0,49.7597,12.6738,Solar
+Czech Republic,1.0,50.2562,15.5511,Solar
+Czech Republic,2.5,48.7871,16.0243,Solar
+Czech Republic,29.9,49.1171,14.5886,Solar
+Czech Republic,2.9,48.9325,15.8089,Solar
+Czech Republic,22.5,49.8465,14.4219,Hydro
+Czech Republic,45.0,49.8465,14.4219,Hydro
+Czech Republic,5.6,49.0143,16.5923,Solar
+Czech Republic,1.1,50.0906,16.4822,Solar
+Czech Republic,1.3,50.35,13.5438,Solar
+Czech Republic,1.0,49.0958,16.7265,Solar
+Czech Republic,1.2,49.8686,13.9002,Solar
+Czech Republic,1.0,49.3111,14.648,Solar
+Czech Republic,1.7,49.3425,17.1026,Solar
+Czech Republic,1.7,48.9042,17.3871,Solar
+Czech Republic,2.8,49.9092,15.0648,Solar
+Democratic Republic of the Congo,25.0,-4.9154,11.9362,Gas
+Democratic Republic of the Congo,120.0,-2.9347,16.1278,Hydro
+Democratic Republic of the Congo,1775.0,-5.5267,13.6206,Hydro
+Democratic Republic of the Congo,64.0,-6.3581,22.4472,Hydro
+Democratic Republic of the Congo,42.0,-10.7184,27.2839,Hydro
+Democratic Republic of the Congo,68.0,-10.752,27.245,Hydro
+Democratic Republic of the Congo,74.0,-3.8945,13.7643,Hydro
+Democratic Republic of the Congo,68.0,-10.7452,27.2447,Hydro
+Democratic Republic of the Congo,260.0,-10.3044,25.4068,Hydro
+Democratic Republic of the Congo,228.0,-10.5,25.467,Hydro
+Democratic Republic of the Congo,13.24,-4.7947,11.8461,Oil
+Democratic Republic of the Congo,13.8,-1.2258,29.46,Hydro
+Democratic Republic of the Congo,81.0,-2.6334,28.9027,Hydro
+Democratic Republic of the Congo,75.0,-4.7779,14.9059,Hydro
+Democratic Republic of the Congo,150.0,-4.7779,14.9059,Hydro
+Denmark,14.0,55.6899,12.633,Geothermal
+Denmark,330.0,55.6859,12.6264,Coal
+Denmark,399.6,56.603,11.209000000000001,Wind
+Denmark,787.0,55.6599,11.0843,Coal
+Denmark,815.0,55.6035,12.4812,Coal
+Denmark,11.0,55.6022,12.4611,Wind
+Denmark,207.0,54.5228,11.5447,Wind
+Denmark,17.0,56.663000000000004,8.2202,Wind
+Denmark,23.0,55.72,10.5801,Wind
+Denmark,392.0,55.513000000000005,9.6128,Gas
+Denmark,2.1,55.0344,9.8195,Solar
+Denmark,21.0,55.3436,10.9603,Wind
+Denmark,264.0,55.2079,11.2528,Coal
+Denmark,730.0,56.2521,10.3423,Coal
+Denmark,81.0,55.7131,12.588,Gas
+Denmark,5.0,55.9694,10.3556,Wind
+Denmark,5.0,54.97,11.1301,Wind
+Djibouti,107.33200000000001,11.5759,43.1569,Oil
+Dominican Republic,319.0,18.4074,-69.6343,Gas
+Dominican Republic,45.6,18.2213,-71.0867,Coal
+Dominican Republic,184.9,18.424,-70.0209,Oil
+Dominican Republic,260.0,18.4058,-70.0271,Coal
+Dominican Republic,52.0,17.8726,-71.2892,Wind
+Dominican Republic,42.0,18.4361,-69.947,Oil
+Dominican Republic,30.0,18.8198,-69.7901,Solar
+Dominican Republic,100.1,18.3507,-70.8332,Oil
+Dominican Republic,81.6,18.9228,-71.01,Hydro
+Dominican Republic,430.0,18.4931,-69.3509,Oil
+Dominican Republic,85.0,18.4515,-69.3172,Oil
+Dominican Republic,96.0,19.3104,-70.7437,Hydro
+Ecuador,10.0,-1.9,-78.4833,Hydro
+Ecuador,95.0,-2.1667,-79.9,Gas
+Ecuador,18.0,1.7167,-78.7667,Hydro
+Ecuador,19.74,-3.9833,-79.35,Oil
+Ecuador,133.0,-2.2519,-79.91,Oil
+Ecuador,1500.0,0.1443,-77.617,Hydro
+Ecuador,181.0,-2.2333,-80.0667,Gas
+Ecuador,132.5,0.9266,-79.6878,Oil
+Ecuador,96.0,0.9349,-79.6914,Oil
+Ecuador,146.0,2.1957,-79.9539,Gas
+Ecuador,34.32,-0.2299,-78.525,Oil
+Ecuador,20.92,-0.25,-78.45,Hydro
+Ecuador,52.3,0.0333,-78.15,Oil
+Ecuador,1100.0,-2.595,-78.2274,Hydro
+Ecuador,51.3,-0.3667,-78.55,Gas
+Ecuador,24.0,-2.7833,-79.0,Hydro
+Ecuador,14.4,-2.8167,-79.0,Hydro
+Ecuador,15.0,-1.5833,-79.4333,Hydro
+Ecuador,487.0,-2.5938,-78.5666,Hydro
+Egypt,2236.0,31.2694,30.1409,Gas
+Egypt,600.0,30.4025,32.3086,Gas
+Egypt,66.0,31.1162,33.6824,Gas
+Egypt,90.0,27.1757,31.2013,Oil
+Egypt,550.0,23.9721,32.8828,Hydro
+Egypt,143.0,27.122,33.82,Oil
+Egypt,440.0,31.1293,30.1932,Gas
+Egypt,23.0,31.176,29.914,Oil
+Egypt,2754.0,29.2693,31.224,Gas
+Egypt,120.0,29.2793,31.2486,Gas
+Egypt,317.0,31.1759,30.5289,Gas
+Egypt,60.0,31.3525,27.2453,Gas
+Egypt,64.0,26.1522,32.1453,Hydro
+Egypt,500.0,31.3822,31.7196,Gas
+Egypt,1000.0,30.4653,31.9234,Gas
+Egypt,2250.0,30.2483,30.9471,Gas
+Egypt,2250.0,30.6993,30.6671,Gas
+Egypt,600.0,30.054000000000002,31.0456,Gas
+Egypt,640.0,29.9115,32.5948,Gas
+Egypt,48.0,31.2563,32.3171,Gas
+Egypt,683.0,31.0995,32.5202,Gas
+Egypt,100.0,30.4659,31.9269,Gas
+Egypt,144.0,27.8773,34.3048,Oil
+Egypt,1295.0,30.1239,31.2376,Gas
+Egypt,2092.0,31.043000000000003,29.6652,Gas
+Egypt,683.0,29.6188,32.3532,Gas
+Egypt,1460.0,31.0622,31.3921,Gas
+Egypt,100.0,29.8757,31.3194,Gas
+Egypt,600.0,27.2111,31.1614,Oil
+Egypt,547.0,29.2392,32.5983,Wind
+El Salvador,180.2,13.6231,-88.5602,Hydro
+El Salvador,324.0,13.5834,-89.8239,Oil
+El Salvador,95.0,13.9202,-89.8174,Geothermal
+El Salvador,109.0,13.525,88.5089,Geothermal
+El Salvador,170.0,13.9386,-88.9014,Hydro
+El Salvador,99.4,13.9908,-88.7579,Hydro
+El Salvador,19.7,14.2279,-89.4727,Hydro
+El Salvador,151.2,13.7778,-89.2013,Oil
+Equatorial Guinea,10.5,3.7806,8.7196,Gas
+Equatorial Guinea,120.0,1.5758,10.4687,Hydro
+Equatorial Guinea,20.0,3.75,8.79,Gas
+Eritrea,33.1,15.4211,38.9221,Oil
+Eritrea,100.09,15.5786,39.4422,Oil
+Estonia,24.0,59.4521,26.8259,Wind
+Estonia,48.0,59.086999999999996,23.6144,Wind
+Estonia,472.0,59.3533,28.1185,Oil
+Estonia,1369.0,59.2748,27.9046,Oil
+Estonia,173.0,59.4514,24.9246,Gas
+Estonia,250.0,59.2439,24.7064,Gas
+Estonia,12.0,58.446000000000005,23.7385,Wind
+Estonia,18.4,59.3806,24.0568,Wind
+Estonia,45.0,59.3717,24.0808,Wind
+Estonia,6.0,58.4924,23.6855,Wind
+Estonia,36.0,58.6286,23.5307,Wind
+Estonia,9.0,59.1211,23.5657,Wind
+Estonia,2.6,58.5637,23.5086,Wind
+Estonia,6.9,58.5913,23.5298,Wind
+Estonia,6.9,58.5659,23.5333,Wind
+Estonia,24.0,59.4427,26.7654,Wind
+Ethiopia,204.0,8.5913,39.2495,Wind
+Ethiopia,7.3,7.7886,38.7947,Geothermal
+Ethiopia,64.0,8.3932,39.352,Hydro
+Ethiopia,460.0,11.8196,36.9181,Hydro
+Ethiopia,134.0,9.558,37.3663,Hydro
+Ethiopia,100.0,9.558,37.3663,Hydro
+Ethiopia,184.0,7.8349,37.3236,Hydro
+Ethiopia,420.0,7.7571,37.5624,Hydro
+Ethiopia,1870.0,6.8482,37.3018,Hydro
+Ethiopia,43.2,8.4684,39.1588,Hydro
+Ethiopia,153.0,7.1761,39.4311,Hydro
+Ethiopia,300.0,13.3492,38.7405,Hydro
+Ethiopia,84.4,11.4887,37.5999,Hydro
+Fiji,10.1,-18.1129,177.5057,Wind
+Fiji,48.0,-18.1127,178.4799,Oil
+Fiji,10.0,-16.4299,179.3887,Biomass
+Fiji,40.0,-17.6671,177.9413,Hydro
+Fiji,5.0,-17.5442,177.68200000000002,Biomass
+Fiji,9.3,-17.5893,177.5355,Biomass
+Fiji,3.0,-17.7401,177.5469,Hydro
+Fiji,20.0,-17.6806,177.4304,Oil
+Fiji,3.0,-16.7844,-179.9777,Oil
+Finland,24.0,60.5,26.5,Hydro
+Finland,44.8,63.7833,25.9667,Hydro
+Finland,4.6,62.55,29.25,Hydro
+Finland,1.3,60.4567,22.6869,Hydro
+Finland,6.5,62.8924,27.677,Hydro
+Finland,4.19,61.4991,23.7871,Hydro
+Finland,332.6,60.7905,23.5866,Oil
+Finland,32.5,65.3333,25.2833,Hydro
+Finland,118.1,62.8924,27.677,Biomass
+Finland,154.0,64.1333,25.3667,Biomass
+French Guiana,72.0,4.8632,-52.2756,Gas
+French Guiana,40.0,4.8626,-52.2748,Oil
+French Guiana,20.0,5.1636,-52.6702,Gas
+French Guiana,2.0,5.1636,-52.6702,Biomass
+French Guiana,113.6,5.0627,-53.0476,Hydro
+Gabon,57.6,0.455,10.280999999999999,Hydro
+Gabon,77.0,0.3433,9.4784,Gas
+Gabon,68.3,-0.7539,8.7536,Gas
+Gabon,160.0,-1.7733,13.552,Hydro
+Gabon,15.51,-1.9,9.4833,Oil
+Gabon,68.4,0.621,10.407,Hydro
+Gambia,29.0,13.4689,-16.6241,Oil
+Gambia,41.4,13.4542,-16.6961,Oil
+Georgia,16.0,41.5841,41.8903,Hydro
+Georgia,21.0,41.7914,43.302,Hydro
+Georgia,80.0,42.2629,42.9582,Hydro
+Georgia,840.0,41.4728,45.0635,Gas
+Georgia,110.0,41.4797,45.0667,Gas
+Georgia,68.8,42.3202,42.70399999999999,Hydro
+Georgia,1300.0,42.7584,42.0309,Hydro
+Georgia,112.0,41.5489,44.1235,Hydro
+Georgia,110.0,41.5461,44.1277,Hydro
+Georgia,113.0,42.589,42.8519,Hydro
+Georgia,18.0,41.6831,44.8266,Hydro
+Georgia,48.0,42.2006,42.7258,Hydro
+Georgia,14.0,41.7048,44.9328,Hydro
+Georgia,38.4,42.3637,43.0034,Hydro
+Georgia,220.0,42.6524,41.7619,Hydro
+Georgia,256.0,42.1545,42.7088,Hydro
+Georgia,36.2,41.8226,44.76,Hydro
+Georgia,130.0,42.1349,44.7721,Hydro
+Germany,85.3,48.2518,12.5873,Hydro
+Germany,4.2,52.1667,13.5649,Solar
+Germany,29.0,48.3801,10.9014,Gas
+Germany,10.5,47.8032,10.9043,Hydro
+Germany,13.3,53.0867,14.3194,Biomass
+Germany,16.0,52.0778,13.5173,Biomass
+Germany,340.0,53.2641,14.048,Wind
+Germany,6.5,48.355,9.8689,Solar
+Germany,12.4,48.2374,10.9272,Hydro
+Germany,33.6,50.8132,9.9775,Gas
+Germany,1.5,48.6801,10.5418,Solar
+Germany,14.2,48.0613,10.1284,Hydro
+Germany,10.0,50.1422,11.5303,Solar
+Germany,3.8,54.852,8.8939,Solar
+Germany,25.0,48.4735,11.9548,Hydro
+Germany,18.0,48.5152,12.100999999999999,Hydro
+Germany,10.1,47.716,10.8258,Hydro
+Germany,1.6,50.659,10.5631,Solar
+Germany,52.0,50.8614,6.8407,Coal
+Germany,52.7,51.7733,13.600999999999999,Solar
+Germany,5.4,51.4582,11.2152,Solar
+Germany,5.2,54.8445,8.6666,Solar
+Germany,24.1,48.056999999999995,12.2207,Hydro
+Germany,11.6,51.0167,6.9833,Waste
+Germany,101.0,53.5663,9.7285,Oil
+Germany,260.0,53.567,9.7244,Coal
+Germany,14.0,51.6055,6.1529,Solar
+Germany,910.0,47.6453,7.9182,Hydro
+Germany,655.6,49.3341,7.0314,Coal
+Germany,1.4,48.3797,11.2861,Solar
+Germany,1.0,50.994,11.3403,Solar
+Germany,1800.0,50.8392,6.3211,Coal
+Germany,18.6,51.5891,14.1413,Solar
+Germany,79.7,51.7422,10.9188,Hydro
+Germany,1.7,50.7144,12.3825,Solar
+Germany,16.8,51.9848,9.8228,Biomass
+Germany,20.0,51.9851,9.8225,Gas
+Germany,18.8,52.63399999999999,13.7603,Solar
+Germany,2.2,52.6423,13.7523,Solar
+Germany,9.9,53.0611,8.8649,Hydro
+Germany,2.0,51.8119,8.5154,Solar
+Germany,1.0,51.8178,8.5236,Solar
+Germany,1049.0,51.6805,7.9696,Coal
+Germany,2.9,49.2283,8.3208,Solar
+Germany,4.1,49.4275,7.2159,Solar
+Germany,31.7,50.0405,8.2532,Biomass
+Germany,5.2,51.4507,12.1909,Solar
+Germany,757.0,53.5658,8.1462,Coal
+Germany,56.0,53.5658,8.1462,Oil
+Germany,828.0,52.4816,13.3076,Oil
+Germany,31.5,52.7002,11.9387,Wind
+Germany,117.0,52.7002,11.9387,Wind
+Germany,76.5,51.8686,13.5491,Wind
+Germany,116.7,52.1651,11.2742,Wind
+Germany,143.0,54.4856,11.1097,Wind
+Germany,82.7,52.1663,11.2847,Wind
+Germany,92.4,52.5174,11.7882,Wind
+Germany,89.1,51.5452,13.8652,Wind
+Germany,189.312,54.6409,9.0139,Wind
+Germany,113.4,53.692,6.475,Wind
+Germany,94.5,51.9605,11.6207,Wind
+Germany,109.5,50.894,9.9972,Gas
+Germany,20.0,49.8798,6.9488,Hydro
+Germany,8.6,53.8985,11.4851,Solar
+Germany,6.2,48.6965,12.9739,Solar
+Germany,3.9,53.0172,11.758,Solar
+Germany,220.0,47.6879,8.2516,Hydro
+Germany,9.0,53.4596,13.5638,Solar
+Germany,2.7,51.8221,11.9222,Solar
+Germany,3.0,52.5614,12.9516,Solar
+Germany,31.0,51.1666,12.0762,Coal
+Germany,5.3,50.3953,8.8275,Solar
+Germany,7.8,52.1844,13.475999999999999,Solar
+Germany,5.6,49.8289,8.1322,Solar
+Germany,27.0,51.0144,6.9873,Gas
+Germany,2.5,52.535,12.3626,Waste
+Germany,5.5,53.3646,11.8763,Solar
+Germany,3.3,51.9172,12.7656,Solar
+Germany,138.9,52.7271,12.0112,Biomass
+Germany,13.6,49.9511,7.0232,Hydro
+Germany,12.0,51.9955,12.1298,Solar
+Germany,52.0,52.2985,11.6796,Gas
+Germany,528.0,48.4554,11.7995,Biomass
+Germany,4.0,51.352,12.1334,Solar
+Germany,3.8,51.4611,12.2528,Solar
+Ghana,1038.0,6.2998,0.0594,Hydro
+Ghana,400.0,8.1822,-2.1661,Hydro
+Ghana,160.0,6.1201,0.1255,Hydro
+Ghana,330.0,4.8833,-1.75,Gas
+Ghana,160.0,5.67,-0.02,Gas
+Greece,1585.0,40.3941,21.9256,Coal
+Greece,360.0,37.9539,23.6104,Gas
+Greece,4.9,37.0839,21.6301,Solar
+Greece,1.5,37.4701,23.4181,Solar
+Greece,420.0,38.3896,24.0524,Gas
+Greece,600.0,40.6192,21.6832,Coal
+Greece,24.0,38.0773,23.6544,Waste
+Greece,108.0,40.4738,22.2421,Hydro
+Greece,8.0,37.9245,23.9483,Solar
+Greece,102.0,35.0038,26.1397,Oil
+Greece,6.0,40.86,22.6719,Solar
+Greece,320.0,38.7413,21.3654,Hydro
+Greece,4.9,37.8842,21.256,Solar
+Greece,437.0,37.9208,23.0665,Gas
+Greece,485.0,41.0646,25.4899,Gas
+Greece,4.9,37.9598,21.3475,Solar
+Greece,2.0,37.6502,22.6556,Solar
+Greece,437.0,38.8904,21.4996,Hydro
+Greece,18.0,37.479,23.1277,Wind
+Greece,70.0,37.7654,21.9829,Hydro
+Greece,4.8,38.1311,21.4468,Solar
+Greece,193.0,35.34,25.0523,Oil
+Greece,10.0,39.2514,20.8657,Hydro
+Greece,34.2,41.0931,25.9346,Wind
+Greece,1.9,41.0576,24.8927,Solar
+Greece,850.0,37.4162,22.0675,Coal
+Greece,811.0,37.418,22.1083,Gas
+Greece,160.0,39.4646,21.3021,Hydro
+Greece,315.0,40.3954,22.1913,Hydro
+Greece,10.0,39.1463,22.0629,Hydro
+Greece,206.0,36.3789,28.0186,Oil
+Greece,150.0,38.6788,21.3254,Hydro
+Greece,6.4,37.9009,21.2364,Solar
+Greece,160.0,39.3136,21.413,Hydro
+Greece,11.2,38.2863,24.2386,Wind
+Greece,21.0,38.3313,24.1926,Wind
+Greece,12.0,38.2713,24.2366,Wind
+Greece,390.0,40.6872,22.885,Gas
+Greece,381.0,41.3537,24.3629,Hydro
+Greece,421.0,38.2365,22.95,Gas
+Greece,5.0,38.3739,23.3613,Solar
+Greece,2.0,37.5116,22.4181,Solar
+Greece,2.0,39.3675,22.8825,Solar
+Guatemala,90.0,14.29,-90.505,Hydro
+Guatemala,170.0,13.96,-90.79799999999999,Oil
+Guatemala,119.0,14.12,-90.93,Biomass
+Guatemala,4.6,15.4,-89.76299999999999,Hydro
+Guatemala,300.0,15.28,-90.491,Hydro
+Guatemala,9.7,15.44,-89.74,Hydro
+Guatemala,27.5,14.33,-90.787,Biomass
+Guatemala,30.2,14.17,-90.67200000000001,Coal
+Guatemala,5.0,14.33,-91.01,Oil
+Guatemala,5.8,14.4,-90.70299999999999,Hydro
+Guatemala,76.9,14.49,-91.398,Biomass
+Guatemala,85.0,15.5,-90.874,Hydro
+Guatemala,7.3,14.56,-91.363,Hydro
+Guatemala,82.0,14.33,-90.993,Biomass
+Guatemala,12.8,15.06,-89.711,Hydro
+Guatemala,129.4,13.92,-90.786,Oil
+Guatemala,12.5,14.32,-90.463,Hydro
+Guatemala,59.0,13.92,-90.786,Oil
+Guatemala,68.1,15.5,-90.17399999999999,Hydro
+Guatemala,10.0,15.36,-88.726,Hydro
+Guatemala,44.0,14.24,-90.81700000000001,Oil
+Guatemala,48.0,14.36,-90.556,Wind
+Guatemala,5.0,14.37,-90.806,Biomass
+Guatemala,3.9,15.1,-90.118,Hydro
+Guatemala,139.0,14.16,-90.787,Coal
+Guatemala,104.5,14.24,-90.84200000000001,Biomass
+Guatemala,44.0,14.35,-91.064,Biomass
+Guatemala,6.0,14.72,-91.523,Hydro
+Guatemala,17.0,15.3,-90.14299999999999,Hydro
+Guatemala,16.5,15.41,-89.779,Hydro
+Guatemala,5.0,14.98,-89.65100000000001,Solar
+Guatemala,51.0,14.26,-90.79899999999999,Oil
+Guatemala,80.0,14.25,-90.807,Oil
+Guatemala,86.8,14.15,-90.84100000000001,Biomass
+Guatemala,50.0,14.51,-91.586,Biomass
+Guatemala,23.1,14.36,-90.556,Wind
+Guatemala,2.1,15.6,-90.398,Hydro
+Guatemala,94.0,15.62,-91.085,Hydro
+Guatemala,28.6,14.77,-91.505,Geothermal
+Guinea,45.0,10.9333,-14.3,Hydro
+Guinea,15.0,9.95,-12.995,Hydro
+Guinea,75.0,10.5283,-12.6635,Hydro
+Guinea,28.32,9.9211,-13.0986,Hydro
+Guinea,240.0,10.4627,-13.2765,Hydro
+Guinea,26.28,10.6667,-14.6,Oil
+Guinea,16.57,11.097000000000001,-13.79,Oil
+Guinea,15.0,10.75,-11.1167,Hydro
+Guinea,49.25,9.5092,-13.7122,Oil
+Guinea-Bissau,18.237000000000002,11.8833,-15.6333,Oil
+Guyana,22.0,6.8136,-58.1649,Oil
+Guyana,36.3,6.8228,-58.1654,Oil
+Guyana,30.0,5.8803,-57.1497,Biomass
+Guyana,22.0,6.7891,-58.1893,Oil
+Guyana,26.0,6.809,-58.178999999999995,Oil
+Honduras,61.0,13.2273,-87.2096,Solar
+Honduras,4.0,15.2834,-87.8882,Biomass
+Honduras,126.0,13.9321,-87.2324,Wind
+Honduras,80.0,13.4043,-87.3205,Oil
+Honduras,231.0,13.4047,-87.3269,Oil
+Honduras,30.0,13.6869,-87.3605,Hydro
+Honduras,24.55,13.4068,-87.3218,Solar
+Honduras,39.0,14.7471,-88.9518,Geothermal
+Honduras,80.0,15.0404,-87.98200000000001,Hydro
+Honduras,2.77,15.0615,-85.8342,Hydro
+Honduras,8.0,14.248,-86.9936,Biomass
+Honduras,100.0,13.5158,-87.5564,Solar
+Hungary,401.0,47.428000000000004,19.0525,Gas
+Hungary,95.0,47.5185,21.6329,Gas
+Hungary,840.7,47.3283,18.9169,Gas
+Hungary,45.8,46.0641,18.2646,Gas
+Hungary,426.6,47.7384,17.8033,Gas
+Hungary,173.0,47.4624,19.0563,Gas
+Hungary,109.2,47.4568,19.1673,Gas
+Hungary,170.0,47.7164,19.6778,Oil
+Hungary,851.6,47.7886,20.066,Coal
+Hungary,220.0,47.5017,18.2701,Coal
+Hungary,1886.8,46.5739,18.8536,Nuclear
+Hungary,864.0,47.9178,21.0784,Gas
+Iceland,8.0,64.5386,-21.695,Hydro
+Iceland,3.0,65.6408,-16.8565,Geothermal
+Iceland,150.0,65.4158,-19.8198,Hydro
+Iceland,270.0,64.1052,-19.8335,Hydro
+Iceland,95.0,64.2355,-19.3707,Hydro
+Iceland,690.0,64.9471,-15.7931,Hydro
+Iceland,213.0,64.0373,-21.4007,Geothermal
+Iceland,210.0,64.2009,-19.2406,Hydro
+Iceland,60.0,65.7035,-16.7735,Geothermal
+Iceland,27.0,65.5069,-14.3656,Hydro
+Iceland,14.0,65.8182,-17.314,Hydro
+Iceland,14.6,64.0944,-21.0107,Hydro
+Iceland,120.0,64.1081,-21.2567,Geothermal
+Iceland,100.0,63.8251,-22.6848,Geothermal
+Iceland,150.0,64.1733,-19.1272,Hydro
+Iceland,26.0,64.12899999999999,-21.0266,Hydro
+Iceland,120.0,64.1672,-19.6212,Hydro
+Iceland,76.0,63.8788,-22.4332,Geothermal
+Iceland,90.0,64.1966,-19.0341,Hydro
+Iceland,48.0,64.0875,-21.0077,Hydro
+India,98.0,24.7663,74.609,Coal
+India,39.2,21.9038,69.3732,Wind
+India,135.0,23.8712,91.3602,Gas
+India,1200.0,21.9603,82.4091,Coal
+India,250.0,23.7689,68.6447,Coal
+India,60.0,10.4547,77.0078,Hydro
+India,192.0,32.2258,77.207,Hydro
+India,290.0,16.33,75.8863,Hydro
+India,210.0,23.1642,81.6373,Coal
+India,1350.0,21.0782,77.9009,Coal
+India,134.0,31.2717,76.4938,Hydro
+India,1200.0,24.2007,82.8,Coal
+India,16.95,31.2412,77.8769,Hydro
+India,2630.0,24.201,82.7891,Coal
+India,419.33,25.1797,76.3188,Gas
+India,15.0,16.2774,74.7111,Biomass
+India,10.0,15.1831,76.7909,Coal
+India,18.0,15.1777,77.1036,Coal
+India,1700.0,15.1932,76.7195,Coal
+India,39.2,13.7008,75.6373,Hydro
+India,41.0,13.8274,75.7131,Coal
+India,1325.0,31.4107,76.4328,Hydro
+India,15.0,21.232,79.6311,Coal
+India,10.0,21.0813,79.7708,Biomass
+India,34.0,19.5555,73.8087,Hydro
+India,16.0,18.1012,73.7252,Hydro
+India,15.0,19.5132,73.4173,Hydro
+India,30.0,11.331,77.758,Hydro
+India,30.0,11.2428,77.8659,Hydro
+India,30.0,11.3842,77.7145,Hydro
+India,30.0,18.2416,74.7529,Coal
+India,500.0,21.184,81.4237,Coal
+India,300.0,18.455,73.3907,Hydro
+India,80.0,18.4426,73.3498,Hydro
+India,75.0,18.9368,73.4527,Hydro
+India,1420.0,21.0483,75.8425,Coal
+India,10.0,25.2267,74.6216,Biomass
+India,99.0,24.2508,78.1606,Coal
+India,500.0,23.3172,78.1336,Coal
+India,69.6,24.8263,73.0901,Coal
+India,6.0,32.1121,76.6537,Hydro
+India,20.0,23.3256,81.0333,Hydro
+India,500.0,23.6783,86.0888,Coal
+India,250.0,26.5145,90.5287,Coal
+India,40.0,21.2083,74.1543,Wind
+India,63.96,9.9975,76.3744,Oil
+India,165.0,10.074,76.3188,Oil
+India,750.0,22.4673,88.14,Coal
+India,70.0,32.4584,76.532,Hydro
+India,81.5,20.9225,78.9535,Oil
+India,600.0,20.9286,78.9333,Coal
+India,1.0,18.0791,76.1807,Solar
+India,1.0,28.3683,73.5286,Solar
+India,11.2,10.7389,77.416,Wind
+India,15.0,27.3827,72.3188,Solar
+India,10.0,27.3893,72.3134,Solar
+India,5.0,27.3525,72.3554,Solar
+India,5.0,27.3851,72.3042,Solar
+India,20.0,21.5967,69.843,Solar
+India,15.0,21.6024,69.8441,Solar
+India,36.3,27.4387,72.3245,Solar
+India,10.0,27.4523,72.3388,Solar
+India,1.0,26.7272,70.8304,Wind
+India,1.7,16.4961,74.5417,Wind
+India,24.8,15.4038,75.5625,Wind
+India,50.4,15.9349,74.7007,Wind
+India,150.0,23.0544,68.8782,Wind
+India,5.0,23.6688,71.5782,Solar
+India,98.7,23.6756,75.0565,Wind
+India,310.0,22.3758,73.1017,Gas
+India,39.0,23.0272,69.9494,Wind
+India,35.0,25.1521,76.182,Gas
+India,10.5,32.2417,76.2787,Hydro
+India,648.0,21.8242,73.1136,Gas
+India,15.0,34.2236,74.7781,Hydro
+India,630.0,25.2502,72.6765,Coal
+India,115.0,24.6997,75.5529,Hydro
+India,77.65,31.268,76.492,Hydro
+India,468.57,17.0386,82.1286,Gas
+India,120.0,19.9324,79.104,Coal
+India,23.1,17.1309,73.9765,Wind
+India,22.5,31.5425,77.7786,Hydro
+India,32.0,16.1424,74.6447,Hydro
+India,250.0,19.5334,73.6509,Hydro
+India,920.0,30.2666,75.1661,Coal
+India,30.0,19.9306,79.12,Coal
+India,250.0,26.0446,71.2535,Coal
+India,60.0,30.5307,77.4968,Hydro
+India,23.1,14.6534,75.8613,Wind
+India,600.0,20.2723,78.9793,Coal
+India,440.0,30.2335,74.9247,Coal
+India,205.24,17.0587,82.3097,Gas
+India,540.0,31.3841,75.1464,Coal
+India,25.0,20.0058,79.1845,Coal
+India,768.0,16.9248,81.8111,Gas
+India,55.0,17.1084,77.1325,Coal
+India,15.0,23.4263,91.8223,Hydro
+India,25.6,15.3418,75.5868,Wind
+India,3.0,27.4269,72.3896,Solar
+India,5.0,27.4296,72.3969,Solar
+India,1.0,23.1534,72.669,Solar
+India,5.0,11.6117,92.7109,Solar
+India,50.0,27.6003,72.2241,Solar
+India,1.0,26.6532,72.5377,Solar
+India,5.0,18.3055,76.6551,Solar
+India,7.5,21.3131,69.9187,Wind
+India,1.8,30.4613,74.6188,Solar
+India,5.0,25.86,74.6567,Solar
+India,3.0,28.4272,77.1596,Solar
+India,600.0,22.1042,88.1764,Coal
+India,36.0,15.2615,76.3379,Hydro
+India,24.0,16.6038,74.4045,Biomass
+India,120.0,22.604,82.5977,Hydro
+India,25.5,17.1202,76.4004,Biomass
+India,156.1,22.3256,69.7399,Gas
+India,351.0,21.1652,72.6613,Gas
+India,18.9,19.2829,77.1384,Biomass
+India,331.5,21.5337,83.8754,Hydro
+India,25.0,13.9808,76.6279,Biomass
+India,34.4,15.3654,75.5639,Wind
+India,25.5,21.3027,74.3091,Wind
+India,21.0,10.8674,77.4588,Wind
+India,427.5,22.7554,86.2491,Coal
+India,2340.0,25.2349,87.2635,Coal
+India,880.0,14.865,74.4385,Nuclear
+India,1100.0,18.3835,79.8265,Coal
+India,50.0,9.3275,76.9717,Hydro
+India,440.0,21.2384,73.3489,Nuclear
+India,855.0,15.2761,74.5268,Hydro
+India,100.0,15.2761,74.5268,Hydro
+India,1200.0,24.5295,76.0986,Coal
+India,15.0,8.9553,77.0697,Hydro
+India,30.0,17.3821,77.4389,Coal
+India,12.0,24.6266,80.831,Coal
+India,1050.0,20.87,85.2671,Coal
+India,4.0,17.7384,73.917,Hydro
+India,16.0,17.1657,74.2459,Biomass
+India,32.5,10.9325,79.8216,Gas
+India,100.0,25.9552,92.5171,Hydro
+India,1000.0,31.5156,78.1073,Hydro
+India,3.75,34.5605,76.1299,Hydro
+India,119.8,11.1208,79.5287,Gas
+India,270.0,22.389,82.5549,Coal
+India,21.84,12.4837,74.9929,Oil
+India,10.0,22.1335,75.4568,Coal
+India,291.0,27.340999999999998,95.40799999999999,Gas
+India,1320.0,24.7773,76.737,Coal
+India,645.0,21.175,72.6879,Gas
+India,350.0,9.2404,76.4283,Gas
+India,18.0,14.7753,75.3131,Biomass
+India,26.0,12.702,76.9787,Biomass
+India,12.0,15.315999999999999,76.2507,Coal
+India,1940.0,21.2414,79.096,Coal
+India,2600.0,22.3881,82.6858,Coal
+India,940.0,22.3828,82.7188,Coal
+India,1340.0,22.4118,82.6888,Coal
+India,20.0,26.497,86.9549,Hydro
+India,1240.0,25.1712,75.8171,Coal
+India,125.0,25.1386,75.8883,Coal
+India,400.0,30.2594,78.4971,Hydro
+India,77.65,31.268,76.492,Hydro
+India,107.0,10.5415,79.4507,Gas
+India,1956.0,17.4599,73.684,Hydro
+India,12.0,10.9328,77.0912,Wind
+India,30.0,30.4289,77.6296,Hydro
+India,555.0,11.2861,76.6511,Hydro
+India,1000.0,8.1691,77.1327,Nuclear
+India,16.5,16.2651,75.5302,Biomass
+India,90.0,27.0786,82.0841,Coal
+India,290.0,23.6626,68.7843,Coal
+India,21.0,9.9356,77.1068,Hydro
+India,101.0,11.075999999999999,79.57,Gas
+India,125.0,11.5484,75.8988,Hydro
+India,100.0,11.5484,75.8988,Hydro
+India,50.0,24.0529,80.6144,Coal
+India,60.0,25.7848,91.7895,Hydro
+India,720.0,17.6219,80.6936,Coal
+India,1000.0,17.6219,80.6936,Coal
+India,1340.0,21.2818,79.116,Coal
+India,75.6,27.0931,70.9996,Wind
+India,648.0,9.3381,78.3917,Solar
+India,15.0,23.35,70.388,Solar
+India,6.0,8.3091,77.6191,Wind
+India,5.0,27.224,74.2524,Solar
+India,40.0,27.2089,74.2553,Solar
+India,2.0,21.316999999999997,78.6025,Solar
+India,2.0,21.3174,78.6001,Solar
+India,10.0,23.443,73.2014,Solar
+India,5.2,18.6051,75.0381,Solar
+India,20.0,27.3225,71.9951,Solar
+India,10.0,27.3247,71.991,Solar
+India,25.0,24.0682,76.589,Solar
+India,5.0,23.3578,70.0548,Solar
+India,15.0,23.3618,70.0536,Solar
+India,1.0,27.301,72.3236,Solar
+India,20.8,21.166999999999998,74.3272,Wind
+India,24.0,26.6797,71.02600000000001,Wind
+India,33.0,23.3183,68.6988,Wind
+India,56.25,10.6558,77.2471,Wind
+India,3.0,11.0951,76.6709,Wind
+India,2000.0,8.1689,77.7126,Nuclear
+India,25.0,25.6732,76.1901,Coal
+India,157.2,27.0221,94.8833,Oil
+India,1980.0,24.7971,78.6463,Coal
+India,126.0,31.7196,77.212,Hydro
+India,440.0,12.5571,80.1754,Nuclear
+India,114.75,18.5323,82.4645,Hydro
+India,4.5,12.2135,77.0225,Hydro
+India,40.0,25.5623,77.8348,Hydro
+India,540.0,22.8395,86.0613,Coal
+India,600.0,24.0077,82.4172,Coal
+India,1320.0,28.49,76.351,Coal
+India,15.0,20.8558,78.5814,Biomass
+India,140.0,23.5443,74.5062,Hydro
+India,22.0,19.0162,72.8963,Oil
+India,31.4,24.2021,80.7997,Coal
+India,63.2,23.7872,86.8284,Hydro
+India,1050.0,23.8209,86.76,Coal
+India,186.0,32.0041,77.2494,Hydro
+India,9.0,15.3773,76.4591,Hydro
+India,394.0,30.7294,78.4238,Hydro
+India,166.5,12.9821,74.8496,Gas
+India,25.0,24.7176,75.9522,Coal
+India,9.0,13.6763,75.0462,Hydro
+India,6.0,19.2345,73.8144,Hydro
+India,50.0,19.7235,79.1761,Coal
+India,12.0,9.3294,76.8798,Hydro
+India,45.0,19.703,79.2206,Coal
+India,1000.0,22.0708,82.6022,Coal
+India,30.6,25.1001,78.3717,Hydro
+India,1340.0,23.4639,87.1311,Coal
+India,1000.0,23.4639,87.1311,Coal
+India,1200.0,8.9159,78.1374,Coal
+India,840.0,11.7696,77.8138,Coal
+India,250.0,11.8014,77.8085,Hydro
+India,600.0,11.7696,77.8138,Coal
+India,246.0,21.0377,78.9334,Coal
+India,136.5,23.438000000000002,91.274,Gas
+India,46.0,23.5496,74.4072,Coal
+India,1660.0,21.1797,79.3978,Coal
+India,36.0,11.6137,76.6919,Hydro
+India,20.0,26.8051,70.7381,Wind
+India,78.9,15.1579,75.7965,Wind
+India,50.0,16.2017,75.3005,Coal
+India,207.0,31.9553,75.836,Hydro
+India,15.0,20.0805,79.7148,Coal
+India,31.2,19.016,72.8948,Gas
+India,25.2,18.5309,72.9465,Oil
+India,75.0,18.9988,72.8997,Gas
+India,4620.0,22.823,69.5532,Coal
+India,4000.0,22.8158,69.5281,Coal
+India,28.3,15.2666,76.3288,Hydro
+India,11.2,15.8555,75.1002,Biomass
+India,15.0,19.261,73.3638,Coal
+India,415.0,26.1953,85.3017,Coal
+India,126.0,25.2354,92.2279,Hydro
+India,14.65,17.5727,73.9032,Wind
+India,6.6,17.4999,75.781,Solar
+India,2.1,29.7303,75.3099,Solar
+India,1.0,29.7311,75.308,Solar
+India,17.0,22.4077,68.9925,Solar
+India,31.5,27.1657,70.7455,Wind
+India,52.5,27.1611,70.681,Wind
+India,3.0,18.4921,73.5081,Solar
+India,21.0,29.7303,75.3099,Solar
+India,440.0,28.156,78.4089,Nuclear
+India,250.0,24.7754,84.1588,Coal
+India,815.6,16.5678,79.3442,Hydro
+India,45.5,23.4469,75.408,Coal
+India,78.9,18.8829,73.1862,Oil
+India,10.0,21.0582,79.485,Biomass
+India,18.9,20.8062,79.0548,Biomass
+India,65.0,20.9276,79.2455,Coal
+India,119.5,27.1858,95.376,Gas
+India,10.0,22.9649,78.8132,Biomass
+India,11.6,16.2365,76.3369,Hydro
+India,45.0,9.9533,76.9792,Hydro
+India,630.0,19.9817,73.8896,Coal
+India,270.0,19.8658,74.0835,Coal
+India,270.0,19.9817,73.8896,Coal
+India,12.27,21.4504,76.4014,Coal
+India,420.0,11.5887,79.4611,Coal
+India,600.0,11.5893,79.4704,Coal
+India,1470.0,11.5576,79.4417,Coal
+India,500.0,11.5534,79.4408,Coal
+India,250.0,11.5401,79.4159,Coal
+India,1320.0,24.15,81.9045,Coal
+India,33.2,24.6428,74.6843,Coal
+India,45.0,34.2154,77.1842,Hydro
+India,10.5,25.2042,74.6092,Coal
+India,10.0,18.2172,77.9576,Hydro
+India,10.5,14.097999999999999,76.3154,Wind
+India,630.0,13.245,80.3257,Coal
+India,1200.0,13.245,80.3257,Coal
+India,6.0,27.5882,91.98100000000001,Hydro
+India,60.0,16.5697,79.3389,Hydro
+India,90.0,16.5697,79.3389,Hydro
+India,6.25,22.8985,76.0718,Wind
+India,37.6,8.1784,77.6873,Wind
+India,5.8,25.3723,81.8717,Solar
+India,50.4,14.1651,77.5713,Wind
+India,7.2,15.7319,75.3789,Wind
+India,50.0,27.6007,72.2242,Solar
+India,5.0,27.5728,72.206,Solar
+India,5.0,28.1371,72.9661,Solar
+India,150.0,9.0737,77.4753,Wind
+India,99.0,24.4375,82.9655,Hydro
+India,1278.0,24.4448,82.9803,Coal
+India,520.0,22.2418,76.1619,Hydro
+India,102.0,26.818,71.0643,Wind
+India,51.0,23.1689,68.6975,Wind
+India,330.5,11.0749,79.834,Gas
+India,655.0,21.78,72.979,Gas
+India,1320.0,14.3512,80.1431,Coal
+India,12.0,19.4834,75.3696,Hydro
+India,726.6,23.4987,91.4385,Gas
+India,37.5,10.0314,77.0548,Hydro
+India,175.0,34.004,74.9175,Oil
+India,80.0,23.6815,86.7473,Hydro
+India,920.0,29.3975,76.8763,Coal
+India,210.0,26.4766,80.241,Coal
+India,30.0,9.9731,77.0281,Hydro
+India,32.0,8.7065,77.3627,Hydro
+India,500.0,20.7147,76.7948,Coal
+India,520.0,31.7398,77.2576,Hydro
+India,30.0,18.9057,76.7282,Biomass
+India,1140.0,25.5124,78.7588,Coal
+India,1380.0,18.8685,76.5254,Coal
+India,30.0,11.3646,76.6045,Hydro
+India,66.0,18.8834,73.1814,Gas
+India,600.0,22.2454,82.7246,Coal
+India,20.4,29.9274,78.0415,Hydro
+India,1000.0,21.9846,83.2331,Coal
+India,1370.0,21.4499,81.8525,Coal
+India,38.5,17.1427,77.1749,Coal
+India,135.0,28.6361,77.2542,Coal
+India,45.0,24.7635,78.2322,Hydro
+India,1200.0,29.355999999999998,75.869,Coal
+India,160.0,24.9643,74.1197,Coal
+India,1400.0,30.557,76.577,Coal
+India,11.0,12.7145,77.4524,Biomass
+India,198.0,29.5169,78.7574,Hydro
+India,270.5,27.336,70.538,Oil
+India,50.0,27.114,88.1376,Hydro
+India,412.02,31.4,77.5927,Hydro
+India,405.0,27.3426,93.8168,Hydro
+India,60.0,27.2949,88.2921,Hydro
+India,12.5,18.5354,76.245,Biomass
+India,36.0,26.263,74.1878,Coal
+India,50.0,22.3404,82.493,Coal
+India,1967.08,17.5587,73.167,Gas
+India,1050.0,14.704,78.4577,Coal
+India,48.0,15.3771,73.877,Gas
+India,250.0,21.2759,85.0355,Hydro
+India,3000.0,24.026999999999997,82.7915,Coal
+India,300.0,24.1778,83.0361,Hydro
+India,94.8,28.7327,77.1016,Gas
+India,6.0,25.1732,75.832,Hydro
+India,95.0,23.625999999999998,91.1948,Gas
+India,1260.0,31.0417,76.5847,Coal
+India,1200.0,27.818,79.936,Coal
+India,62.5,18.7695,79.4494,Coal
+India,2600.0,18.7572,79.456,Coal
+India,50.0,23.9637,76.719,Solar
+India,16.5,23.9796,76.7329,Solar
+India,2.0,25.4106,78.4805,Solar
+India,10.0,29.9619,75.1631,Solar
+India,10.0,18.764,79.4873,Solar
+India,5.0,23.2592,70.0097,Solar
+India,1.0,27.9363,75.679,Solar
+India,26.4,26.8026,70.7736,Wind
+India,5.0,27.4108,72.2164,Solar
+India,5.0,27.4118,72.2127,Solar
+India,5.0,27.4092,72.2193,Solar
+India,50.0,27.4137,72.1577,Solar
+India,6.0,26.4586,72.4706,Wind
+India,50.4,19.1474,74.8763,Wind
+India,30.5,23.7025,75.9246,Solar
+India,35.1,23.0562,70.6004,Wind
+India,250.0,21.8376,73.7559,Hydro
+India,1200.0,21.8301,73.7501,Hydro
+India,300.0,9.3098,77.0727,Hydro
+India,1100.0,24.3696,88.1046,Coal
+India,18.0,17.708,75.1361,Biomass
+India,690.0,33.141999999999996,74.8097,Hydro
+India,1200.0,22.3049,69.7101,Coal
+India,135.0,22.49,82.6062,Coal
+India,105.7,12.2995,78.4038,Oil
+India,106.0,9.9751,78.0445,Oil
+India,24.0,16.3918,75.0411,Biomass
+India,19.7,17.1354,74.4272,Biomass
+India,10.0,16.9171,74.4821,Biomass
+India,12.5,16.881,74.5898,Biomass
+India,120.0,31.2642,78.4835,Hydro
+India,1340.0,23.3026,81.0668,Coal
+India,26.0,16.2478,74.5003,Biomass
+India,500.0,23.6013,86.4666,Coal
+India,30.0,10.4558,76.8302,Hydro
+India,3960.0,23.9784,82.6275,Coal
+India,29.0,24.5959,80.858,Coal
+India,1330.0,22.11,78.173,Coal
+India,16.0,19.6125,74.1924,Biomass
+India,600.0,22.7355,79.9123,Coal
+India,1147.5,21.3395,72.9889,Gas
+India,500.0,21.397,73.10600000000001,Coal
+India,1500.0,29.179000000000002,74.0202,Coal
+India,35.0,9.62,77.2726,Hydro
+India,6.0,19.9214,73.0575,Hydro
+India,63.0,22.2915,82.5257,Coal
+India,25.0,22.3005,82.7047,Coal
+India,10.5,8.823,77.6271,Wind
+India,21.0,10.8166,77.3199,Wind
+India,10.5,9.0782,77.59100000000001,Wind
+India,5.0,20.730999999999998,83.4538,Solar
+India,1.0,20.7325,83.4632,Solar
+India,1.5,10.9262,77.3841,Wind
+India,100.0,21.0726,74.3862,Solar
+India,25.0,21.0864,74.3529,Solar
+India,10.0,29.9611,75.7767,Solar
+India,100.0,17.2387,73.9096,Wind
+India,10.0,20.8183,71.0063,Solar
+India,8.5,17.4999,75.781,Solar
+India,5.0,12.3003,77.1638,Solar
+India,5.0,23.3585,70.6206,Solar
+India,5.0,23.383000000000003,70.6146,Solar
+India,5.0,23.3654,70.6268,Solar
+India,10.5,19.845,73.9074,Wind
+India,16.5,17.3031,74.631,Wind
+India,2.25,17.5724,74.3386,Wind
+India,1200.0,22.0971,76.5317,Coal
+India,15.0,24.1185,82.6415,Solar
+India,5.0,9.8043,78.4487,Solar
+India,15.0,23.9116,71.9324,Solar
+India,8.4,27.2081,70.6958,Wind
+India,3.6,23.2414,70.7262,Wind
+India,3.6,22.971999999999998,70.5443,Wind
+India,2.0,18.3198,74.3686,Solar
+India,30.0,23.3232,70.6417,Wind
+India,36.0,15.2615,76.3379,Hydro
+India,600.0,20.0116,79.2036,Coal
+India,33.0,20.0123,79.1863,Coal
+India,460.0,20.9099,85.2072,Coal
+India,3000.0,21.0966,85.074,Coal
+India,1980.0,29.924,75.2372,Coal
+India,2400.0,22.0987,83.4513,Coal
+India,94.2,29.0057,80.0946,Hydro
+India,440.0,26.586,82.602,Coal
+India,220.0,12.9019,74.816,Gas
+India,1400.0,19.8294,72.6617,Nuclear
+India,13.5,22.5616,77.9635,Hydro
+India,67.5,26.4875,88.3155,Hydro
+India,510.0,27.2517,88.4604,Hydro
+India,80.0,26.9279,88.4562,Hydro
+India,132.0,27.0017,88.443,Hydro
+India,1000.0,30.3787,78.4795,Hydro
+India,420.0,23.7573,85.8936,Coal
+India,30.0,18.7026,72.8709,Gas
+India,300.0,14.2133,80.0838,Coal
+India,22.5,19.0875,73.0258,Oil
+India,4.5,32.659,76.7817,Hydro
+India,60.0,15.8094,74.1588,Hydro
+India,4.0,24.3249,85.5198,Hydro
+India,3300.0,21.4129,79.9671,Coal
+India,240.0,22.7318,88.37100000000001,Coal
+India,600.0,15.1839,76.6622,Coal
+India,260.0,15.1839,76.6622,Cogeneration
+India,422.0,23.0701,72.5933,Coal
+India,500.0,19.0004,72.8983,Oil
+India,180.0,19.0018,72.8967,Gas
+India,18.0,19.0366,72.8892,Gas
+India,750.0,19.0004,72.8983,Coal
+India,150.0,19.0004,72.8983,Oil
+India,28.0,15.6609,76.8756,Biomass
+India,1050.0,8.7635,78.1753,Coal
+India,1000.0,8.7603,78.1699,Coal
+India,300.0,8.7635,78.1753,Coal
+India,9.35,9.9438,77.5077,Wind
+India,14.4,8.9165,77.65899999999999,Wind
+India,25.5,17.500999999999998,74.7001,Wind
+India,100.0,15.1069,75.1661,Wind
+India,10.0,21.0866,85.0987,Solar
+India,50.4,15.3302,75.5767,Wind
+India,50.4,19.1757,74.8441,Wind
+India,22.0,27.4137,72.1577,Solar
+India,24.0,9.9621,77.3709,Wind
+India,200.0,14.7053,77.3355,Wind
+India,5.0,26.5182,72.8536,Solar
+India,1.5,10.8139,77.3785,Wind
+India,1.5,10.79,77.33,Wind
+India,49.6,22.104,69.8323,Wind
+India,91.35,32.3367,75.5819,Hydro
+India,8.0,27.2614,88.5572,Hydro
+India,720.0,21.8858,83.1215,Coal
+India,1200.0,13.1596,74.8002,Coal
+India,12.0,18.0723,75.1197,Hydro
+India,5.0,21.2323,73.5917,Hydro
+India,1350.0,21.2093,73.5574,Coal
+India,300.0,21.2478,73.5866,Hydro
+India,114.0,25.6593,91.9003,Hydro
+India,11.2,26.0069,91.8114,Hydro
+India,382.5,21.3411,72.9895,Gas
+India,1.7,10.838,77.5123,Wind
+India,600.0,19.4269,82.8594,Hydro
+India,320.0,18.8315,82.5934,Hydro
+India,240.0,18.0313,82.0179,Hydro
+India,127.6,34.198,75.1245,Hydro
+India,672.0,18.88,72.9715,Gas
+India,62.6,18.8681,72.9293,Gas
+India,480.0,34.1442,74.1857,Hydro
+India,240.0,34.0921,74.0318,Hydro
+India,3.75,11.3727,76.0584,Hydro
+India,374.57099999999997,21.2285,72.8705,Gas
+India,135.0,21.23,72.873,Gas
+India,90.0,27.3455,82.3166,Coal
+India,25.7,10.6143,77.237,Wind
+India,13.5,10.0537,77.5905,Hydro
+India,60.0,19.7674,73.502,Hydro
+India,52.8,9.3279,78.9215,Gas
+India,1500.0,13.2371,80.3023,Coal
+India,186.2,9.3484,78.9235,Gas
+India,460.0,13.6576,74.9484,Hydro
+India,25.8,22.7808,77.6515,Coal
+India,30.75,23.0752,77.5526,Coal
+India,50.7,17.1605,77.293,Coal
+India,388.5,16.9238,81.8141,Gas
+India,19.8,17.7382,75.3218,Biomass
+India,75.0,24.4978,77.1513,Gas
+India,1260.0,16.5984,80.53699999999999,Coal
+India,500.0,16.5973,80.5382,Coal
+India,272.3,16.9345,81.7245,Gas
+India,46.0,24.5753,74.8012,Coal
+India,4760.0,24.0983,82.6719,Coal
+India,9.0,18.121,74.0968,Hydro
+India,400.0,30.5669,79.5468,Hydro
+India,1040.0,17.5635,83.1382,Coal
+India,50.4,19.108,74.9885,Wind
+India,5.0,21.4239,73.1273,Solar
+India,3.0,12.8932,78.1654,Solar
+India,80.0,24.35,73.7477,Coal
+India,16.5,9.9344,77.4768,Wind
+Iran,820.0,30.401999999999997,48.358000000000004,Gas
+Iran,1903.0,31.5027,48.883,Oil
+Iran,1000.0,36.9443,54.8902,Gas
+Iran,90.0,35.9564,51.089,Hydro
+Iran,954.0,38.5315,48.1818,Gas
+Iran,484.0,33.396,52.5765,Gas
+Iran,50.0,27.4866,52.659,Oil
+Iran,973.0,27.4068,52.7818,Gas
+Iran,50.0,27.1467,56.1153,Gas
+Iran,1280.0,27.1467,56.1153,Oil
+Iran,250.0,30.4813,49.0836,Gas
+Iran,247.5,35.6423,51.4273,Oil
+Iran,640.0,34.3468,47.3575,Oil
+Iran,1000.0,28.8298,50.8857,Nuclear
+Iran,64.0,25.2919,60.643,Oil
+Iran,2800.0,35.4156,51.851000000000006,Gas
+Iran,520.0,32.6053,48.464,Hydro
+Iran,10.0,27.0517,53.6208,Hydro
+Iran,585.0,30.453000000000003,49.086000000000006,Gas
+Iran,4.0,28.7519,54.5444,Oil
+Iran,1034.0,29.3587,52.6155,Gas
+Iran,954.0,36.4481,59.4027,Gas
+Iran,130.0,38.8658,46.5308,Hydro
+Iran,484.0,29.5387,50.7151,Gas
+Iran,73.5,28.2013,58.4917,Oil
+Iran,184.0,37.1586,49.6329,Gas
+Iran,990.0,29.3587,52.6155,Gas
+Iran,324.0,27.2293,60.4913,Gas
+Iran,972.0,28.7031,53.542,Gas
+Iran,954.0,28.7033,53.545,Gas
+Iran,32.0,28.678,57.7406,Hydro
+Iran,100.0,36.1309,49.7262,Wind
+Iran,115.5,35.806999999999995,51.7914,Hydro
+Iran,164.0,28.8012,53.7733,Gas
+Iran,400.0,32.4858,48.1341,Hydro
+Iran,2000.0,31.8055,50.0893,Hydro
+Iran,765.0,31.6001,50.471000000000004,Hydro
+Iran,1372.0,29.5633,51.696000000000005,Gas
+Iran,1912.0,30.21,56.7932,Gas
+Iran,110.0,29.2702,50.2889,Gas
+Iran,39.0,32.453,50.147,Hydro
+Iran,348.0,38.4051,44.911,Gas
+Iran,159.0,26.5578,54.0194,Gas
+Iran,954.0,30.3413,48.2424,Gas
+Iran,45.0,35.7898,51.6785,Hydro
+Iran,120.0,36.6206,49.5107,Gas
+Iran,75.0,30.5959,50.2417,Hydro
+Iran,327.0,36.2713,59.6508,Gas
+Iran,2000.0,32.029,49.398999999999994,Hydro
+Iran,154.0,29.2488,57.218,Gas
+Iran,738.0,27.5546,52.55,Gas
+Iran,997.0,35.73,51.0055,Gas
+Iran,941.0,36.2804,58.7774,Gas
+Iran,1779.6,36.8387,53.2593,Oil
+Iran,951.0,37.3457,45.2651,Gas
+Iran,930.0,37.6378,49.0849,Gas
+Iran,540.0,26.9279,55.9629,Gas
+Iran,714.0,34.579,50.755,Gas
+Iran,252.0,30.4357,49.1089,Gas
+Iran,128.0,35.5207,51.4078,Gas
+Iran,696.0,37.2928,48.3658,Gas
+Iran,650.0,37.424,46.013000000000005,Oil
+Iran,626.0,35.73,51.0,Oil
+Iran,636.0,35.3954,47.0306,Gas
+Iran,87.0,36.7434,49.4022,Hydro
+Iran,25.0,35.5729,53.3971,Gas
+Iran,480.0,33.2923,47.1982,Hydro
+Iran,2000.0,32.0549,49.607,Hydro
+Iran,1600.0,32.7952,51.4959,Oil
+Iran,100.0,35.128,48.852,Oil
+Iran,2040.0,36.1595,50.2997,Gas
+Iran,435.0,36.8334,53.2521,Gas
+Iran,97.0,31.8972,54.3675,Oil
+Iran,406.0,36.2369,59.7324,Gas
+Iran,1300.0,34.0,49.5,Oil
+Iran,195.0,29.6036,52.5388,Gas
+Iran,484.0,31.9502,54.0947,Gas
+Iran,1404.0,37.3397,58.0486,Gas
+Iran,484.0,28.0524,57.7784,Gas
+Iran,13.0,38.9669,48.0733,Hydro
+Iran,1040.0,36.2179,51.3047,Hydro
+Iraq,720.0,35.0375,43.5582,Oil
+Iraq,600.0,35.0296,43.5592,Gas
+Iraq,320.0,35.6801,44.0655,Gas
+Iraq,248.0,35.1129,45.7053,Hydro
+Iraq,400.0,35.9542,44.571000000000005,Hydro
+Iraq,640.0,33.2602,44.3751,Oil
+Iraq,1000.0,36.9445,42.7817,Gas
+Iraq,1500.0,36.0084,43.9169,Gas
+Iraq,660.0,34.207,42.355,Hydro
+Iraq,50.0,34.1115,44.9737,Hydro
+Iraq,252.0,30.2118,47.8179,Gas
+Iraq,1052.0,36.6254,42.8178,Hydro
+Iraq,62.0,36.6254,42.8179,Hydro
+Iraq,222.0,35.6743,44.0751,Gas
+Iraq,320.0,33.4178,44.4653,Gas
+Iraq,75.0,34.1943,43.8542,Hydro
+Iraq,1250.0,30.1859,47.836999999999996,Gas
+Iraq,646.0,33.2872,44.4576,Gas
+Iraq,316.0,33.5347,44.2782,Gas
+Ireland,528.0,51.8347,-8.2362,Gas
+Ireland,435.0,51.8347,-8.2362,Gas
+Ireland,7.6,54.1222,-8.1486,Wind
+Ireland,86.0,52.7056,-8.6128,Hydro
+Ireland,13.3,52.3096,-9.5892,Wind
+Ireland,2.55,52.8301,-8.0752,Wind
+Ireland,42.0,52.5387,-6.2396,Wind
+Ireland,32.4,52.178999999999995,-8.091000000000001,Wind
+Ireland,6.45,54.1126,-9.5875,Wind
+Ireland,48.0,54.0108,-7.1142,Wind
+Ireland,57.0,52.0396,-8.9154,Wind
+Ireland,66.7,52.0396,-8.9154,Wind
+Ireland,39.6,52.7846,-7.6688,Wind
+Ireland,41.4,52.5898,-6.6391,Wind
+Ireland,46.0,52.3454,-9.4513,Wind
+Ireland,41.4,52.0174,-9.1545,Wind
+Ireland,1.6,51.843999999999994,-8.1557,Wind
+Ireland,3.4,53.8485,-9.0712,Wind
+Ireland,116.0,53.2926,-7.0866,Oil
+Ireland,60.0,53.0937,-8.6095,Wind
+Ireland,8.0,53.9104,-9.3408,Wind
+Ireland,415.0,53.34,-6.2049,Gas
+Ireland,117.6,53.2902,-7.0845,Oil
+Ireland,42.5,52.641999999999996,-8.1479,Wind
+Ireland,26.0,54.1603,-8.2221,Wind
+Ireland,5.0,54.1417,-8.2673,Wind
+Ireland,32.5,52.6386,-8.0786,Wind
+Ireland,216.0,52.2793,-6.9935,Oil
+Ireland,18.7,53.9001,-9.3579,Wind
+Ireland,36.5,52.7973,-6.3164,Wind
+Ireland,104.0,53.3594,-7.212999999999999,Oil
+Ireland,166.0,52.6324,-9.0596,Gas
+Israel,55.0,31.1685,34.5469,Solarr
+Israel,4.5,30.8069,35.2466,Solar
+Israel,40.0,29.9647,35.0595,Solarr
+Israel,3.2,31.3764,34.8691,Solar
+Israel,5.0,31.3663,35.0046,Solar
+Israel,21.0,32.4664,35.4256,Wind
+Israel,7.9,30.0492,35.047,Solar
+Israel,220.0,31.9138,34.8912,Gas
+Israel,2590.0,32.47,34.888000000000005,Coal
+Israel,1067.0,31.1536,34.8146,Gas
+Israel,37.5,31.145,34.7553,Solar
+Israel,120.0,31.1498,34.7895,Gas
+Israel,428.0,32.1049,34.7785,Gas
+Israel,2250.0,31.6299,34.5216,Coal
+Israel,21.0,32.6467,35.5232,Wind
+Israel,140.0,31.9367,34.7118,Gas
+Israel,10.0,31.4262,34.6401,Solar
+Israel,10.0,31.2152,34.4531,Solar
+Israel,9.0,31.1922,34.3682,Solar
+Israel,355.0,31.7123,34.8423,Gas
+Israel,835.0,31.7148,34.8422,Gas
+Israel,50.0,31.2468,34.7099,Solar
+Italy,19.0,44.4742,7.0183,Hydro
+Italy,72.0,40.9319,14.385,Other
+Italy,31.0,44.5715,11.989,Solar
+Italy,808.0,39.7118,16.215,Gas
+Italy,500.0,37.1183,15.1394,Hydro
+Italy,280.0,37.2814,13.520999999999999,Gas
+Italy,56.0,46.1507,9.6301,Hydro
+Italy,177.0,39.2269,8.9972,Oil
+Italy,210.0,37.2083,15.1778,Oil
+Italy,126.5,45.7089,7.1399,Hydro
+Italy,240.0,45.4511,12.2239,Gas
+Italy,1.0,40.424,17.4977,Solar
+Italy,2.2,43.9028,12.865,Solar
+Italy,5.0,44.8903,8.7412,Solar
+Italy,1.2,44.8875,8.741,Solar
+Italy,2.7,39.894,18.3444,Solar
+Italy,25.0,44.5753,12.0149,Solar
+Italy,1.0,40.1175,18.1241,Solar
+Italy,1.0,41.2196,16.2339,Solar
+Italy,1.0,40.5047,15.9003,Solar
+Italy,19.0,42.8416,11.5588,Geothermal
+Italy,39.0,42.8416,11.5588,Geothermal
+Italy,281.0,44.1705,11.0888,Hydro
+Italy,80.0,42.6564,12.2358,Hydro
+Italy,150.0,42.8971,12.5381,Coal
+Italy,95.0,45.9955,10.5229,Hydro
+Italy,89.0,46.7782,11.6321,Hydro
+Italy,640.0,40.6432,17.9802,Coal
+Italy,2420.0,40.5632,18.0318,Coal
+Italy,125.0,42.2002,13.8398,Gas
+Italy,5.0,37.3698,14.2189,Solarr
+Italy,6.0,41.6577,12.6621,Solar
+Italy,9.2,41.8304,15.8484,Solarr
+Italy,6.5,44.8372,8.7493,Solar
+Italy,68.0,46.2921,8.3038,Hydro
+Italy,400.0,41.2014,15.4762,Gas
+Italy,113.0,41.4686,14.1454,Hydro
+Italy,19.0,43.1369,10.8292,Geothermal
+Italy,19.0,43.1362,10.8289,Geothermal
+Italy,121.0,46.4927,11.3336,Hydro
+Italy,87.0,46.6253,10.9159,Hydro
+Italy,83.0,39.9888,15.8085,Hydro
+Italy,787.0,41.5616,12.6337,Gas
+Italy,130.0,46.0767,10.3496,Hydro
+Italy,180.0,42.0458,13.5475,Gas
+Italy,400.0,41.0092,14.2281,Gas
+Italy,800.0,45.2268,9.6377,Gas
+Italy,1064.0,44.2256,7.3842,Hydro
+Italy,18.4,37.6892,12.7234,Solar
+Italy,210.0,45.9767,12.3033,Hydro
+Italy,54.0,43.2388,10.9047,Geothermal
+Italy,871.0,45.4314,12.2468,Coal
+Italy,640.0,40.8461,8.3068,Coal
+Italy,1.0,41.482,15.6087,Solar
+Italy,5.0,44.5725,7.7693,Solar
+Italy,295.0,42.5427,12.7208,Hydro
+Italy,137.2,45.6891,10.6609,Hydro
+Italy,14.0,40.48,16.8005,Solar
+Italy,840.0,42.0502,14.5639,Gas
+Italy,655.0,46.286,10.2653,Hydro
+Italy,80.0,37.9544,13.2808,Hydro
+Italy,1.0,40.0983,18.145,Solar
+Italy,2.0,37.0698,14.7895,Solar
+Italy,2.0,40.4137,17.8847,Solar
+Italy,521.0,37.1399,15.2158,Gas
+Italy,76.0,45.0911,9.9052,Hydro
+Italy,117.6,46.4394,9.3595,Hydro
+Italy,2.0,39.295,8.5833,Solar
+Italy,140.0,43.5537,13.285,Gas
+Italy,20.0,43.1666,10.7847,Geothermal
+Italy,116.7,45.5248,10.2273,Oil
+Italy,120.0,46.6124,11.1559,Hydro
+Italy,188.0,46.2693,9.8692,Hydro
+Italy,250.0,41.8055,14.9193,Gas
+Italy,20.0,43.1962,10.8323,Geothermal
+Italy,379.5,45.163000000000004,7.7505,Gas
+Italy,752.5,45.4458,12.2552,Gas
+Italy,310.0,43.5673,10.31,Oil
+Italy,13.4,45.9516,13.4031,Solar
+Italy,1.0,40.1989,18.2162,Solar
+Italy,1.0,43.1225,13.767999999999999,Solar
+Italy,1.0,41.471000000000004,15.4122,Solar
+Italy,75.0,39.0095,16.6206,Hydro
+Italy,164.34,46.3063,9.3823,Hydro
+Italy,162.9,38.2212,15.2383,Gas
+Italy,56.0,46.1556,9.6439,Hydro
+Italy,780.0,44.993,7.6755,Gas
+Italy,3446.0,42.3572,11.5373,Gas
+Italy,105.24,41.9547,14.3884,Wind
+Italy,17.0,43.1862,10.7657,Geothermal
+Italy,17.0,43.1971,10.7652,Geothermal
+Italy,110.0,42.5831,13.6383,Hydro
+Italy,101.44,39.4929,16.3838,Hydro
+Italy,352.0,41.0197,14.37,Gas
+Italy,1.0,40.1137,18.1396,Solar
+Italy,8.0,40.5778,16.9715,Solar
+Italy,1.0,40.4117,17.4247,Solar
+Italy,2.3,42.5107,12.6187,Solar
+Italy,1.0,40.3175,17.5873,Solar
+Italy,1.0,40.1563,18.2334,Solar
+Italy,336.0,45.7979,13.5455,Coal
+Italy,1.0,42.4067,11.6104,Solarr
+Italy,5.7,43.1953,13.6002,Solar
+Italy,400.0,40.8339,14.3006,Gas
+Italy,97.0,45.457,8.6496,Other
+Italy,15.0,43.2166,10.9052,Geothermal
+Italy,19.0,42.2612,10.8853,Geothermal
+Italy,11.0,43.2612,10.8853,Geothermal
+Italy,17.0,43.2271,10.8838,Geothermal
+Italy,18.0,43.2112,10.8585,Geothermal
+Italy,11.0,43.1519,10.8495,Geothermal
+Italy,59.0,43.1935,11.0446,Geothermal
+Italy,39.0,43.1452,10.8325,Geothermal
+Italy,1.0,40.0366,18.3629,Solarr
+Italy,320.0,39.2047,8.3789,Oil
+Italy,2.9,41.5051,14.0879,Solar
+Italy,3.0,45.5738,9.4927,Solar
+Italy,4.1,44.8314,8.7734,Solar
+Italy,1.4,44.9055,8.4343,Solar
+Italy,18.0,43.2141,11.0468,Geothermal
+Italy,18.0,43.2101,11.0345,Geothermal
+Italy,117.0,45.8858,10.8412,Hydro
+Italy,760.0,38.4453,15.99,Gas
+Italy,1000.0,46.0702,8.7339,Hydro
+Italy,135.0,45.4837,7.3693,Hydro
+Italy,1200.0,39.6218,16.6084,Oil
+Italy,15.0,45.0374,11.5705,Solar
+Italy,490.0,42.785,13.5111,Hydro
+Italy,377.0,46.0677,10.9826,Hydro
+Italy,866.0,38.2049,15.2818,Oil
+Italy,137.0,44.9167,10.25,Gas
+Italy,630.0,39.1037,9.0063,Gas
+Italy,180.0,45.0522,9.5072,Gas
+Italy,20.0,43.1753,10.8583,Geothermal
+Italy,101.6,46.6879,10.5466,Hydro
+Italy,19.0,43.1805,10.8834,Geothermal
+Italy,1151.0,45.0265,11.2522,Gas
+Italy,18.0,43.2301,10.9471,Geothermal
+Italy,110.6,45.5417,9.2539,Other
+Italy,760.0,38.8759,16.6569,Gas
+Italy,220.0,46.3706,13.0436,Hydro
+Italy,144.0,46.169,9.8691,Hydro
+Italy,800.0,41.1025,16.756,Gas
+Italy,67.0,44.1264,10.3934,Hydro
+Italy,785.0,45.817,13.2891,Gas
+Italy,213.4,38.0158,12.5108,Gas
+Italy,20.0,43.1707,11.0383,Geothermal
+Italy,39.0,43.1708,11.039000000000001,Geothermal
+Italy,1569.0,45.5201,8.7422,Oil
+Italy,1845.0,42.1269,11.7583,Coal
+Italy,7.0,44.8794,8.7889,Solar
+Italy,6.2,44.8391,8.7776,Solar
+Italy,1.0,41.3612,15.3632,Solar
+Italy,1.0,41.3606,15.3839,Solar
+Italy,1.0,41.3609,15.3509,Solar
+Italy,1.0,41.3644,15.3419,Solar
+Italy,1.0,41.3595,15.370999999999999,Solar
+Italy,1.0,41.3594,15.3808,Solar
+Italy,1.5,43.672,10.7363,Solar
+Italy,5.8,39.2848,8.9015,Solar
+Italy,1353.0,44.2755,8.4305,Gas
+Italy,114.0,42.2362,10.8674,Geothermal
+Italy,130.0,45.8249,7.3255,Hydro
+Italy,230.0,45.1623,7.0085,Hydro
+Italy,327.1,46.1596,9.935,Hydro
+Italy,140.0,44.5947,7.4858,Gas
+Italy,60.0,42.0154,14.3535,Hydro
+Italy,380.5,45.0296,8.9723,Gas
+Italy,2.0,40.6558,15.9664,Solar
+Italy,1.0,40.5699,17.4944,Solar
+Italy,1.0,40.0216,18.3126,Solar
+Jamaica,120.0,18.4524,-77.9183,Gas
+Jamaica,122.5,17.975,-76.8176,Oil
+Jamaica,4.8,18.4122,-77.0696,Hydro
+Jamaica,6.4,18.1598,-77.7609,Hydro
+Jamaica,38.7,17.9193,-77.5343,Wind
+Jamaica,347.5,17.9006,-77.1071,Oil
+Jamaica,64.0,17.9701,-76.7519,Oil
+Jamaica,3.6,18.3751,-77.0514,Hydro
+Jamaica,65.0,17.9731,-76.8057,Oil
+Japan,1125.0,34.7742,134.4568,Oil
+Japan,1300.0,39.7839,140.0487,Oil
+Japan,1200.0,34.7413,134.3786,Oil
+Japan,1245.0,33.8787,134.6534,Oil
+Japan,3600.0,35.4845,140.0172,Oil
+Japan,2.0,35.0312,138.3627,Solar
+Japan,15.0,34.7114,136.2925,Wind
+Japan,21.5,32.2093,130.477,Solar
+Japan,1900.0,34.6536,137.0665,Oil
+Japan,34.7,34.586999999999996,134.9754,Solar
+Japan,623.0,36.1325,137.7182,Hydro
+Japan,1.4,42.9622,144.4266,Solar
+Japan,1000.0,33.6261,131.1202,Oil
+Japan,2880.0,35.5648,140.1053,Gas
+Japan,400.0,35.5713,140.0879,Gas
+Japan,3966.0,34.9867,136.8436,Oil
+Japan,1708.0,35.0067,136.8637,Gas
+Japan,460.0,37.453,139.6019,Hydro
+Japan,8.0,35.8946,138.2591,Solar
+Japan,31.0,36.8103,140.4359,Solar
+Japan,4400.0,37.3164,141.0265,Nuclear
+Japan,21.0,34.4305,133.4344,Waste
+Japan,7.7,36.5673,137.2367,Solar
+Japan,5040.0,35.3421,139.8319,Gas
+Japan,42.0,35.236,139.8965,Solar
+Japan,3478.0,33.5152,129.836,Nuclear
+Japan,1800.0,33.86,135.1531,Oil
+Japan,1886.0,35.547,140.0724,Gas
+Japan,312.0,26.3799,127.8757,Coal
+Japan,3.3,33.1117,139.778,Geothermal
+Japan,8.0,40.5506,141.4298,Solar
+Japan,1.5,40.535,141.5121,Solar
+Japan,125.2,40.5353,141.5019,Oil
+Japan,3617.0,34.6235,138.1421,Nuclear
+Japan,2000.0,37.666,141.0165,Coal
+Japan,87.0,35.3246,138.1796,Hydro
+Japan,110.0,33.1053,131.1874,Geothermal
+Japan,4100.0,34.8352,136.9609,Coal
+Japan,20.5,33.9215,130.7774,Solar
+Japan,4810.0,37.9963,139.2373,Gas
+Japan,2000.0,35.4954,139.745,Gas
+Japan,1100.0,41.188,141.3903,Nuclear
+Japan,1.8,39.0071,141.2705,Solar
+Japan,10.0,34.6558,135.3797,Solar
+Japan,1442.0,34.7734,134.694,Gas
+Japan,1650.0,34.7734,134.694,Gas
+Japan,10.0,34.779,134.6942,Solar
+Japan,380.0,34.7854,134.6214,Coal
+Japan,2.2,35.0356,138.93200000000002,Solar
+Japan,2.0,37.2117,138.3126,Solar
+Japan,120.0,42.9871,141.1562,Hydro
+Japan,70.0,31.4665,130.526,Solar
+Japan,2100.0,34.152,135.1876,Oil
+Japan,80.0,39.8291,140.8649,Geothermal
+Japan,149.0,39.2688,141.8766,Coal
+Japan,5.0,34.8709,136.4078,Solar
+Japan,13.5,36.7154,140.0755,Solar
+Japan,31.2,35.1504,140.2056,Solar
+Japan,70.0,35.4211,137.0224,Oil
+Japan,470.0,36.0335,138.7054,Hydro
+Japan,112.0,38.2681,141.0092,Coal
+Japan,38.0,34.7016,136.2762,Wind
+Japan,4400.0,35.9409,140.6888,Oil
+Japan,650.0,35.903,140.6878,Oil
+Japan,1000.0,35.9414,140.6888,Gas
+Japan,8212.0,37.4259,138.5941,Nuclear
+Japan,4802.0,35.0076,136.689,Gas
+Japan,1500.0,35.5123,139.7626,Gas
+Japan,840.0,35.5121,139.7625,Gas
+Japan,800.0,35.7175,138.8742,Hydro
+Japan,7.5,34.6689,138.0921,Solar
+Japan,9.4,34.6698,138.0993,Solar
+Japan,300.0,35.3619,139.8651,Gas
+Japan,440.0,26.445999999999998,127.9214,Coal
+Japan,1.2,36.8174,139.7187,Solar
+Japan,466.0,34.8806,135.8463,Hydro
+Japan,49.0,35.041,136.7542,Solar
+Japan,13.0,33.9263,130.8094,Solar
+Japan,24.4,33.4305,131.5514,Solar
+Japan,3.6,38.364000000000004,141.1541,Solar
+Japan,25.4,33.2263,131.247,Solar
+Japan,21.0,33.9887,134.6144,Solar
+Japan,21.0,33.9845,134.618,Solar
+Japan,21.0,33.9869,134.6251,Solar
+Japan,2.8,33.9878,134.6176,Solar
+Japan,10.0,35.5821,138.5728,Solar
+Japan,1.5,37.4482,140.3005,Solar
+Japan,9.0,43.8681,144.4835,Solar
+Japan,2.6,32.6814,129.8025,Solar
+Japan,22.4,32.9971,130.4227,Solar
+Japan,3.5,34.3694,132.1341,Solar
+Japan,7.8,31.3728,130.9583,Solar
+Japan,1.5,43.0066,144.3175,Solar
+Japan,21.7,43.0227,144.2989,Solar
+Japan,4.2,34.921,135.7165,Solar
+Japan,1800.0,35.527,135.342,Coal
+Japan,8.3,31.266,130.3562,Solar
+Japan,2.1,42.9559,144.4354,Solar
+Japan,1200.0,35.2624,133.4918,Hydro
+Japan,13.0,32.2296,130.8182,Solar
+Japan,30.0,43.4879,142.2196,Hydro
+Japan,1200.0,40.1912,139.9911,Coal
+Japan,675.0,37.0938,139.9116,Hydro
+Japan,250.0,33.9346,133.1149,Coal
+Japan,19.8,39.1713,141.7256,Solar
+Japan,35.0,31.9318,130.7977,Geothermal
+Japan,13.0,35.4888,139.7268,Solar
+Japan,1221.0,35.4954,139.745,Gas
+Japan,1050.0,35.6146,139.7567,Oil
+Japan,4710.0,35.5424,135.6544,Nuclear
+Japan,500.0,32.4206,130.7021,Hydro
+Japan,11.0,33.2323,131.7759,Solar
+Japan,26.5,33.2558,131.7275,Solar
+Japan,82.0,33.2596,131.7208,Solar
+Japan,21.0,33.2503,131.7604,Solar
+Japan,300.0,33.2687,131.6494,Coal
+Japan,657.0,33.2672,131.7076,Gas
+Japan,1280.0,35.1306,134.7108,Hydro
+Japan,1000.0,36.8459,138.7662,Hydro
+Japan,1500.0,35.7387,136.6709,Hydro
+Japan,44.0,42.6741,142.6779,Hydro
+Japan,560.0,37.1529,139.2504,Hydro
+Japan,1932.0,35.2406,134.8617,Hydro
+Japan,780.0,35.195,137.4627,Hydro
+Japan,1206.0,34.1178,135.8211,Hydro
+Japan,900.0,32.2478,131.3735,Hydro
+Japan,20.0,33.0029,130.4006,Solar
+Japan,2174.0,38.4,141.5,Nuclear
+Japan,12.0,36.9442,140.8939,Solar
+Japan,6.0,36.9331,140.8544,Solar
+Japan,20.0,42.9061,143.9641,Solar
+Japan,15.0,38.8098,140.7086,Geothermal
+Japan,9.5,39.9813,140.7819,Geothermal
+Japan,166.0,34.2591,132.5723,Coal
+Japan,13.7,34.239000000000004,132.8505,Solar
+Japan,59.0,36.1412,136.8212,Hydro
+Japan,12.5,33.1217,131.1902,Geothermal
+Japan,182.0,37.2147,139.2139,Hydro
+Japan,875.0,34.067,136.207,Oil
+Japan,1.1,32.8724,130.9056,Solar
+Japan,1400.0,32.4855,130.0429,Coal
+Japan,50.0,40.8964,141.2815,Solar
+Japan,65.0,40.9277,141.3642,Solar
+Japan,406.0,33.9327,133.1677,Coal
+Japan,33.8,33.9429,133.1122,Solar
+Japan,23.0,33.9263,133.1248,Solar
+Japan,2.7,34.385,132.7326,Solar
+Japan,28.0,34.5842,135.4086,Solar
+Japan,1500.0,34.3419,133.8442,Oil
+Japan,2.0,34.3451,133.8846,Solar
+Japan,2000.0,34.5704,135.4417,Gas
+Japan,700.0,38.9686,139.8322,Coal
+Japan,350.0,35.0908,137.8047,Hydro
+Japan,21.0,33.9884,131.1656,Solar
+Japan,1000.0,31.8579,130.1997,Oil
+Japan,1780.0,31.8335,130.1887,Nuclear
+Japan,2.0,38.318000000000005,141.0756,Solar
+Japan,1.7,36.7632,139.9263,Solar
+Japan,2.4,36.4752,138.986,Solar
+Japan,1.7,31.4911,131.1142,Solar
+Japan,1746.0,37.0609,136.7265,Nuclear
+Japan,820.0,35.5379,132.9991,Nuclear
+Japan,1000.0,37.3448,139.9087,Hydro
+Japan,1800.0,33.9078,130.8614,Gas
+Japan,3058.0,35.0645,136.8767,Gas
+Japan,303.0,34.821,133.4028,Hydro
+Japan,2295.0,33.2672,131.7076,Gas
+Japan,1000.0,33.969,131.1634,Coal
+Japan,200.0,42.4481,142.6236,Hydro
+Japan,500.0,34.7535,134.7663,Coal
+Japan,3.4,34.7634,134.7657,Solar
+Japan,9.4,31.5242,130.7666,Solar
+Japan,1300.0,34.3373,132.9572,Coal
+Japan,1125.0,34.8244,136.9238,Oil
+Japan,7.5,34.8159,136.9237,Solar
+Japan,4.5,35.5859,140.31799999999998,Solar
+Japan,25.0,33.2115,131.2731,Geothermal
+Japan,57.0,43.4437,142.2883,Hydro
+Japan,1200.0,36.8014,139.0406,Hydro
+Japan,1200.0,34.5144,133.6873,Oil
+Japan,1200.0,34.3216,135.1281,Oil
+Japan,250.0,36.2683,136.6483,Hydro
+Japan,14.0,37.8016,140.8531,Solar
+Japan,600.0,33.328,130.1066,Hydro
+Japan,891.75,33.925,130.8468,Gas
+Japan,40.0,43.2407,142.9388,Hydro
+Japan,1100.0,36.4215,140.6028,Nuclear
+Japan,2.5,34.0598,134.6041,Solar
+Japan,74.0,42.6359,141.5886,Coal
+Japan,2.4,42.659,141.6902,Solar
+Japan,29.8,42.6584,141.7268,Solar
+Japan,23.0,42.6552,141.6755,Solar
+Japan,13.0,42.6283,141.8413,Solar
+Japan,2000.0,43.0367,140.5125,Nuclear
+Japan,1650.0,42.611999999999995,141.805,Coal
+Japan,111.0,42.7125,141.7923,Solar
+Japan,45.6,42.7014,141.7696,Solar
+Japan,40.0,43.4331,142.884,Hydro
+Japan,150.0,33.534,133.5575,Coal
+Japan,42.9,35.4716,133.2511,Solar
+Japan,2.8,36.6341,137.1612,Solar
+Japan,1500.0,36.7654,137.1286,Oil
+Japan,1.8,34.7928,137.3094,Solar
+Japan,27.4,42.7962,143.4918,Solar
+Japan,2.2,36.4954,138.5006,Solar
+Japan,39.3,34.4741,134.9238,Solar
+Japan,1200.0,35.6724,136.0815,Coal
+Japan,1160.0,35.7519,136.0189,Nuclear
+Japan,2.4,33.9894,131.2638,Solar
+Japan,21.3,33.9528,131.2212,Solar
+Japan,27.5,39.0012,140.6039,Geothermal
+Japan,7.0,35.5174,139.7869,Solar
+Japan,1.6,33.0907,130.0171,Solar
+Japan,51.0,35.3478,140.3739,Hydro
+Japan,1.1,31.3237,130.9254,Solar
+Japan,147.0,34.2397,135.128,Gas
+Japan,5.0,45.3967,141.75,Solar
+Japan,8.5,35.0059,135.9107,Solar
+Japan,8.0,37.1596,140.3583,Solar
+Japan,240.0,36.9114,139.0564,Hydro
+Japan,61.0,35.2404,137.3913,Hydro
+Japan,4.6,36.762,139.9298,Solar
+Japan,30.0,31.1908,130.6142,Geothermal
+Japan,1400.0,33.953,132.1248,Gas
+Japan,65.0,37.44,139.694,Geothermal
+Japan,137.0,33.8769,130.7952,Coal
+Japan,1245.0,34.9734,136.6462,Gas
+Japan,3325.0,35.4768,139.679,Oil
+Japan,2274.0,35.2148,139.7173,Oil
+Japan,70.0,35.5954,136.4563,Hydro
+Jordan,373.0,31.2226,36.0197,Gas
+Jordan,620.0,31.8997,36.0801,Gas
+Jordan,650.0,29.378,34.977,Gas
+Jordan,382.0,32.119,36.125,Oil
+Jordan,573.0,31.9101,36.0939,Gas
+Jordan,357.0,32.3311,36.0506,Gas
+Jordan,150.0,32.5724,39.0111,Gas
+Jordan,1031.0,32.1433,36.1418,Gas
+Kazakhstan,2450.0,52.0685,76.874,Coal
+Kazakhstan,145.0,43.2809,76.931,Coal
+Kazakhstan,173.0,43.42100000000001,77.0073,Coal
+Kazakhstan,510.0,43.2935,76.7992,Coal
+Kazakhstan,360.0,51.1892,71.5099,Coal
+Kazakhstan,300.0,47.0818,51.9422,Gas
+Kazakhstan,50.0,42.7112,70.8203,Solar
+Kenya,225.0,-0.7967,37.7497,Hydro
+Kenya,109.0,-1.2431,36.8905,Oil
+Kenya,94.2,-0.8093,37.6867,Hydro
+Kenya,168.0,-0.64,37.91,Hydro
+Kenya,72.0,-0.8059999999999999,37.811,Hydro
+Kenya,74.0,-4.04,39.638000000000005,Oil
+Kenya,74.5,-4.0379,39.6333,Oil
+Kenya,120.0,-4.0379,39.6333,Oil
+Kenya,310.0,2.6447,36.7378,Wind
+Kenya,40.0,-0.879,37.588,Hydro
+Kenya,25.5,-1.3811,36.6356,Wind
+Kenya,45.0,-0.8893,36.2557,Geothermal
+Kenya,185.0,-0.8933,36.3086,Geothermal
+Kenya,140.0,-0.8909999999999999,36.2961,Geothermal
+Kenya,105.0,-0.8644,36.2985,Geothermal
+Kenya,139.0,-0.8905,36.2892,Geothermal
+Kenya,140.0,-0.9186,36.3338,Geothermal
+Kenya,90.0,-3.9334,39.5626,Oil
+Kenya,60.0,-0.3426,34.8521,Hydro
+Kenya,20.0,-0.7854,37.2654,Hydro
+Kenya,88.0,1.0605,37.0508,Oil
+Kenya,106.0,1.9138,35.3443,Hydro
+Kosovo,800.0,42.6767,21.0867,Coal
+Kosovo,678.0,42.6937,21.057,Coal
+Kuwait,1100.0,28.7135,48.3806,Gas
+Kuwait,5805.0,28.7072,48.3742,Oil
+Kuwait,1158.0,29.3682,47.7963,Gas
+Kuwait,2543.0,29.3678,47.7865,Gas
+Kuwait,5366.5,29.566999999999997,48.17100000000001,Oil
+Kuwait,875.0,29.0359,48.1536,Gas
+Kuwait,720.0,29.0359,48.1536,Gas
+Kuwait,252.0,29.0769,48.0839,Gas
+Kyrgyzstan,40.0,41.163000000000004,75.803,Hydro
+Kyrgyzstan,674.0,42.873000000000005,74.6541,Coal
+Kyrgyzstan,800.0,41.4986,72.3641,Hydro
+Kyrgyzstan,50.0,40.5718,72.804,Oil
+Kyrgyzstan,240.0,41.3121,72.1917,Hydro
+Kyrgyzstan,450.0,41.4033,72.2322,Hydro
+Kyrgyzstan,1200.0,41.6568,72.6359,Hydro
+Kyrgyzstan,180.0,41.1877,72.1604,Hydro
+Laos,1878.0,19.691,101.28,Coal
+Laos,157.0,18.2606,104.5625,Hydro
+Laos,60.0,18.3149,102.3251,Hydro
+Laos,100.0,18.7942,102.1162,Hydro
+Laos,5.0,20.9239,100.8979,Hydro
+Laos,14.5,20.1828,101.9338,Hydro
+Laos,44.0,19.2885,103.3417,Hydro
+Laos,155.0,15.4919,106.2788,Hydro
+Laos,735.0,19.3394,102.6107,Hydro
+Laos,19.2,19.0133,102.8733,Hydro
+Laos,5.0,19.2954,102.3441,Hydro
+Laos,14.0,19.2047,102.3109,Hydro
+Laos,9.36,20.3457,104.3813,Hydro
+Laos,1070.0,18.4375,102.947,Hydro
+Laos,40.0,18.2997,102.4033,Hydro
+Laos,280.0,18.2098,104.5389,Hydro
+Laos,15.0,15.1217,106.6067,Hydro
+Laos,250.0,15.3755,107.4064,Hydro
+Laos,14.8,15.15,106.7103,Hydro
+Laos,121.0,15.5034,106.2764,Hydro
+Latvia,240.0,56.7405,24.7113,Hydro
+Latvia,894.0,56.583,25.2394,Hydro
+Latvia,138.0,56.9904,24.1788,Gas
+Latvia,402.0,56.852,24.2724,Hydro
+Latvia,863.0,56.918,24.2766,Gas
+Lebanon,35.0,34.0209,36.1919,Oil
+Lebanon,470.0,34.465,35.8942,Gas
+Lebanon,70.0,34.3795,35.7584,Oil
+Lebanon,347.5,33.6475,35.3996,Oil
+Lebanon,35.0,33.2761,35.2289,Oil
+Lebanon,470.0,33.4961,35.338,Gas
+Lebanon,642.8,33.969,35.604,Oil
+Lesotho,72.0,-28.7804,28.4535,Hydro
+Liberia,13.3,6.35,-10.7833,Oil
+Liberia,60.0,6.5119,-10.6767,Hydro
+Libya,1000.0,32.6204,14.3312,Oil
+Libya,1440.0,32.7882,12.674000000000001,Gas
+Libya,65.0,32.781,22.5874,Oil
+Libya,480.0,32.7899,12.6703,Gas
+Libya,350.0,31.2174,16.347,Gas
+Libya,500.0,32.3326,15.2319,Gas
+Libya,1040.0,32.2027,20.133,Gas
+Libya,147.0,32.775999999999996,13.0983,Gas
+Libya,65.0,32.0582,23.9814,Oil
+Libya,185.0,32.8251,12.9739,Oil
+Libya,624.0,31.9559,11.1447,Gas
+Libya,335.0,30.9564,20.1164,Gas
+Lithuania,1800.0,54.7701,24.6474,Gas
+Lithuania,170.0,54.9212,24.018,Gas
+Lithuania,100.8,54.8741,24.0,Hydro
+Lithuania,900.0,54.799,24.2475,Hydro
+Lithuania,160.0,56.3843,22.1841,Gas
+Lithuania,360.0,54.6676,25.156,Gas
+Luxembourg,385.0,49.5119,5.9646,Gas
+Luxembourg,1296.0,49.9518,6.1784,Hydro
+Macedonia,675.0,41.058,21.4832,Coal
+Macedonia,42.0,41.3371,20.6347,Hydro
+Macedonia,12.6,41.9712,22.5781,Hydro
+Macedonia,80.0,41.8792,21.1921,Hydro
+Macedonia,9.6,41.9528,21.2982,Hydro
+Macedonia,125.0,41.5824,21.0006,Coal
+Macedonia,19.2,41.7791,20.8563,Hydro
+Macedonia,84.0,41.4936,20.5054,Hydro
+Macedonia,36.4,41.9249,21.2647,Hydro
+Macedonia,116.0,41.4035,21.9373,Hydro
+Macedonia,12.8,41.7166,20.7219,Hydro
+Macedonia,150.0,41.7707,20.8377,Hydro
+Madagascar,120.0,-18.8356,48.3125,Coal
+Madagascar,19.71,-19.8,46.6167,Oil
+Madagascar,58.0,-18.7942,48.6193,Hydro
+Madagascar,8.9,-19.0119,47.7033,Hydro
+Madagascar,24.0,-18.9213,47.9295,Hydro
+Madagascar,13.0,-15.702,46.4027,Oil
+Madagascar,40.0,-18.8491,47.4807,Oil
+Madagascar,16.5,-20.2003,47.1328,Hydro
+Madagascar,16.59,-18.1667,49.3833,Gas
+Madagascar,12.98,-23.35,43.6667,Gas
+Madagascar,5.25,-19.2478,47.8339,Hydro
+Malawi,15.5,-15.7833,35.0,Gas
+Malawi,128.0,-15.8957,34.7538,Hydro
+Malawi,10.0,-15.7833,35.0,Biomass
+Malawi,124.0,-15.558,34.787,Hydro
+Malawi,91.6,-15.55,34.7833,Hydro
+Malaysia,103.0,1.1472,111.8743,Hydro
+Malaysia,48.0,5.4297,101.2092,Hydro
+Malaysia,3.0,2.5823,101.8313,Solar
+Malaysia,828.0,3.0433,101.4696,Gas
+Malaysia,640.0,4.3923,100.5897,Gas
+Malaysia,10.0,3.9924,103.3682,Solar
+Malaysia,2.0,1.4721,103.3925,Solar
+Malaysia,54.0,4.3945,101.1947,Hydro
+Malaysia,34.0,5.8124,118.0642,Oil
+Malaysia,1303.0,4.3908,100.5894,Gas
+Malaysia,12.0,5.8402,118.1179,Biomass
+Malaysia,210.0,1.55,110.3333,Coal
+Malaysia,100.0,6.0909,116.1667,Gas
+Malaysia,36.0,4.2826,117.889,Oil
+Malaysia,192.0,3.2880000000000003,113.0926,Gas
+Malaysia,1071.0,5.3744,100.3746,Gas
+Malaysia,2100.0,1.334,103.5422,Coal
+Malaysia,64.0,4.2826,117.88799999999999,Oil
+Malaysia,650.0,6.3404,100.1568,Gas
+Malaysia,348.0,5.407,101.301,Hydro
+Malaysia,66.0,5.1333,115.95,Hydro
+Malaysia,2100.0,1.3348,103.5422,Coal
+Malaysia,714.0,2.533,101.7912,Gas
+Malaysia,708.0,2.5327,101.791,Gas
+Malaysia,780.0,4.6017,103.4495,Gas
+Mali,62.3,14.3582,-11.3492,Hydro
+Mali,200.0,13.1956,-10.4289,Hydro
+Mali,44.0,11.6383,-8.23,Hydro
+Mali,5.2,12.6379,-7.9254,Hydro
+Mauritania,66.6,22.75,-12.0667,Oil
+Mauritania,120.0,20.9,-17.06,Gas
+Mauritania,30.0,18.1528,-15.9842,Solar
+Mauritania,51.803999999999995,18.1528,-15.9842,Oil
+Mauritania,30.0,17.9651,-15.9851,Wind
+Mauritania,14.4,22.7,-12.4833,Oil
+Mauritius,15.0,-20.2616,57.4318,Solar
+Mauritius,70.0,-20.0667,57.5982,Biomass
+Mauritius,30.0,-20.3655,57.6782,Hydro
+Mauritius,35.0,-20.48,57.55,Coal
+Mauritius,24.65,-20.2753,57.7567,Biomass
+Mauritius,14.7,-20.5079,57.5426,Coal
+Moldova,66.0,47.0261,28.8672,Gas
+Moldova,240.0,47.028999999999996,28.893,Gas
+Moldova,24.0,47.7492,27.8938,Gas
+Moldova,16.0,47.8381,27.2246,Hydro
+Moldova,48.0,47.2778,29.123,Hydro
+Moldova,2520.0,46.6292,29.9407,Coal
+Mongolia,540.0,47.891999999999996,106.7998,Coal
+Mongolia,50.0,47.163000000000004,108.0391,Wind
+Montenegro,307.0,42.6718,18.9951,Hydro
+Montenegro,360.0,43.2725,18.8422,Hydro
+Montenegro,218.5,43.3342,19.3271,Coal
+Morocco,92.0,32.6935,-5.8883,Hydro
+Morocco,92.0,32.2076,-6.5318,Hydro
+Morocco,128.0,32.4756,-7.6374,Hydro
+Morocco,472.0,34.0705,-2.1049,Gas
+Morocco,53.9,35.8184,-5.4538,Wind
+Morocco,800.0,34.8,-5.6,Gas
+Morocco,50.4,35.8184,-5.4538,Wind
+Morocco,17.0,32.9359,-8.0637,Hydro
+Morocco,23.4,23.6816,-15.9594,Oil
+Morocco,8.3,34.0417,-5.9077,Hydro
+Morocco,22.0,33.1545,-8.115,Hydro
+Morocco,67.0,31.846,-7.0783,Hydro
+Morocco,40.6,34.1616,-4.7492,Hydro
+Morocco,32.0,32.7256,-7.9266,Hydro
+Morocco,8.8,31.355,-8.136000000000001,Hydro
+Morocco,10.0,30.9125,-6.76,Hydro
+Morocco,23.0,34.663000000000004,-2.9382,Hydro
+Morocco,150.0,32.6816,-4.7922,Wind
+Morocco,36.0,34.9416,-5.8398,Hydro
+Morocco,60.35,31.4086,-9.7968,Wind
+Morocco,202.11,27.9538,-11.9975,Wind
+Morocco,50.0,27.0182,-13.3838,Wind
+Morocco,50.0,35.8054,-5.492999999999999,Wind
+Morocco,120.0,35.7545,-5.571000000000001,Wind
+Morocco,32.0,35.6063,-5.4385,Wind
+Morocco,301.0,35.611,-5.432,Wind
+Morocco,140.0,35.6467,-5.6078,Wind
+Morocco,464.0,32.2065,-6.531000000000001,Hydro
+Morocco,20.8,33.1545,-8.115,Hydro
+Mozambique,2075.0,-15.5859,32.7047,Hydro
+Mozambique,44.0,-19.1557,33.145,Hydro
+Mozambique,166.0,-25.2185,32.1342,Hydro
+Myanmar,154.2,16.78,96.131,Gas
+Myanmar,28.0,19.57,97.316,Hydro
+Myanmar,168.0,19.56,97.359,Hydro
+Myanmar,154.2,16.98,96.125,Gas
+Myanmar,54.0,20.91,97.975,Hydro
+Myanmar,30.0,19.16,96.71700000000001,Hydro
+Myanmar,56.0,21.81,95.589,Hydro
+Myanmar,60.0,18.42,96.36399999999999,Hydro
+Myanmar,102.0,21.6,86.213,Gas
+Myanmar,74.0,18.9,96.221,Hydro
+Myanmar,54.3,21.03,94.41799999999999,Gas
+Myanmar,45.0,16.5,97.662,Coal
+Myanmar,36.9,21.19,94.803,Gas
+Myanmar,12.0,16.47,97.654,Gas
+Myanmar,75.0,20.48,94.255,Hydro
+Myanmar,34.7,18.31,95.29700000000001,Gas
+Myanmar,230.0,16.46,97.655,Gas
+Myanmar,280.0,19.78,96.333,Hydro
+Myanmar,65.0,18.51,96.354,Hydro
+Myanmar,25.0,22.35,96.323,Hydro
+Myanmar,55.35,18.73,95.229,Gas
+Myanmar,75.2,19.68,96.291,Hydro
+Myanmar,600.0,23.7,97.507,Hydro
+Myanmar,240.0,24.42,97.525,Hydro
+Myanmar,92.0,16.81,96.226,Gas
+Myanmar,30.0,23.31,95.35799999999999,Hydro
+Myanmar,50.95,16.96,97.40799999999999,Gas
+Myanmar,120.0,20.43,96.70200000000001,Coal
+Myanmar,790.0,21.67,96.473,Hydro
+Myanmar,25.0,19.07,95.44200000000001,Hydro
+Myanmar,70.3,16.9,96.089,Gas
+Myanmar,20.0,18.42,96.387,Hydro
+Myanmar,18.0,21.57,96.87299999999999,Hydro
+Myanmar,12.0,21.4,86.897,Hydro
+Namibia,24.3,-22.9575,14.5053,Oil
+Namibia,10.0,-22.8138,15.3248,Oil
+Namibia,1.1,-22.5243,17.0787,Solar
+Namibia,4.5,-21.4148,15.972999999999999,Solar
+Namibia,5.0,-20.4465,16.6255,Solar
+Namibia,25.6,-22.9575,14.5053,Oil
+Namibia,240.0,-17.3861,14.2137,Hydro
+Namibia,120.0,-22.514,17.0789,Coal
+Nepal,45.0,27.9388,85.945,Hydro
+Nepal,14.1,27.9212,85.1462,Hydro
+Nepal,15.0,27.4268,83.7918,Hydro
+Nepal,144.0,27.976,83.568,Hydro
+Nepal,60.0,27.55,86.169,Hydro
+Nepal,60.0,27.59,85.155,Hydro
+Nepal,32.0,27.509,85.0519,Hydro
+Nepal,69.0,27.9262,84.4965,Hydro
+Nepal,70.0,28.189,84.4195,Hydro
+Nepal,14.8,28.272,83.7411,Hydro
+Nepal,10.05,27.7806,85.917,Hydro
+Nepal,24.0,27.9629,85.1707,Hydro
+Netherlands,10.4,53.0417,5.5014,Wind
+Netherlands,485.0,51.4312,3.7174,Nuclear
+Netherlands,7.65,52.7533,4.6819,Wind
+Netherlands,227.0,52.1017,5.0794,Gas
+Netherlands,6.0,51.955,5.2278,Wind
+Netherlands,6.0,53.2342,5.5114,Wind
+Netherlands,530.0,53.3185,6.9544,Gas
+Netherlands,78.2,53.33,6.9181,Wind
+Netherlands,684.0,52.3389,5.0213,Gas
+Netherlands,456.0,51.3331,3.7787,Gas
+Netherlands,24.05,51.4388,3.7035,Wind
+Netherlands,7.5,51.6825,5.0708,Wind
+Netherlands,2465.0,53.4441,6.856,Gas
+Netherlands,1560.0,53.4441,6.856,Coal
+Netherlands,108.0,52.6061,4.4188,Wind
+Netherlands,6.5,51.5866,4.776,Wind
+Netherlands,999.0,52.5772,5.53,Gas
+Netherlands,1.58,51.4425,3.5736,Wind
+Netherlands,590.0,51.8561,5.8294,Coal
+Netherlands,600.0,54.036,5.962999999999999,Wind
+Netherlands,349.0,52.468,6.1088,Gas
+Netherlands,6.8,51.5283,4.2678,Wind
+Netherlands,3.6,51.8412,4.0606,Wind
+Netherlands,5.28,52.4053,4.8466,Wind
+Netherlands,650.0,52.4049,4.8465,Coal
+Netherlands,8.25,51.71,4.0875,Wind
+Netherlands,8.3,52.5083,5.475,Wind
+Netherlands,6.0,52.8383,4.8917,Wind
+Netherlands,9.0,52.46,4.65,Wind
+Netherlands,213.3,53.4375,6.8613,Wind
+Netherlands,15.0,51.645,4.8597,Wind
+Netherlands,9.0,51.6392,4.1292,Wind
+Netherlands,2.3,51.4425,3.5736,Wind
+New Zealand,192.0,-38.0714,175.6433,Hydro
+New Zealand,78.0,-38.6158,176.1425,Hydro
+New Zealand,74.0,-38.3918,176.0222,Hydro
+New Zealand,220.0,-44.656000000000006,170.3551,Hydro
+New Zealand,540.0,-44.56399999999999,170.1972,Hydro
+New Zealand,432.0,-45.1793,169.30700000000002,Hydro
+New Zealand,32.0,-41.0861,172.7325,Hydro
+New Zealand,39.0,-43.364,171.5269,Hydro
+New Zealand,7.0,-41.3617,175.4851,Wind
+New Zealand,29.0,-43.6333,171.65,Hydro
+New Zealand,403.0,-37.5444,175.15,Gas
+New Zealand,500.0,-37.5444,175.15,Coal
+New Zealand,60.0,-37.5444,175.15,Gas
+New Zealand,96.0,-37.9243,175.5393,Hydro
+New Zealand,100.0,-38.0631,176.7272,Geothermal
+New Zealand,36.0,-45.7854,169.9205,Wind
+New Zealand,800.0,-45.5214,167.2778,Hydro
+New Zealand,352.0,-38.3521,175.7465,Hydro
+New Zealand,60.0,-38.1141,176.8162,Hydro
+New Zealand,132.0,-38.6266,176.1055,Geothermal
+New Zealand,90.0,-44.6747,170.3989,Hydro
+New Zealand,142.6,-41.2335,174.6971,Wind
+New Zealand,98.0,-38.3918,175.8082,Hydro
+New Zealand,155.0,-39.3829,176.8875,Oil
+New Zealand,58.0,-45.7353,168.2384,Wind
+New Zealand,112.0,-38.5312,175.9268,Geothermal
+Nicaragua,61.2,12.0144,-86.086,Oil
+Nicaragua,20.4,12.1542,-86.2582,Oil
+Nicaragua,54.4,12.2803,-86.5768,Oil
+Nicaragua,27.2,12.4702,-86.8849,Oil
+Nicaragua,64.0,12.1857,-86.7473,Oil
+Nicaragua,54.4,12.7158,-86.2798,Hydro
+Nicaragua,50.0,13.1068,-86.0516,Hydro
+Nicaragua,71.0,12.4883,-87.1673,Oil
+Nicaragua,65.0,12.1581,-86.3107,Gas
+Nicaragua,57.4,12.1542,-86.2577,Oil
+Nicaragua,77.0,12.394,-86.5418,Geothermal
+Nicaragua,56.5,12.7058,-87.2351,Waste
+Nicaragua,59.3,12.530999999999999,-87.0474,Waste
+Nicaragua,82.0,12.6088,-86.773,Geothermal
+Nicaragua,51.0,12.1698,-86.1052,Oil
+Niger,37.6,17.2893,7.8392,Coal
+Niger,14.52,18.8167,7.3333,Oil
+Niger,12.0,18.8167,7.3333,Oil
+Niger,14.58,13.5333,2.0667,Oil
+Niger,27.5,13.52,2.12,Oil
+Niger,54.0,14.1888,8.7859,Oil
+Nigeria,1074.0,5.067,7.3216,Gas
+Nigeria,561.0,5.0702,8.3394,Gas
+Nigeria,225.0,4.798,5.897,Gas
+Nigeria,190.0,4.5644,7.568,Gas
+Nigeria,450.0,6.4065,5.6828,Gas
+Nigeria,540.0,9.138,4.7883,Hydro
+Nigeria,760.0,9.8641,4.6124,Hydro
+Nigeria,750.0,6.8982,3.2041,Gas
+Nigeria,150.0,5.39,6.6632,Gas
+Nigeria,500.0,6.7357,4.7106,Gas
+Nigeria,450.0,5.9254,5.645,Gas
+Nigeria,600.0,9.9724,6.8353,Hydro
+North Korea,10.0,39.6178,125.6647,Hydro
+North Korea,450.0,41.7633,129.7502,Coal
+North Korea,6.0,41.7956,129.7758,Coal
+North Korea,100.0,38.8893,125.5596,Coal
+North Korea,200.0,38.029,125.6628,Coal
+North Korea,500.0,39.8531,127.5789,Coal
+North Korea,18.0,39.8402,127.6341,Coal
+North Korea,300.0,39.662,125.8124,Hydro
+North Korea,225.0,40.9923,126.5531,Hydro
+North Korea,12.0,40.7238,128.2671,Hydro
+North Korea,200.0,38.7285,125.4161,Coal
+North Korea,400.0,38.8921,127.4562,Hydro
+North Korea,1600.0,39.5858,126.3043,Coal
+North Korea,500.0,38.9695,125.6881,Coal
+North Korea,400.0,41.7784,129.7915,Coal
+North Korea,81.0,38.2021,125.7837,Hydro
+North Korea,346.7,40.5662,127.2338,Hydro
+North Korea,200.0,40.0707,124.5524,Coal
+North Korea,202.3,40.6604,127.5171,Hydro
+North Korea,200.0,38.4631,125.8289,Coal
+North Korea,400.0,39.4014,125.9682,Coal
+North Korea,700.0,40.4615,124.9627,Hydro
+North Korea,190.0,40.3527,124.7352,Hydro
+North Korea,36.0,42.0628,129.6913,Hydro
+North Korea,29.0,39.8531,127.579,Coal
+North Korea,200.0,42.3271,130.3825,Coal
+North Korea,482.0,41.349,129.3901,Hydro
+North Korea,400.0,38.5979,125.4621,Hydro
+North Korea,400.0,41.3814,126.5149,Hydro
+Norway,103.0,60.8648,9.279,Hydro
+Norway,60.0,70.372,26.7876,Hydro
+Norway,180.0,69.7049,23.8185,Hydro
+Norway,183.0,58.295,6.4531,Hydro
+Norway,9.0,60.4602,5.4377,Hydro
+Norway,108.0,61.2768,7.1547,Hydro
+Norway,5.0,60.1261,12.4564,Hydro
+Norway,17.0,59.0568,6.6587,Hydro
+Norway,10.0,63.9333,9.7667,Hydro
+Norway,157.0,61.8117,5.6615,Hydro
+Norway,15.0,60.8971,6.2015,Hydro
+Norway,36.0,64.6101,12.578,Hydro
+Norway,1398.0,60.8629,7.3017,Hydro
+Norway,85.0,60.8261,9.5448,Hydro
+Norway,2.0,69.0437,18.5897,Hydro
+Norway,38.0,68.0662,17.7754,Hydro
+Norway,3.0,60.2278,10.3753,Hydro
+Norway,10.0,69.4332,17.4829,Hydro
+Norway,17.0,62.4475,7.4875,Hydro
+Norway,13.0,58.9458,8.4821,Hydro
+Norway,58.0,64.2221,10.3721,Wind
+Norway,36.0,59.99,11.2648,Hydro
+Norway,70.0,58.4068,7.5282,Hydro
+Norway,29.0,66.0627,13.9978,Hydro
+Norway,117.0,60.4321,6.4184,Hydro
+Norway,6.0,59.5393,5.5952,Hydro
+Norway,60.0,64.2215,12.0369,Hydro
+Norway,240.0,61.0586,7.8191,Hydro
+Norway,62.0,59.2765,11.1305,Hydro
+Norway,102.0,58.5962,8.7164,Hydro
+Norway,140.0,63.3729,10.4098,Hydro
+Norway,14.0,64.0433,11.0835,Hydro
+Norway,92.0,62.8021,10.0122,Hydro
+Norway,16.0,59.1593,6.6173,Hydro
+Norway,2.0,60.8876,8.4604,Hydro
+Norway,443.0,59.1233,7.5106,Hydro
+Norway,15.0,61.4358,5.9152,Hydro
+Norway,4.0,62.2845,6.6772,Hydro
+Norway,4.0,64.2663,12.2944,Hydro
+Norway,4.0,64.0381,11.5525,Hydro
+Norway,25.0,61.7336,6.5086,Hydro
+Norway,25.0,59.5576,7.8115,Hydro
+Norway,31.0,67.0882,16.0569,Hydro
+Norway,171.0,61.3375,5.412000000000001,Hydro
+Norway,8.0,58.9671,9.3137,Hydro
+Norway,37.0,59.6906,6.5701,Hydro
+Norway,6.0,68.6564,18.7843,Hydro
+Norway,30.0,68.8741,19.5607,Hydro
+Norway,17.0,59.9396,9.3392,Hydro
+Norway,5.0,68.6026,15.4734,Hydro
+Norway,5.0,62.6797,8.1373,Hydro
+Norway,4.0,67.0239,15.3217,Hydro
+Norway,160.0,62.623000000000005,8.8895,Hydro
+Norway,200.0,58.6659,6.5031,Hydro
+Norway,4.0,67.1611,15.4057,Hydro
+Norway,39.0,58.9516,8.3953,Hydro
+Norway,382.0,60.8085,5.0374,Gas
+Norway,14.0,61.8037,9.3037,Hydro
+Norway,18.0,59.297,9.2199,Hydro
+Norway,35.0,60.2486,5.7382,Hydro
+Norway,12.0,62.2313,10.3421,Hydro
+Norway,100.0,61.2359,6.1984,Hydro
+Norway,5.0,60.2941,5.9238,Hydro
+Norway,6.0,61.0192,8.1309,Hydro
+Norway,6.0,69.3807,19.6447,Hydro
+Norway,6.0,62.2171,6.9098,Hydro
+Norway,78.0,59.901,9.929,Hydro
+Norway,446.0,60.6566,6.1121,Hydro
+Norway,60.0,67.1193,16.0771,Hydro
+Norway,22.0,66.3703,13.6567,Hydro
+Norway,59.0,70.1023,20.1077,Wind
+Norway,6.0,60.6778,10.3526,Hydro
+Norway,20.0,60.957,9.3008,Hydro
+Norway,8.0,62.3575,6.8948,Hydro
+Norway,130.0,59.178000000000004,8.0128,Hydro
+Norway,49.0,69.2306,18.0889,Gas
+Norway,44.0,60.1671,11.5293,Hydro
+Norway,5.0,62.2828,6.8848,Hydro
+Norway,17.0,59.6578,9.6515,Hydro
+Norway,5.0,70.0147,29.1153,Hydro
+Norway,9.0,59.3674,7.8963,Hydro
+Norway,15.0,59.928999999999995,9.9635,Hydro
+Norway,5.0,62.4772,6.8586,Hydro
+Norway,6.0,62.256,5.5839,Hydro
+Norway,11.0,60.9297,8.4229,Hydro
+Norway,32.0,66.8138,13.966,Hydro
+Norway,90.0,63.1163,9.675,Hydro
+Norway,24.0,59.9294,9.9465,Hydro
+Norway,26.0,63.0577,11.4394,Hydro
+Norway,4.0,60.4397,5.8595,Hydro
+Norway,40.0,59.6577,9.2079,Hydro
+Norway,45.0,61.8243,8.9741,Wind
+Norway,1.0,63.108999999999995,8.559,Hydro
+Norway,6.0,62.5024,7.7718,Hydro
+Norway,160.0,62.5024,7.7718,Hydro
+Norway,42.0,58.5294,8.3377,Hydro
+Norway,42.0,59.6576,6.0967,Hydro
+Norway,150.0,59.6042,8.712,Hydro
+Norway,6.0,59.2239,6.2193,Hydro
+Norway,9.0,59.3748,6.4495,Hydro
+Norway,43.0,60.5579,6.2112,Hydro
+Norway,32.0,60.1851,10.2411,Hydro
+Norway,74.0,58.6464,5.7483,Wind
+Norway,20.0,59.3105,9.0452,Hydro
+Norway,11.0,59.3213,9.657,Hydro
+Norway,348.0,60.5744,8.411,Hydro
+Norway,460.0,59.346000000000004,7.2493,Hydro
+Norway,56.0,61.3119,7.8316,Hydro
+Norway,3.0,60.9002,5.6179,Hydro
+Norway,4.0,58.419,6.1095,Hydro
+Norway,5.0,60.3122,5.6698,Hydro
+Norway,7.0,60.0561,9.5393,Hydro
+Norway,55.0,58.9829,7.6694,Hydro
+Norway,73.0,61.0698,6.5948,Hydro
+Norway,124.0,61.2171,10.4394,Hydro
+Norway,46.0,64.7554,11.3764,Wind
+Norway,190.0,58.4653,6.544,Hydro
+Norway,5.0,63.0578,11.4394,Hydro
+Norway,105.0,68.6576,18.82,Hydro
+Norway,17.0,61.8428,6.6285,Hydro
+Norway,6.0,62.8053,7.7004,Hydro
+Norway,53.0,58.3904,7.8944,Hydro
+Norway,65.0,58.8976,8.2598,Hydro
+Norway,38.0,59.0003,6.075,Hydro
+Norway,7.0,58.3258,6.3517,Hydro
+Norway,320.0,61.5266,7.2879,Hydro
+Norway,44.0,60.1891,6.3831,Hydro
+Norway,8.0,63.1403,10.9664,Hydro
+Norway,7.0,62.2462,6.8901,Hydro
+Norway,101.0,59.9314,9.9476,Hydro
+Norway,30.0,60.5545,6.0227,Hydro
+Norway,22.0,61.2567,8.7586,Hydro
+Norway,3.0,61.2567,8.7586,Hydro
+Norway,6.0,62.676,8.157,Hydro
+Norway,6.0,61.1832,7.2349,Hydro
+Norway,9.0,69.666,21.1067,Hydro
+Norway,7.0,59.2428,9.8119,Hydro
+Norway,7.0,60.2221,10.3687,Hydro
+Norway,72.0,59.7308,7.4255,Hydro
+Norway,50.0,70.9217,27.2541,Wind
+Norway,97.0,61.5177,6.6154,Hydro
+Norway,5.0,59.7393,6.5187,Hydro
+Norway,12.0,59.1984,9.6096,Hydro
+Norway,5.0,64.5228,12.4264,Hydro
+Norway,352.0,67.6232,15.9902,Hydro
+Norway,163.0,65.204,12.7936,Hydro
+Norway,4.0,60.9838,5.6986,Hydro
+Norway,64.0,69.7142,22.1694,Hydro
+Norway,50.0,59.6581,6.9834,Hydro
+Norway,4.0,66.4177,14.523,Hydro
+Norway,1444.0,59.5118,6.5846,Hydro
+Norway,90.0,58.9281,7.0838,Hydro
+Norway,8.0,68.3268,14.6523,Hydro
+Norway,56.0,60.4647,5.9085,Hydro
+Norway,34.0,67.4482,15.7505,Hydro
+Norway,580.0,60.4986,7.1447,Hydro
+Norway,10.0,65.3752,12.7007,Hydro
+Norway,115.0,66.337,14.1667,Hydro
+Norway,9.0,69.6606,22.22,Hydro
+Norway,38.0,58.245,7.5141,Hydro
+Norway,10.0,69.2343,20.5261,Hydro
+Norway,5.0,60.8318,7.1186,Hydro
+Norway,53.0,68.2394,14.5326,Hydro
+Norway,2.0,59.806999999999995,5.9818,Hydro
+Norway,24.0,58.3588,6.3034,Hydro
+Norway,51.0,59.4627,7.9391,Hydro
+Norway,83.0,62.6648,10.1463,Hydro
+Norway,20.0,59.6635,6.0654,Hydro
+Norway,22.0,58.7638,7.5096,Hydro
+Norway,60.0,61.1355,8.8793,Hydro
+Norway,140.0,67.124,16.0969,Hydro
+Norway,2.0,69.8295,25.1672,Hydro
+Norway,15.0,61.0656,12.5818,Hydro
+Norway,6.0,60.6643,8.681000000000001,Hydro
+Norway,6.0,69.3871,17.7976,Hydro
+Norway,264.0,59.0538,6.6258,Hydro
+Norway,275.0,60.8744,5.5905,Hydro
+Norway,51.0,64.5433,12.455,Hydro
+Norway,70.0,63.1517,11.2396,Hydro
+Norway,299.0,60.6044,9.0697,Hydro
+Norway,56.0,58.3567,7.9045,Hydro
+Norway,9.0,68.1743,17.9191,Hydro
+Norway,302.0,60.2385,9.0008,Hydro
+Norway,50.0,59.8385,6.8805,Hydro
+Norway,93.0,60.8933,6.0563,Hydro
+Norway,36.0,68.5078,17.8764,Wind
+Norway,240.0,60.1201,6.5566,Hydro
+Norway,56.0,60.9727,8.0747,Hydro
+Norway,50.0,63.8451,10.6878,Hydro
+Norway,96.0,61.235,11.5091,Hydro
+Norway,188.0,65.8873,13.8012,Hydro
+Norway,150.0,61.4833,9.3125,Hydro
+Norway,109.0,61.9342,8.0307,Hydro
+Norway,253.0,62.8489,6.9433,Gas
+Norway,39.0,60.0825,9.8155,Hydro
+Norway,570.0,66.3034,14.2624,Hydro
+Norway,100.0,61.0213,6.5673,Hydro
+Norway,114.0,61.8123,11.1214,Hydro
+Norway,113.0,61.8123,11.1214,Hydro
+Norway,192.0,59.8215,6.8176,Hydro
+Norway,56.0,59.0257,7.0853,Hydro
+Norway,65.0,58.4062,8.6377,Hydro
+Norway,206.0,59.876999999999995,8.5929,Hydro
+Norway,90.0,59.2764,11.1337,Hydro
+Norway,674.0,59.4828,6.6726,Hydro
+Norway,78.0,62.1868,10.6171,Hydro
+Norway,75.0,68.4087,17.8011,Hydro
+Norway,229.0,67.325,15.7073,Hydro
+Norway,60.0,66.3106,13.5635,Hydro
+Norway,88.0,67.1944,15.7086,Hydro
+Norway,83.0,69.3153,20.3582,Hydro
+Norway,120.0,58.553999999999995,7.3762,Hydro
+Norway,360.0,68.2038,17.3607,Hydro
+Norway,54.0,69.3729,29.694000000000003,Hydro
+Norway,102.0,59.6189,9.6677,Hydro
+Norway,160.0,63.4106,7.9099,Wind
+Norway,40.0,62.6187,10.2545,Hydro
+Norway,206.0,60.5743,8.4096,Hydro
+Norway,42.0,60.5277,7.7524,Hydro
+Norway,150.0,60.265,8.9308,Hydro
+Norway,252.0,59.5423,11.1704,Hydro
+Norway,224.0,59.8468,8.4274,Hydro
+Norway,55.0,60.855,5.6951,Hydro
+Norway,45.0,62.9957,11.8285,Hydro
+Norway,375.0,59.6246,7.8508,Hydro
+Norway,42.0,59.3021,9.2047,Hydro
+Norway,66.0,61.1975,8.3808,Hydro
+Oman,471.0,23.7073,57.9845,Gas
+Oman,480.0,23.6031,58.4164,Gas
+Oman,285.0,22.3903,59.0695,Gas
+Oman,279.0,22.7067,57.5779,Gas
+Oman,684.0,23.5542,58.1993,Gas
+Oman,716.0,23.706999999999997,57.9816,Gas
+Oman,632.0,24.4885,56.6135,Gas
+Oman,1000.0,24.4722,56.6331,Gas
+Oman,325.0,24.308000000000003,56.4235,Gas
+Pakistan,362.0,30.1725,70.993,Oil
+Pakistan,225.0,31.6786,74.0839,Gas
+Pakistan,1260.0,24.7844,67.3604,Oil
+Pakistan,184.0,32.4348,71.3706,Hydro
+Pakistan,1330.0,32.391999999999996,71.4616,Nuclear
+Pakistan,13.0,31.7131,73.9783,Hydro
+Pakistan,36.6,35.2101,72.5459,Hydro
+Pakistan,50.0,24.6721,67.4959,Wind
+Pakistan,217.0,28.026999999999997,69.3631,Gas
+Pakistan,40.0,31.5233,73.3886,Coal
+Pakistan,118.0,24.8339,67.4179,Coal
+Pakistan,157.0,30.5237,71.9555,Gas
+Pakistan,185.0,27.988000000000003,69.671,Gas
+Pakistan,100.0,24.5757,67.4626,Wind
+Pakistan,1450.0,33.7793,72.259,Hydro
+Pakistan,110.0,28.4272,69.697,Gas
+Pakistan,136.0,24.8496,67.1471,Oil
+Pakistan,140.0,30.2773,66.97399999999999,Gas
+Pakistan,1292.0,24.9057,66.6946,Oil
+Pakistan,220.0,24.9057,66.6946,Oil
+Pakistan,120.0,31.3255,74.2617,Oil
+Pakistan,106.0,25.0573,67.985,Wind
+Pakistan,137.0,24.845,66.7888,Nuclear
+Pakistan,131.0,31.2629,74.1871,Oil
+Pakistan,80.0,24.8483,67.1453,Gas
+Pakistan,316.0,24.7857,67.1386,Gas
+Pakistan,1368.0,30.4451,70.9811,Hydro
+Pakistan,150.0,25.7041,68.2861,Coal
+Pakistan,232.0,28.0318,69.6357,Gas
+Pakistan,1000.0,33.1373,73.6416,Hydro
+Pakistan,40.0,32.9052,71.6119,Coal
+Pakistan,50.0,25.1715,67.969,Wind
+Pakistan,120.0,30.2934,70.9672,Coal
+Pakistan,14.0,36.166,74.1755,Hydro
+Pakistan,200.0,31.1389,73.9125,Oil
+Panama,260.0,9.1771,-78.8844,Hydro
+Panama,160.0,9.3796,-79.8219,Gas
+Panama,222.4,9.2703,-82.5154,Hydro
+Panama,300.0,8.679,-82.2626,Hydro
+Panama,120.0,8.543,-82.29799999999999,Hydro
+Panama,22.5,9.2637,-79.9308,Hydro
+Panama,47.2,8.7164,-82.3646,Hydro
+Panama,54.8,8.6777,-82.3476,Hydro
+Panama,36.0,9.2106,-79.6165,Hydro
+Panama,96.0,8.9091,-79.7809,Oil
+Panama,53.4,9.1053,-79.2729,Oil
+Papua New Guinea,72.0,-6.0048,142.8096,Gas
+Papua New Guinea,24.0,-9.4318,147.1428,Oil
+Papua New Guinea,30.0,-6.7379999999999995,146.9912,Oil
+Papua New Guinea,1.5,-5.3392,151.1341,Hydro
+Papua New Guinea,30.0,-3.1245,152.6464,Geothermal
+Papua New Guinea,57.0,-5.2448,141.1364,Hydro
+Papua New Guinea,45.0,-5.2095,141.1827,Oil
+Papua New Guinea,12.0,-6.0161,144.0579,Hydro
+Papua New Guinea,13.0,-5.4655,143.1095,Oil
+Papua New Guinea,75.0,-6.2505,145.9805,Hydro
+Papua New Guinea,1.5,-9.4791,147.4465,Hydro
+Papua New Guinea,16.0,-5.2773,141.2323,Oil
+Papua New Guinea,3.5,-8.5659,147.1383,Oil
+Papua New Guinea,8.4,-4.3557,152.2454,Oil
+Papua New Guinea,18.0,-6.2482,145.9744,Hydro
+Paraguay,210.0,-25.4591,-54.6289,Hydro
+Paraguay,7000.0,-25.4081,-54.5889,Hydro
+Paraguay,1550.0,-27.4827,-56.725,Hydro
+Peru,203.0,-9.0288,-75.4926,Gas
+Peru,798.0,-12.4644,-74.7865,Hydro
+Peru,247.0,-8.812999999999999,-77.8526,Hydro
+Peru,145.0,-16.2457,-71.3472,Hydro
+Peru,30.0,-4.5655,-81.2028,Wind
+Peru,524.0,-11.9358,-77.118,Gas
+Peru,130.0,-10.722999999999999,-75.6455,Hydro
+Philippines,80.0,8.0046,124.2868,Hydro
+Philippines,180.0,8.0528,124.2709,Hydro
+Philippines,158.1,8.1336,124.1983,Hydro
+Philippines,309.0,8.1937,124.1915,Hydro
+Philippines,105.0,16.4588,120.7452,Hydro
+Philippines,22.3,15.0736,120.5893,Solar
+Philippines,5.7,10.6163,122.1683,Solar
+Philippines,20.0,18.0508,120.4858,Solar
+Philippines,28.6,6.7718,125.2853,Solar
+Philippines,405.0,8.5601,124.7465,Coal
+Philippines,60.0,10.4152,123.6789,Solar
+Philippines,3.4,10.6584,122.5963,Oil
+Philippines,132.5,14.1033,121.5423,Solar
+Philippines,1271.0,13.622,121.0795,Gas
+Philippines,32.0,10.4216,122.9348,Solar
+Philippines,48.0,10.4249,122.9282,Solar
+Philippines,739.2,14.3168,121.4739,Hydro
+Philippines,10.5,7.5546,124.9616,Solar
+Philippines,112.5,11.1308,124.6553,Geothermal
+Philippines,620.0,14.5434,120.5987,Oil
+Philippines,360.0,16.8293,121.4537,Hydro
+Philippines,442.8,14.0881,121.2264,Geothermal
+Philippines,15.7,14.1447,121.3152,Geothermal
+Philippines,5.0,15.4408,119.9856,Solar
+Philippines,50.1,15.4467,120.618,Solar
+Philippines,511.0,14.2296,121.7558,Coal
+Philippines,21.0,10.5158,123.4351,Solar
+Philippines,8.3,10.9844,122.7711,Biomass
+Philippines,530.0,13.7717,124.0349,Gas
+Philippines,411.0,16.1462,120.6837,Hydro
+Philippines,300.0,14.5247,120.5964,Coal
+Philippines,118.0,5.871,125.0789,Coal
+Philippines,300.0,13.9201,120.8265,Coal
+Philippines,270.0,13.9328,120.7909,Coal
+Philippines,135.0,6.3943,125.6173,Coal
+Philippines,59.0,6.1018,125.2905,Oil
+Philippines,1060.0,13.7703,121.035,Gas
+Philippines,1294.0,16.1243,120.1012,Coal
+Philippines,116.0,14.88,120.2343,Oil
+Philippines,59.0,10.5116,123.4351,Solar
+Philippines,450.0,13.7769,121.0261,Gas
+Philippines,1.0,15.6854,121.4748,Hydro
+Philippines,3.8,15.0074,120.973,Solar
+Poland,5400.0,51.2679,19.3265,Coal
+Poland,158.0,50.3557,18.2912,Gas
+Poland,183.0,53.0996,18.0875,Coal
+Poland,226.0,50.308,18.9695,Coal
+Poland,100.0,51.0378,17.1497,Coal
+Poland,1362.0,53.2065,14.4669,Coal
+Poland,157.0,53.1488,23.1692,Coal
+Poland,129.0,50.3167,22.3238,Gas
+Poland,101.0,50.0658,22.0285,Gas
+Poland,620.0,52.1898,21.0889,Coal
+Poland,231.0,51.215,22.5535,Gas
+Poland,491.0,52.7074,18.9589,Gas
+Poland,156.0,52.6564,19.1339,Hydro
+Poland,112.0,51.4572,21.9738,Coal
+Poland,100.0,53.5749,14.5328,Coal
+Poland,188.0,51.9513,15.488,Gas
+Poland,820.0,50.3496,19.1417,Coal
+Poland,905.0,50.1334,18.8466,Coal
+Poland,716.0,54.7224,18.0825,Hydro
+Poland,157.0,54.025,16.7069,Hydro
+Romania,149.0,45.5879,23.6279,Hydro
+Romania,509.0,45.4472,23.7683,Hydro
+Romania,313.0,44.6751,22.6878,Coal
+Romania,346.0,45.43600000000001,27.9814,Gas
+Romania,177.0,45.04,24.29,Coal
+Romania,751.0,46.4677,24.1833,Gas
+Romania,595.0,44.3886,23.718000000000004,Coal
+Romania,1000.0,45.9134,22.8254,Coal
+Romania,170.0,47.0842,21.8928,Coal
+Romania,133.0,45.3647,23.261,Coal
+Romania,184.0,44.372,26.1073,Gas
+Romania,1207.0,44.9068,23.1383,Coal
+Romania,1896.0,44.6694,23.408,Coal
+Romania,70.0,45.0451,28.9607,Wind
+Romania,246.0,44.5903,28.5653,Wind
+Russia,270.0,53.7194,91.3219,Coal
+Russia,46.0,64.75,177.4833,Gas
+Russia,195.0,55.6387,60.776,Coal
+Russia,450.0,64.5753,40.5729,Gas
+Russia,275.0,53.3742,83.7706,Coal
+Russia,1240.0,54.4453,86.4257,Coal
+Russia,4000.0,52.0911,47.9553,Nuclear
+Russia,370.0,54.9132,56.071000000000005,Gas
+Russia,60.0,50.6107,36.5802,Gas
+Russia,1480.0,56.8417,61.3225,Nuclear
+Russia,27.0,53.5097,45.3184,Gas
+Russia,127.4,53.5097,45.3184,Gas
+Russia,2300.0,55.5766,89.0713,Coal
+Russia,170.0,53.1994,50.2948,Gas
+Russia,48.0,68.0567,166.458,Nuclear
+Russia,2997.0,58.6947,99.1489,Hydro
+Russia,4500.0,56.2871,101.7852,Hydro
+Russia,2010.0,50.2708,130.3119,Hydro
+Russia,1172.0,53.5751,49.2449,Gas
+Russia,330.0,55.751999999999995,37.731,Gas
+Russia,768.0,55.783,37.501999999999995,Gas
+Rwanda,3.78,-1.7269999999999999,29.256,Waste
+Rwanda,7.8,-1.891,30.066,Oil
+Rwanda,20.0,-1.882,30.074,Oil
+Rwanda,38.0,-1.5819999999999999,29.655,Gas
+Rwanda,2.5,-1.5819999999999999,29.655,Hydro
+Rwanda,11.5,-1.4769999999999999,29.75,Hydro
+Rwanda,28.0,-1.989,29.633000000000003,Hydro
+Rwanda,29.8,-2.509,28.875,Hydro
+Rwanda,43.8,-2.633,28.903000000000002,Hydro
+Rwanda,8.5,-2.026,30.377,Solar
+Saudi Arabia,162.0,25.94,49.688,Gas
+Saudi Arabia,263.4,26.23,36.486999999999995,Oil
+Saudi Arabia,348.0,29.78,40.012,Oil
+Saudi Arabia,532.7,31.26,37.424,Oil
+Saudi Arabia,408.6,30.93,41.056000000000004,Oil
+Saudi Arabia,695.82,18.25,42.578,Oil
+Saudi Arabia,496.7,25.19,49.306999999999995,Gas
+Saudi Arabia,1412.0,27.11,49.312,Gas
+Saudi Arabia,82.5,23.98,38.257,Gas
+Saudi Arabia,54.3,24.12,38.118,Oil
+Saudi Arabia,519.8,23.86,38.383,Oil
+Saudi Arabia,865.8,23.97,38.219,Oil
+Saudi Arabia,825.0,23.87,38.366,Oil
+Senegal,98.6,14.717,-17.477999999999998,Oil
+Senegal,19.0,12.5819,-16.2782,Oil
+Senegal,327.0,17.7197,-17.2996,Oil
+Senegal,15.36,14.15,-16.0667,Oil
+Senegal,10.5,16.0333,-16.5,Oil
+Senegal,120.0,12.3664,-12.1901,Hydro
+Serbia,420.0,43.9645,19.4102,Hydro
+Serbia,1086.0,44.6684,22.5268,Hydro
+Serbia,270.0,44.3065,22.5667,Hydro
+Serbia,614.0,43.9645,19.4102,Hydro
+Serbia,245.0,44.4806,20.2934,Coal
+Serbia,617.0,42.6773,21.0886,Coal
+Serbia,281.0,44.7229,21.1717,Coal
+Serbia,697.0,44.7307,21.2104,Coal
+Serbia,110.0,44.2248,21.1627,Coal
+Serbia,1730.0,44.6711,20.1593,Coal
+Serbia,1270.0,44.6551,20.0053,Coal
+Sierra Leone,23.0,7.7675,-12.2931,Oil
+Sierra Leone,50.0,9.0713,-11.7229,Hydro
+Sierra Leone,53.0,8.4929,-13.2474,Oil
+Singapore,800.0,1.2843,103.725,Gas
+Singapore,1300.0,1.2824,103.675,Gas
+Singapore,22.0,1.2987,103.6215,Waste
+Singapore,210.0,1.2715,103.7989,Gas
+Singapore,210.0,1.2813,103.7239,Gas
+Singapore,1540.0,1.2765,103.7266,Gas
+Singapore,2250.0,1.28,103.727,Oil
+Singapore,1215.0,1.254,103.7026,Gas
+Singapore,2807.0,1.4655,103.7996,Gas
+Singapore,500.0,1.464,103.7976,Oil
+Singapore,56.0,1.4624,103.795,Waste
+Singapore,1470.0,1.2888,103.6414,Gas
+Singapore,1200.0,1.2896,103.6397,Oil
+Singapore,80.0,1.2959,103.6205,Waste
+South Africa,171.0,-33.8841,18.5336,Gas
+South Africa,82.5,-27.3737,23.0076,Solar
+South Africa,134.4,-32.875,25.9977,Wind
+South Africa,1327.0,-33.592,18.4607,Oil
+South Africa,10.65,-29.497,20.7852,Solar
+South Africa,2100.0,-25.9444,29.7917,Coal
+South Africa,10.3,-32.641999999999996,18.4974,Solar
+South Africa,7.0,-28.217,28.3631,Hydro
+South Africa,6.5,-29.813000000000002,30.9821,Waste
+South Africa,50.0,-28.726999999999997,21.9951,Solar
+South Africa,60.0,-28.465999999999998,25.1947,Solar
+South Africa,1600.0,-26.6201,30.0911,Coal
+South Africa,21.0,-32.5912,27.9631,Wind
+South Africa,73.8,-33.676,25.6028,Wind
+South Africa,138.6,-32.742,25.9242,Wind
+South Africa,5.2,-33.3173,18.2586,Wind
+South Africa,138.0,-33.2665,19.0225,Wind
+South Africa,740.0,-34.1653,21.9608,Oil
+South Africa,3.5,-33.315,26.4908,Biomass
+South Africa,61.5,-33.6763,25.6029,Wind
+South Africa,10.0,-29.391,23.3117,Solar
+South Africa,1200.0,-26.7695,28.4995,Coal
+South Africa,2000.0,-26.0314,29.6014,Coal
+South Africa,19.0,-29.000999999999998,23.8005,Solar
+South Africa,25.47,-25.662,27.837,Waste
+South Africa,66.6,-33.093,18.3987,Wind
+South Africa,96.0,-28.311999999999998,23.3673,Solar
+South Africa,138.0,-33.9962,24.8435,Wind
+South Africa,100.0,-30.16,24.1365,Solar
+South Africa,75.0,-31.726999999999997,23.191999999999997,Solar
+South Africa,73.8,-27.601999999999997,22.9201,Wind
+South Africa,100.0,-27.5954,22.929000000000002,Solar
+South Africa,4116.0,-26.088,28.9689,Coal
+South Africa,50.0,-28.538,21.0777,Solar
+South Africa,140.0,-30.4642,19.5233,Wind
+South Africa,30.0,-31.8394,18.5638,Wind
+South Africa,1800.0,-33.6737,18.4281,Nuclear
+South Africa,1000.0,-26.0899,29.4725,Coal
+South Africa,75.0,-28.8871,19.5538,Solar
+South Africa,11.0,-28.889,19.5553,Solar
+South Africa,3600.0,-26.254,29.1801,Coal
+South Africa,800.0,-25.9194,28.9156,Coal
+South Africa,75.0,-28.316,23.3452,Solar
+South Africa,3708.0,-26.7403,27.975,Coal
+South Africa,75.0,-28.915,25.9199,Solar
+South Africa,40.0,-31.0,24.6512,Solar
+South Africa,10.1,-25.772,31.0406,Biomass
+South Africa,100.0,-30.7259,23.9137,Wind
+South Africa,144.0,-30.5411,24.26,Wind
+South Africa,4110.0,-27.0955,29.7706,Coal
+South Africa,2.0,-29.848000000000003,30.8359,Waste
+South Africa,3990.0,-23.6678,27.6128,Coal
+South Africa,3600.0,-26.2804,29.1423,Coal
+South Africa,9.7,-30.6279,24.0054,Solar
+South Africa,86.0,-30.0246,22.3392,Solar
+South Africa,12.57,-28.772,20.7431,Hydro
+South Africa,80.0,-31.1759,25.0224,Wind
+South Africa,82.5,-32.423,18.7356,Solar
+South Africa,400.0,-34.1972,18.9736,Hydro
+South Africa,4.2,-34.145,22.1045,Waste
+South Africa,171.0,-33.0274,27.8838,Oil
+South Africa,19.9,-29.968000000000004,22.3199,Solar
+South Africa,86.0,-30.022,22.3559,Solar
+South Africa,82.5,-29.0387,24.9332,Solar
+South Africa,80.0,-34.135999999999996,24.7105,Wind
+South Africa,7.0,-25.738000000000003,27.4181,Solar
+South Africa,100.0,-31.5128,18.0914,Wind
+South Africa,94.3,-27.584,22.9275,Solar
+South Africa,5.0,-33.35,18.5295,Solar
+South Africa,75.0,-30.5788,24.0789,Solar
+South Korea,90.0,36.5847,128.7739,Hydro
+South Korea,834.0,37.2952,126.7788,Gas
+South Korea,493.0,37.3936,126.9671,Gas
+South Korea,113.9,36.9909,126.7135,Gas
+South Korea,2.6,36.3174,126.9401,Hydro
+South Korea,1800.0,36.3951,126.486,Gas
+South Korea,4000.0,36.402,126.49,Coal
+South Korea,7.5,36.3995,126.48700000000001,Hydro
+South Korea,473.0,37.5225,126.764,Gas
+South Korea,1503.0,36.959,126.7825,Gas
+South Korea,105.0,36.959,126.7825,Biomass
+South Korea,150.0,33.537,126.5974,Coal
+South Korea,922.0,37.3642,127.1482,Gas
+South Korea,1800.0,35.0851,129.0003,Gas
+South Korea,62.0,37.9672,127.6699,Hydro
+South Korea,5.0,35.3774,128.55100000000002,Hydro
+South Korea,400.0,37.7232,127.421,Hydro
+South Korea,600.0,36.4052,129.016,Hydro
+South Korea,3.0,36.0154,128.4004,Hydro
+South Korea,400.0,37.0071,127.9926,Hydro
+South Korea,90.0,36.4783,127.4801,Hydro
+South Korea,415.0,35.8819,128.7051,Gas
+South Korea,131.0,37.0108,126.4099,Gas
+South Korea,2.86,35.7324,128.415,Hydro
+South Korea,4000.0,37.0543,126.5133,Coal
+South Korea,24.0,35.0222,126.24799999999999,Solar
+South Korea,1900.0,37.903,127.09,Gas
+South Korea,1.4,37.4853,129.14700000000002,Solar
+South Korea,146.0,36.0352,129.4011,Gas
+South Korea,5.0,37.2768,127.6815,Hydro
+South Korea,3.0,35.8417,128.4615,Hydro
+South Korea,98.0,37.7244,128.7369,Wind
+South Korea,9.1,36.1581,128.0488,Solar
+South Korea,100.0,35.5337,128.0316,Hydro
+South Korea,500.0,34.8545,127.7351,Coal
+South Korea,108.0,38.1174,127.7785,Hydro
+South Korea,1.0,37.0518,126.4412,Solar
+South Korea,900.0,37.6475,126.7973,Gas
+South Korea,50.0,36.5384,128.8813,Hydro
+South Korea,3052.0,37.5111,126.6078,Gas
+South Korea,3.0,37.4041,127.5367,Hydro
+South Korea,255.0,33.5352,126.5961,Oil
+South Korea,30.0,33.369,126.191,Wind
+South Korea,15.0,33.3924,126.7374,Wind
+South Korea,15.0,35.1195,128.017,Waste
+South Korea,1.0,34.9734,126.6313,Hydro
+South Korea,3.0,35.8311,128.4896,Biomass
+South Korea,1960.0,37.5109,126.609,Gas
+South Korea,3137.0,35.3199,129.2948,Nuclear
+South Korea,1071.0,34.8895,127.7747,Gas
+South Korea,12.0,36.5893,126.3672,Solar
+South Korea,2.12,34.8328,126.4096,Waste
+South Korea,1800.0,37.5363,126.6027,Gas
+South Korea,1.3,35.2799,128.8676,Solar
+South Korea,1.0,35.0673,126.7634,Hydro
+South Korea,3340.0,35.3271,129.3017,Nuclear
+South Korea,2000.0,35.7221,129.4786,Nuclear
+South Korea,3.0,38.0208,128.4965,Wind
+South Korea,1800.0,37.508,126.6159,Gas
+South Korea,254.0,37.3142,126.6136,Wave and Tidal
+South Korea,34.0,34.9191,126.85700000000001,Hydro
+South Korea,118.0,35.1968,126.8305,Gas
+South Korea,2.0,36.8043,126.2005,Solar
+South Korea,4000.0,36.904,126.23299999999999,Coal
+South Korea,18.0,37.3437,129.0018,Wind
+South Korea,40.0,37.4395,128.2698,Wind
+South Korea,40.0,37.4395,128.2698,Wind
+South Korea,48.0,37.836,127.6779,Hydro
+South Korea,3000.0,35.4754,129.3812,Oil
+South Korea,2799.0,35.7111,129.4743,Nuclear
+South Korea,1000.0,38.0163,128.5467,Hydro
+South Korea,800.0,36.5678,128.8761,Hydro
+South Korea,5.0,37.3263,127.6052,Hydro
+South Korea,61.5,36.5692,129.2363,Wind
+South Korea,325.0,37.7386,128.9812,Coal
+South Korea,5080.0,37.2369,126.4361,Coal
+South Korea,22.0,33.4397,126.8349,Wind
+South Korea,400.0,35.5141,129.3835,Coal
+South Korea,13.0,34.743,126.4273,Solar
+South Korea,848.0,37.163000000000004,128.4924,Gas
+South Korea,678.0,34.8393,127.6908,Coal
+South Korea,80.0,34.8414,127.6929,Gas
+South Korea,3.0,35.419000000000004,126.4286,Solar
+South Korea,39.6,36.4149,129.4141,Wind
+South Korea,1475.0,34.913000000000004,127.59299999999999,Gas
+Spain,877.66,43.5528,-5.7231,Coal
+Spain,758.74,39.9427,-3.8548,Gas
+Spain,15.0,41.5485,0.8245,Waste
+Spain,18.0,41.8559,-1.9224,Wind
+Spain,16.334,41.8559,-1.9224,Waste
+Spain,20.0,37.6167,-4.3225,Biomass
+Spain,360.6,43.0952,-4.0004,Hydro
+Spain,67.6,42.4333,-8.1443,Hydro
+Spain,533.8,39.8106,3.0913,Coal
+Spain,1226.43,41.2117,-6.6856,Hydro
+Spain,46.5,41.4206,-2.3319,Wind
+Spain,11.05,41.5406,-1.7166,Wind
+Spain,786.42,43.2347,-2.7497,Gas
+Spain,11.05,42.9362,-4.3083,Wind
+Spain,18.0,42.0357,-6.9054,Wind
+Spain,13.5,41.7389,-2.1697,Wind
+Spain,149.7,37.2281,-3.0511,Solar
+Spain,346.84,42.8385,-6.5332,Coal
+Spain,56.04,43.4486,-6.7053,Hydro
+Spain,1585.39,36.6721,-5.8164,Gas
+Spain,43.2,28.0996,-16.680999999999997,Oil
+Spain,784.7,42.4194,-2.2511,Gas
+Spain,67.52,41.798,1.9543,Hydro
+Spain,1990.5,41.2008,0.5679,Nuclear
+Spain,99.8,39.171,-3.2666,Solar
+Spain,49.9,38.812,-7.0587,Solar
+Spain,39.58,40.8125,0.5216,Gas
+Spain,15.0,41.5667,0.5167,Waste
+Spain,14.6,39.6598,-2.76,Waste
+Spain,1003.41,40.7016,-2.6227,Nuclear
+Spain,23.92,42.1519,0.2225,Gas
+Spain,247.17,39.7778,-5.6124,Hydro
+Spain,65.1,41.9974,-6.2738,Hydro
+Spain,1045.31,40.9511,0.8662,Nuclear
+Spain,86.48,42.3589,-7.851,Hydro
+Spain,12.444,41.3888,2.1590000000000003,Waste
+Spain,12.9,42.702,0.7956,Oil
+Spain,21.86,42.702,0.7956,Hydro
+Spain,215.81,39.2077,-1.2401,Hydro
+Spain,10.9,41.2702,-6.3208,Hydro
+Spain,850.88,41.2669,-6.3078,Hydro
+Spain,49.2,38.6137,-1.1147,Wind
+Sri Lanka,3.0,6.8432,80.813,Wind
+Sri Lanka,51.0,6.9561,79.9483,Oil
+Sri Lanka,40.0,7.6642,80.6772,Hydro
+Sri Lanka,35.0,6.9788,80.4546,Hydro
+Sri Lanka,382.0,6.9522,79.8789,Oil
+Sri Lanka,60.0,6.8691,80.5277,Hydro
+Sri Lanka,60.0,6.9533,79.8558,Oil
+Sri Lanka,2.0,6.9768,80.4553,Hydro
+Sri Lanka,25.0,7.6994,80.7699,Hydro
+Sri Lanka,4.8,8.0897,79.7092,Wind
+Sri Lanka,100.0,6.9181,80.4949,Hydro
+Sri Lanka,3.2,7.1966,80.6121,Hydro
+Sri Lanka,10.5,7.9544,79.7411,Wind
+Sri Lanka,36.0,9.7387,80.0346,Oil
+Sri Lanka,50.0,9.919,80.4894,Hydro
+Sri Lanka,10.2,8.049,79.719,Wind
+Sri Lanka,12.0,9.5778,80.32,Wind
+Sri Lanka,75.0,6.5842,80.8081,Hydro
+Sri Lanka,126.0,7.2024,80.9259,Hydro
+Sri Lanka,52.0,7.2013,80.9506,Hydro
+Sri Lanka,124.0,6.9778,80.4567,Hydro
+Sri Lanka,160.0,6.961,79.9608,Oil
+Sri Lanka,9.6,8.0538,79.8083,Wind
+Sri Lanka,168.0,6.9523,79.8789,Oil
+Sri Lanka,6.0,6.4319,80.8506,Hydro
+Sri Lanka,40.0,7.3989,80.6522,Hydro
+Sri Lanka,150.0,7.0433,80.658,Hydro
+Sri Lanka,10.5,7.9811,79.7758,Wind
+Sri Lanka,24.0,9.7411,80.0333,Oil
+Sri Lanka,12.0,9.5675,80.3367,Wind
+Sri Lanka,210.0,7.1999,80.8069,Hydro
+Sri Lanka,10.4,8.0667,79.7939,Wind
+Sri Lanka,50.0,6.9083,80.5247,Hydro
+Sri Lanka,300.0,7.0122,79.874,Oil
+Sudan,15.1,17.7,34.0,Oil
+Sudan,319.0,16.12,32.692,Gas
+Sudan,14.3,13.1833,30.2167,Oil
+Sudan,15.2,15.2396,32.4649,Hydro
+Sudan,15.2,15.2381,32.4857,Hydro
+Sudan,50.0,14.0333,33.1667,Oil
+Sudan,351.0,15.65,32.563,Oil
+Sudan,11.01,14.9222,35.9083,Hydro
+Sudan,260.0,15.5881,32.5342,Oil
+Sudan,33.5,15.6482,32.563,Oil
+Sudan,23.0,5.8864,31.6856,Oil
+Sudan,26.0,10.4333,32.2,Biomass
+Sudan,1250.0,18.6667,32.05,Hydro
+Sudan,15.5,12.05,24.8833,Oil
+Sudan,38.1,19.6158,37.2164,Oil
+Sudan,12.6,12.7167,30.65,Oil
+Sudan,233.6,11.7988,34.3882,Hydro
+Sudan,15.0,13.5667,33.6333,Hydro
+Sudan,100.0,14.0724,32.4672,Biomass
+Swaziland,15.0,-26.5895,31.324,Hydro
+Swaziland,20.8,-26.3763,31.1552,Hydro
+Swaziland,15.0,-26.0785,31.2616,Hydro
+Swaziland,14.0,-26.0333,31.85,Biomass
+Swaziland,17.0,-26.1778,31.9073,Biomass
+Swaziland,13.0,-26.7729,31.9416,Biomass
+Sweden,86.0,65.5065,15.620999999999999,Hydro
+Sweden,150.0,66.6314,19.8199,Hydro
+Sweden,32.0,61.3468,16.075,Hydro
+Sweden,116.0,60.5637,17.442,Hydro
+Sweden,7.0,56.4833,13.5,Hydro
+Sweden,25.0,63.6833,12.6333,Hydro
+Sweden,94.0,59.5883,16.5136,Biomass
+Sweden,27.0,64.102,17.2891,Hydro
+Sweden,22.0,60.15,16.1667,Hydro
+Sweden,15.0,60.1454,16.1679,Hydro
+Sweden,24.0,60.1454,16.1679,Hydro
+Sweden,8.0,56.75,13.2833,Hydro
+Sweden,107.0,65.4023,18.6727,Hydro
+Sweden,42.0,65.1167,21.1,Hydro
+Sweden,166.0,62.5204,17.3875,Hydro
+Sweden,21.0,64.55,15.2333,Hydro
+Sweden,16.2,61.2667,16.85,Hydro
+Sweden,288.0,63.423,16.1473,Wind
+Sweden,17.0,63.5667,18.55,Hydro
+Sweden,78.0,60.065,15.9237,Hydro
+Sweden,42.0,60.065,15.9237,Hydro
+Sweden,15.0,61.15,14.1833,Hydro
+Sweden,80.0,65.8078,21.6716,Hydro
+Sweden,5.0,63.2909,18.7153,Hydro
+Sweden,47.0,60.4858,15.4371,Hydro
+Sweden,20.0,59.6167,13.4667,Hydro
+Sweden,22.0,60.4858,15.4371,Hydro
+Sweden,2.0,63.25,18.25,Hydro
+Sweden,72.0,61.3956,16.4041,Hydro
+Sweden,9.0,60.5089,14.2246,Hydro
+Sweden,3.0,58.753,17.0079,Hydro
+Sweden,6.6,59.5254,13.4813,Hydro
+Sweden,24.0,60.9667,12.4667,Hydro
+Sweden,44.0,60.4858,15.4371,Hydro
+Sweden,3227.0,60.4028,18.1744,Nuclear
+Sweden,158.0,63.2713,17.1987,Hydro
+Sweden,2.4,57.4536,12.0056,Hydro
+Sweden,4.7,59.5072,13.3139,Hydro
+Sweden,3.7,61.1667,15.1333,Hydro
+Sweden,22.0,64.5,14.15,Hydro
+Sweden,220.0,65.1141,19.4644,Hydro
+Sweden,78.0,63.1419,16.1611,Hydro
+Sweden,60.0,65.4763,15.8566,Hydro
+Sweden,66.0,65.572,15.1816,Hydro
+Sweden,12.0,63.4,19.05,Hydro
+Sweden,17.0,63.55,18.6167,Hydro
+Sweden,14.0,63.3333,19.1,Hydro
+Sweden,16.0,59.55,12.55,Hydro
+Sweden,108.0,64.9654,17.5797,Hydro
+Sweden,14.0,63.7167,13.15,Hydro
+Sweden,1020.0,56.1522,14.8325,Hydro
+Sweden,31.4,56.5121,13.0437,Hydro
+Sweden,296.0,63.5423,16.7629,Hydro
+Sweden,22.0,59.5833,13.6833,Hydro
+Sweden,103.0,62.0411,14.9004,Hydro
+Sweden,3.5,59.6553,12.5852,Hydro
+Sweden,250.2,63.1462,16.0706,Hydro
+Sweden,5.6,60.45,14.55,Hydro
+Sweden,28.0,60.5315,17.4156,Hydro
+Sweden,30.0,60.5638,17.4422,Hydro
+Sweden,140.0,64.7507,20.9528,Hydro
+Sweden,55.0,59.95,12.75,Hydro
+Sweden,57.0,61.95,15.5167,Hydro
+Sweden,11.3,56.5121,13.0437,Hydro
+Sweden,11.2,61.25,16.6333,Hydro
+Sweden,44.0,60.55,17.7667,Hydro
+Sweden,98.0,63.6366,16.7762,Hydro
+Sweden,5.5,58.9167,12.3,Hydro
+Sweden,1.0,58.4331,16.9667,Hydro
+Sweden,165.0,63.5548,16.8289,Hydro
+Sweden,222.0,66.2242,20.86,Hydro
+Sweden,2.7,61.3167,16.4333,Hydro
+Sweden,9.0,62.5667,16.4167,Hydro
+Sweden,486.0,66.5024,20.3797,Hydro
+Sweden,332.0,66.8094,19.8968,Hydro
+Sweden,46.0,58.1356,12.1199,Hydro
+Sweden,110.0,55.5167,12.7833,Wind
+Sweden,11.0,60.5167,14.9667,Hydro
+Sweden,13.6,61.4167,16.4,Hydro
+Sweden,10.0,64.8,16.0167,Hydro
+Sweden,21.0,62.35,17.0333,Hydro
+Sweden,463.0,66.6855,20.3359,Hydro
+Sweden,155.0,63.2395,15.2372,Hydro
+Sweden,135.0,63.3683,16.9876,Hydro
+Sweden,85.0,62.7212,15.9471,Wind
+Sweden,3.7,58.5371,15.0365,Biomass
+Sweden,33.0,59.8386,13.5436,Hydro
+Sweden,115.0,63.4402,16.8804,Hydro
+Sweden,24.0,60.45,14.4833,Hydro
+Sweden,10.2,57.1,18.25,Wind
+Sweden,70.0,63.2207,15.3219,Hydro
+Sweden,16.0,62.4333,16.4833,Hydro
+Sweden,10.0,61.5,14.8333,Hydro
+Sweden,3.0,59.7667,12.3167,Hydro
+Sweden,440.0,55.6261,13.0404,Gas
+Sweden,1.4,56.9333,13.0667,Hydro
+Sweden,104.0,58.275,12.2727,Hydro
+Sweden,2603.0,57.413000000000004,16.6683,Nuclear
+Sweden,19.0,66.7667,17.5333,Hydro
+Sweden,35.0,62.5167,15.7833,Hydro
+Sweden,69.0,63.9304,19.6661,Hydro
+Sweden,430.0,66.959,19.8023,Hydro
+Sweden,282.0,66.4288,20.6518,Hydro
+Sweden,43.0,60.4167,17.3,Hydro
+Sweden,130.0,59.8514,17.6783,Biomass
+Sweden,10.5,56.35,16.2667,Wind
+Sweden,134.0,65.0193,19.6856,Hydro
+Sweden,35.0,58.3557,12.3729,Hydro
+Sweden,130.0,59.352,18.101,Biomass
+Sweden,325.0,67.4931,18.3549,Hydro
+Sweden,10.0,62.3,17.1667,Hydro
+Sweden,33.0,65.8453,21.5545,Hydro
+Sweden,20.0,64.55,16.75,Hydro
+Sweden,639.0,59.3532,18.0985,Gas
+Sweden,389.0,59.3532,18.0985,Biomass
+Switzerland,16.93,47.3925,8.0442,Hydro
+Switzerland,15.2,47.0378,7.272,Hydro
+Switzerland,29.2,46.2389,7.8747,Hydro
+Switzerland,60.0,46.5285,8.6088,Hydro
+Switzerland,84.9,47.5908,8.1295,Hydro
+Switzerland,28.4,47.5908,8.1295,Hydro
+Switzerland,3.56,47.1674,9.4779,Hydro
+Switzerland,120.0,46.7713,8.6696,Hydro
+Switzerland,1.73,46.7713,8.6696,Hydro
+Switzerland,52.0,46.2106,7.2578,Hydro
+Switzerland,13.0,46.7713,8.6696,Hydro
+Switzerland,35.0,47.5356,7.7147,Hydro
+Switzerland,28.5,47.233999999999995,7.731,Hydro
+Switzerland,1.03,47.3383,7.2449,Hydro
+Switzerland,140.0,46.4114,8.6174,Hydro
+Switzerland,19.5,47.5525,8.2286,Hydro
+Switzerland,6.2,47.5525,8.2286,Hydro
+Switzerland,324.0,46.3335,8.9798,Hydro
+Switzerland,141.0,46.372,8.9161,Hydro
+Switzerland,1285.0,46.1855,7.2512,Hydro
+Switzerland,340.0,46.3336,8.0086,Hydro
+Switzerland,8.7,46.8188,8.6505,Hydro
+Switzerland,20.0,47.3511,8.3421,Hydro
+Switzerland,1.28,46.2885,8.4958,Hydro
+Switzerland,50.0,46.2334,10.1421,Hydro
+Switzerland,1.62,46.2334,10.1421,Hydro
+Switzerland,100.0,46.3339,9.5179,Hydro
+Switzerland,114.0,46.3452,8.6062,Hydro
+Switzerland,1.38,46.3053,8.5539,Hydro
+Switzerland,2.0,46.477,8.8013,Hydro
+Switzerland,8.7,46.0581,7.242999999999999,Hydro
+Switzerland,54.0,46.1604,5.9766,Hydro
+Switzerland,260.5,46.0615,6.9586,Hydro
+Switzerland,66.0,46.3087,7.4356,Hydro
+Switzerland,18.24,46.9242,8.3879,Hydro
+Switzerland,2.94,47.4017,8.4001,Hydro
+Switzerland,46.9,47.5748,8.4733,Hydro
+Switzerland,135.0,47.1631,8.7848,Hydro
+Switzerland,1.45,47.0906,9.343,Hydro
+Switzerland,11.5,46.9688,7.4391,Hydro
+Switzerland,64.0,46.422,8.1454,Hydro
+Switzerland,348.0,46.5654,8.3278,Hydro
+Switzerland,37.5,46.2468,9.1493,Hydro
+Switzerland,6.6,46.7401,8.6247,Hydro
+Switzerland,1.2,46.8365,8.0423,Hydro
+Switzerland,12.7,47.1324,7.2441,Hydro
+Switzerland,100.0,46.6167,8.3077,Hydro
+Switzerland,55.0,46.617,8.3063,Hydro
+Switzerland,8.8,46.9768,8.765,Hydro
+Switzerland,2.0,46.6196,8.5698,Hydro
+Switzerland,49.5,46.7741,9.2046,Hydro
+Switzerland,62.0,46.7086,8.226,Hydro
+Switzerland,12.0,46.882,8.6161,Hydro
+Switzerland,8.3,47.0203,7.2355,Hydro
+Switzerland,19.0,46.5496,7.6604,Hydro
+Switzerland,1.03,46.4947,7.6733,Hydro
+Switzerland,1.5,46.4947,7.6733,Hydro
+Switzerland,760.0,47.552,8.2281,Nuclear
+Switzerland,1035.0,47.3656,7.968,Nuclear
+Switzerland,1245.0,47.6012,8.1845,Nuclear
+Switzerland,390.0,46.9689,7.2684,Nuclear
+Switzerland,1.18,46.882,8.6161,Hydro
+Switzerland,42.6,47.6097,8.2375,Hydro
+Switzerland,1.3,46.6667,7.5333,Hydro
+Switzerland,28.0,46.7126,6.3789,Hydro
+Switzerland,5.6,47.1528,6.9969,Hydro
+Switzerland,24.0,46.2521,7.0114,Hydro
+Switzerland,5.1,46.7737,9.1085,Hydro
+Switzerland,110.0,47.5598,8.0622,Hydro
+Switzerland,90.0,46.2213,7.0148,Hydro
+Switzerland,2.6,46.2364,7.0269,Hydro
+Switzerland,1.6,46.9559,6.7478,Hydro
+Switzerland,8.56,46.5048,7.0621,Hydro
+Switzerland,5.0,47.3667,8.55,Hydro
+Switzerland,1.0,46.9763,9.0459,Hydro
+Switzerland,1000.0,46.8489,9.0118,Hydro
+Switzerland,34.4,46.8489,9.0118,Hydro
+Switzerland,1.42,47.062,9.0553,Hydro
+Switzerland,25.0,46.313,9.1967,Hydro
+Switzerland,3.5,46.9664,9.0371,Hydro
+Switzerland,22.0,46.0906,7.0637,Hydro
+Switzerland,84.0,46.8842,10.4627,Hydro
+Switzerland,7.2,46.35,7.9667,Hydro
+Switzerland,1.16,46.9481,7.4474,Hydro
+Switzerland,3.3,47.0456,9.4232,Hydro
+Switzerland,31.0,46.4882,7.0437,Hydro
+Switzerland,15.5,46.7336,6.5082,Hydro
+Switzerland,9.8,46.2555,6.9607,Hydro
+Switzerland,1.6,46.7429,8.9872,Hydro
+Switzerland,392.0,46.1822,7.247999999999999,Hydro
+Switzerland,54.0,46.4076,8.6477,Hydro
+Switzerland,1.0,47.1094,8.362,Hydro
+Switzerland,1.15,47.1094,8.362,Hydro
+Switzerland,6.48,46.7395,8.8287,Hydro
+Switzerland,72.9,46.4426,8.8395,Hydro
+Switzerland,4.5,47.0456,9.4232,Hydro
+Switzerland,10.6,46.2253,7.3037,Hydro
+Switzerland,3.1,46.1879,8.7491,Hydro
+Switzerland,300.0,46.805,10.3327,Hydro
+Switzerland,5.0,47.0906,9.343,Hydro
+Switzerland,102.8,46.1927,6.0281,Hydro
+Switzerland,92.0,46.1367,7.0391,Hydro
+Switzerland,50.0,46.2163,7.5854,Hydro
+Switzerland,20.4,47.011,8.6454,Hydro
+Switzerland,25.35,47.4705,8.3164,Hydro
+Switzerland,2.1,47.4705,8.3164,Hydro
+Switzerland,1.59,47.479,8.2184,Hydro
+Switzerland,6.6,46.9032,8.3942,Hydro
+Switzerland,12.0,47.2557,7.8163,Hydro
+Switzerland,74.0,46.0824,7.9572,Hydro
+Switzerland,22.0,46.6128,9.1779,Hydro
+Syrian Arab Republic,384.0,33.8012,36.6828,Gas
+Syrian Arab Republic,100.0,35.2308,40.0672,Gas
+Syrian Arab Republic,660.0,34.959,36.661,Oil
+Syrian Arab Republic,30.0,36.1743,37.4401,Gas
+Syrian Arab Republic,1065.0,36.1763,37.437,Oil
+Syrian Arab Republic,75.0,35.8853,38.7472,Hydro
+Syrian Arab Republic,48.0,35.2132,35.965,Oil
+Syrian Arab Republic,680.0,35.1715,35.927,Oil
+Syrian Arab Republic,750.0,33.2698,36.3278,Gas
+Syrian Arab Republic,64.0,34.7184,36.6326,Oil
+Syrian Arab Republic,700.0,34.4662,36.7834,Gas
+Syrian Arab Republic,630.0,35.263000000000005,36.585,Oil
+Syrian Arab Republic,150.0,37.0025,42.0698,Gas
+Syrian Arab Republic,800.0,35.8722,38.5667,Hydro
+Syrian Arab Republic,630.0,36.3814,38.1833,Hydro
+Syrian Arab Republic,256.0,33.4214,36.6889,Gas
+Syrian Arab Republic,400.0,33.4186,36.6861,Oil
+Syrian Arab Republic,544.0,35.736999999999995,36.361999999999995,Gas
+Taiwan,96.0,23.3167,121.4566,Wind
+Taiwan,670.0,23.5072,120.4352,Gas
+Taiwan,1272.0,25.2861,121.5874,Nuclear
+Taiwan,2.0,22.8554,120.535,Hydro
+Taiwan,1000.0,23.8542,120.8701,Hydro
+Taiwan,4380.0,25.026999999999997,121.04799999999999,Gas
+Taiwan,14.0,23.3979,121.3603,Wind
+Taiwan,15.1,23.3979,121.3603,Wind
+Taiwan,1.0,24.3108,120.7214,Hydro
+Taiwan,2000.0,25.1572,121.7398,Oil
+Taiwan,2200.0,22.8558,120.1972,Coal
+Taiwan,2410.0,22.8519,120.1991,Gas
+Taiwan,2040.0,25.2025,121.6629,Nuclear
+Taiwan,300.0,25.1195,121.29899999999999,Gas
+Taiwan,6.0,23.1363,120.4883,Wind
+Taiwan,1902.0,21.9589,120.7501,Nuclear
+Taiwan,4200.0,23.8033,120.1902,Coal
+Taiwan,50.0,24.614,120.7874,Wind
+Taiwan,1785.0,24.4905,120.6694,Gas
+Taiwan,18.0,24.8858,120.9964,Hydro
+Tajikistan,600.0,38.2674,69.1237,Hydro
+Tajikistan,430.0,38.6106,68.7726,Coal
+Tajikistan,210.0,37.8839,68.937,Hydro
+Tajikistan,126.0,40.2759,69.815,Hydro
+Tajikistan,10.0,37.4897,71.553,Hydro
+Tajikistan,3015.0,38.3717,69.3481,Hydro
+Tajikistan,700.0,38.0435,69.0583,Hydro
+Tajikistan,11.0,38.586,68.7785,Hydro
+Tajikistan,14.4,38.6122,68.7767,Hydro
+Tajikistan,180.0,38.296,68.932,Oil
+Tanzania,21.0,-5.2981,38.6041,Hydro
+Tanzania,100.0,-6.6741,39.1873,Oil
+Tanzania,204.0,-7.6354,36.8837,Hydro
+Tanzania,180.0,-8.575,35.8513,Hydro
+Tanzania,80.0,-7.1363,35.9838,Hydro
+Tanzania,18.0,-10.26,40.041,Gas
+Tanzania,63.0,-2.524,32.9662,Gas
+Tanzania,8.0,-3.8213,37.4679,Hydro
+Tanzania,68.0,-5.3491,38.6503,Hydro
+Tanzania,45.0,-6.6741,39.1843,Gas
+Tanzania,207.5,-6.7945,39.2086,Gas
+Thailand,1.7,14.3215,100.3025,Solar
+Thailand,16.0,14.1691,100.5528,Solar
+Thailand,744.0,17.2426,98.9723,Hydro
+Thailand,132.0,13.0505,101.0859,Gas
+Thailand,7.4,14.6592,102.6147,Solar
+Thailand,7.4,14.6996,102.4787,Solar
+Thailand,7.4,14.7615,103.0633,Solar
+Thailand,228.0,12.7014,101.1258,Gas
+Thailand,114.0,12.7547,101.1637,Gas
+Togo,101.214,6.17,1.35,Oil
+Togo,65.6,7.4239999999999995,1.435,Hydro
+Togo,28.3,6.1699,1.3496,Gas
+Trinidad and Tobago,65.6,11.1425,-60.7913,Gas
+Trinidad and Tobago,236.0,10.1476,-61.4747,Gas
+Trinidad and Tobago,852.0,10.4188,-61.4855,Gas
+Trinidad and Tobago,260.0,10.6565,-61.5182,Oil
+Trinidad and Tobago,11.0,11.1847,-60.7378,Oil
+Trinidad and Tobago,720.0,10.2171,-61.6254,Gas
+Tunisia,4.8,36.7996,9.7726,Hydro
+Tunisia,486.0,36.4634,10.0567,Gas
+Tunisia,185.0,33.9181,10.0376,Gas
+Tunisia,1.2,36.672,8.7884,Hydro
+Tunisia,236.0,34.9054,8.5408,Gas
+Tunisia,1.2,36.592,8.706,Hydro
+Tunisia,415.0,33.9263,10.0932,Gas
+Tunisia,22.0,33.9263,10.0932,Gas
+Tunisia,123.0,36.8148,10.2897,Gas
+Tunisia,470.0,36.799,10.2865,Gas
+Tunisia,1.0,36.7611,9.0024,Hydro
+Tunisia,68.0,35.2031,8.7709,Gas
+Tunisia,56.0,36.5809,10.8288,Gas
+Tunisia,44.0,37.1482,9.8006,Gas
+Tunisia,72.0,37.1946,10.061,Wind
+Tunisia,13.0,36.3144,8.7026,Hydro
+Tunisia,700.0,36.7967,10.283,Gas
+Tunisia,44.0,34.8073,10.7031,Gas
+Tunisia,70.0,37.0419,10.9363,Wind
+Tunisia,33.0,36.59,9.397,Hydro
+Tunisia,320.0,35.7848,10.6791,Gas
+Tunisia,364.0,35.7848,10.6791,Gas
+Tunisia,424.0,35.7855,10.6782,Gas
+Tunisia,424.0,35.7855,10.6782,Gas
+Tunisia,375.0,34.6868,10.6424,Gas
+Tunisia,66.0,36.7659,10.2015,Gas
+Tunisia,34.0,33.4701,11.0112,Gas
+Turkey,2795.0,38.3537,36.981,Coal
+Turkey,1150.0,37.1203,30.6016,Gas
+Turkey,270.0,40.399,30.785,Coal
+Turkey,45.0,38.4002,28.4311,Geothermal
+Turkey,700.0,41.3668,35.7244,Hydro
+Turkey,816.0,40.9793,28.6994,Gas
+Turkey,1351.0,40.9834,28.6921,Gas
+Turkey,138.0,40.9368,36.6491,Hydro
+Turkey,9.0,37.3743,38.5128,Solar
+Turkey,2400.0,37.4825,38.3186,Hydro
+Turkey,486.0,40.2394,28.9518,Gas
+Turkey,849.0,41.2393,36.4799,Gas
+Turkey,24.0,37.8592,27.6145,Geothermal
+Turkey,670.0,41.1696,41.8697,Hydro
+Turkey,17.0,38.4198,34.6869,Solar
+Turkey,29.0,39.8756,28.5754,Hydro
+Turkey,110.0,38.348,40.0197,Hydro
+Turkey,34.0,37.857,28.0716,Geothermal
+Turkey,17.0,37.8578,28.0921,Geothermal
+Turkey,114.0,37.8656,27.6474,Geothermal
+Turkey,770.0,40.866,30.3873,Gas
+Turkey,80.0,37.9499,28.8354,Geothermal
+Turkey,50.0,41.51,31.9,Coal
+Turkey,124.0,40.242,38.1859,Hydro
+Turkey,15.0,37.9499,28.8354,Geothermal
+Turkey,10.0,38.5272,31.6121,Solar
+Turkey,248.0,37.6766,36.8505,Hydro
+Turkey,115.0,41.4683,41.7137,Hydro
+Turkey,887.0,41.24,36.4767,Gas
+Turkey,202.0,40.7702,34.7913,Hydro
+Turkey,210.0,39.9515,28.8709,Coal
+Turkey,135.0,37.1741,36.6137,Wind
+Turkey,540.0,36.9086,31.5316,Hydro
+Turkey,68.0,37.9171,28.5297,Geothermal
+Turkey,23.0,37.9171,28.5297,Geothermal
+Turkey,51.0,39.616,29.4429,Coal
+Turkey,162.6,41.2408,36.457,Oil
+Turkey,160.0,40.04,31.4144,Hydro
+Turkey,190.0,39.6289,29.4629,Coal
+Turkey,170.0,39.1278,40.0855,Hydro
+Turkey,1320.0,36.8346,35.8801,Coal
+Turkey,1200.0,36.6904,36.2084,Coal
+Turkey,350.0,38.7417,26.9294,Coal
+Turkey,16.0,40.7882,30.026,Gas
+Turkey,1200.0,40.3991,27.05,Coal
+Turkey,1200.0,40.0224,26.9777,Coal
+Turkey,560.0,39.7575,33.448,Gas
+Turkey,146.0,37.1103,38.652,Gas
+Turkmenistan,371.0,38.0592,58.1641,Gas
+Turkmenistan,254.0,37.8285,58.3841,Gas
+Turkmenistan,174.0,39.5105,54.3273,Gas
+Turkmenistan,254.0,41.8603,59.9479,Gas
+Turkmenistan,1685.0,37.5,61.8417,Oil
+Turkmenistan,590.0,40.0101,52.9255,Oil
+Turkmenistan,126.0,40.0328,52.958999999999996,Gas
+Uganda,11.0,0.3055,30.098000000000003,Hydro
+Uganda,250.0,0.4982,33.1374,Hydro
+Uganda,10.0,-0.8815,29.6707,Hydro
+Uganda,12.0,0.44,33.2,Biomass
+Uganda,205.0,0.4503,33.1857,Hydro
+Uganda,50.0,0.358,32.694,Oil
+Ukraine,625.0,49.0748,33.2531,Hydro
+Ukraine,2334.0,47.5432,33.6583,Coal
+Ukraine,1517.0,47.9944,37.2402,Coal
+Ukraine,1800.0,48.706,29.2202,Coal
+Ukraine,1210.0,48.7478,39.2624,Coal
+Ukraine,815.0,48.3407,38.4049,Coal
+Ukraine,1195.0,48.4052,35.1135,Coal
+Ukraine,2835.0,51.3245,25.8974,Nuclear
+Ukraine,800.0,48.872,37.7657,Coal
+Ukraine,3000.0,47.812,31.22,Nuclear
+Ukraine,1775.0,47.7997,38.0061,Coal
+Ukraine,313.0,47.7968,31.1811,Hydro
+Ukraine,1800.0,50.1344,30.7468,Coal
+Ukraine,3600.0,48.4652,38.2027,Coal
+Ukraine,2825.0,47.5089,34.6253,Coal
+Ukraine,6000.0,47.5119,34.5863,Nuclear
+Ukraine,2200.0,49.5853,36.5236,Coal
+Ukraine,1245.0,48.0332,38.2887,Coal
+United Arab Emirates,2430.0,24.4375,54.49100000000001,Gas
+United Arab Emirates,116.0,25.401999999999997,55.45,Gas
+United Arab Emirates,551.0,24.121,53.446999999999996,Gas
+United Arab Emirates,607.0,25.1493,55.4268,Gas
+United Arab Emirates,818.0,25.1498,55.4247,Gas
+United Arab Emirates,861.0,25.3142,56.3728,Gas
+United Arab Emirates,2114.0,25.3142,56.3728,Gas
+United Arab Emirates,504.0,25.4598,55.48,Gas
+United Arab Emirates,1027.0,25.0659,55.1235,Gas
+United Arab Emirates,616.0,25.0595,55.1178,Gas
+United Arab Emirates,818.0,25.0557,55.1149,Gas
+United Arab Emirates,918.0,25.0591,55.1181,Gas
+United Arab Emirates,760.0,24.7624,54.6835,Gas
+United Arab Emirates,1182.0,25.3732,55.4611,Gas
+United Arab Emirates,200.0,25.445999999999998,55.4777,Gas
+United Kingdom,90.0,51.4606,1.0938,Wind
+United Kingdom,97.2,53.188,0.4465,Wind
+United Kingdom,60.0,53.4172,-3.4486,Wind
+United Kingdom,90.0,53.3776,-3.6402,Wind
+United Kingdom,60.0,52.6439,1.7889,Wind
+United Kingdom,300.0,51.4299,1.6334,Wind
+United Kingdom,317.0,53.1353,1.1479,Wind
+United Kingdom,630.0,51.6217,1.4958,Wind
+United Kingdom,12.0,50.9443,-1.2081,Solar
+United Kingdom,1.0,51.5221,-0.0069,Solar
+United Kingdom,183.6,54.0394,-3.5158,Wind
+United Kingdom,183.6,54.0807,-3.609,Wind
+United Kingdom,4.0,55.1361,-1.4901,Wind
+United Kingdom,64.8,51.7272,1.2459,Wind
+United Kingdom,6.3,51.3897,-0.3096,Solar
+United Kingdom,1.1,51.0366,-0.3658,Solar
+United Kingdom,90.0,53.9915,-3.2983,Wind
+United Kingdom,576.0,53.45399999999999,-3.6266,Wind
+United Kingdom,402.0,53.1175,0.6135,Wind
+United Kingdom,1.6,57.6214,-2.0428,Solar
+United Kingdom,1.0,54.6221,-6.7398,Biomass
+United Kingdom,5.9,54.9638,-6.492999999999999,Solar
+United Kingdom,2.5,52.586000000000006,-1.2375,Biomass
+United Kingdom,48.3,56.1528,-5.3102,Wind
+United Kingdom,1.1,52.8543,-2.8986,Biomass
+United Kingdom,6.0,51.8992,-4.8665,Solar
+United Kingdom,2.3,51.5559,-2.9738,Wind
+United Kingdom,9.0,52.4193,-0.2366,Solar
+United Kingdom,5.3,51.3187,0.9029,Solar
+United Kingdom,7.0,51.1636,-1.5123,Solar
+United Kingdom,24.7,52.3787,-0.1982,Solar
+United Kingdom,3.9,52.3726,-0.1943,Solar
+United Kingdom,1.0,52.839,-2.93,Biomass
+United Kingdom,9.3,51.7007,-3.9476,Solar
+United Kingdom,1.5,52.1234,-4.5632,Solar
+United Kingdom,1586.0,51.3873,-3.4049,Coal
+United Kingdom,51.0,51.3875,-3.4068,Gas
+United Kingdom,35.0,51.3875,-3.4066,Biomass
+United Kingdom,2.0,56.7839,-4.7711,Hydro
+United Kingdom,6.2,58.4385,-3.2015,Wind
+United Kingdom,3.0,57.6108,-4.916,Hydro
+United Kingdom,1.8,51.9433,-1.2086,Waste
+United Kingdom,7.2,55.72,-4.2537,Wind
+United Kingdom,4.3,55.7102,-4.2521,Wind
+United Kingdom,24.0,55.6439,-4.8061,Wind
+United Kingdom,6.0,55.6439,-4.8061,Wind
+United Kingdom,2.0,56.5256,-4.1335,Hydro
+United Kingdom,1.5,56.5583,-5.6873,Hydro
+United Kingdom,33.5,53.474,-2.2079,Waste
+United Kingdom,120.0,55.0688,-4.7971,Wind
+United Kingdom,6.4,56.5709,-3.0481,Wind
+United Kingdom,8.0,53.2479,-1.3464,Solar
+United Kingdom,5.0,51.8206,-0.7382,Biomass
+United Kingdom,2.3,52.003,-0.2703,Waste
+United Kingdom,1.1,52.0017,-0.2767,Waste
+United Kingdom,12.0,54.276,-2.6388,Wind
+United Kingdom,6.2,54.0223,-2.8228,Solar
+United Kingdom,3.9,58.1766,-6.4383,Wind
+United Kingdom,7.9,53.3718,-2.6432,Waste
+United Kingdom,7.9,53.3718,-2.6432,Waste
+United Kingdom,19.5,54.9704,-4.7746,Wind
+United Kingdom,5.0,52.7227,-1.4853,Solar
+United Kingdom,6.8,51.2557,-2.9041,Solar
+United Kingdom,5.0,53.6208,-1.1602,Solar
+United Kingdom,19.0,54.778,-3.3241,Solar
+United Kingdom,5.0,54.7581,-3.3309,Biomass
+United Kingdom,25.0,55.2265,-4.7787,Wind
+United Kingdom,5.0,52.4672,-2.3239,Solar
+United Kingdom,20.0,52.8817,-1.743,Solar
+United Kingdom,14.7,52.6131,-1.5590000000000002,Solar
+United Kingdom,1.3,52.6999,1.1776,Waste
+United Kingdom,2.1,55.9968,-4.5334,Waste
+United Kingdom,2.0,55.9972,-4.5326,Waste
+United Kingdom,2.4,57.5814,-2.6468,Wind
+United Kingdom,2.3,55.8096,-3.9004,Waste
+United Kingdom,36.0,55.623999999999995,-3.9842,Wind
+United Kingdom,1.5,52.6438,-1.558,Biomass
+United Kingdom,1.2,51.504,0.2333,Waste
+United Kingdom,2.1,51.5039,0.2348,Waste
+United Kingdom,7.3,52.5757,1.389,Solar
+United Kingdom,5.0,53.1481,-1.3869999999999998,Solar
+United Kingdom,4.0,55.905,-3.945,Waste
+United Kingdom,4.2,51.508,-2.6783,Solar
+United Kingdom,6.5,51.5097,-2.6908,Biomass
+United Kingdom,6.5,51.5097,-2.6908,Biomass
+United Kingdom,6.0,51.5166,-2.7027,Wind
+United Kingdom,9.0,51.5029,-2.6988,Wind
+United Kingdom,5.0,51.5383,-2.6739,Wind
+United Kingdom,8.2,51.5115,-2.6735,Wind
+United Kingdom,5.0,50.9319,-3.3459,Solar
+United Kingdom,2.5,51.5996,-1.7429,Solar
+United Kingdom,2.0,53.7709,-2.5782,Solar
+United Kingdom,2.1,54.6193,-5.7889,Biomass
+United Kingdom,4.5,51.3202,0.4816,Solar
+United Kingdom,3.0,51.7328,-1.1947,Solar
+United Kingdom,7.5,56.8399,-2.3791,Wind
+United Kingdom,1.5,51.0112,-2.1828,Biomass
+United Kingdom,2.8,52.0486,0.9444,Solar
+United Kingdom,1.5,57.6778,-5.7076,Hydro
+United Kingdom,520.0,51.6145,-3.8352,Gas
+United Kingdom,32.3,51.5924,-3.7802,Gas
+United Kingdom,5.0,51.6094,-3.8295,Solar
+United Kingdom,16.0,53.6277,-0.6672,Wind
+United Kingdom,52.5,58.5679,-3.677,Wind
+United Kingdom,5.0,51.0483,-1.8335,Solar
+United Kingdom,5.4,51.1147,-0.9782,Solar
+United Kingdom,2.4,51.5801,0.7928,Waste
+United Kingdom,8.1,54.8657,-4.7879,Wind
+United Kingdom,13.8,55.6373,-2.0251,Wind
+United Kingdom,4.2,51.9392,1.1364,Solar
+United Kingdom,4.0,53.3564,-0.9954,Solar
+United Kingdom,1.8,58.9217,-2.7156,Wind
+United Kingdom,9.0,53.568000000000005,-1.5146,Biomass
+United Kingdom,1.8,52.6691,-2.1267,Solar
+United Kingdom,5.5,51.1539,-4.1739999999999995,Solar
+United Kingdom,1.2,50.9461,-3.3141,Solar
+United Kingdom,5.0,54.1751,-1.4955,Solar
+United Kingdom,5.0,51.4721,0.4234,Solar
+United Kingdom,5.0,52.5614,-1.4184,Solar
+United Kingdom,1.2,51.2917,-1.0343,Biomass
+United Kingdom,14.4,52.0701,-0.0423,Solar
+United Kingdom,18.0,50.9717,-3.6891,Wind
+United Kingdom,11.0,51.482,-2.165,Solar
+United Kingdom,8.0,52.7426,-2.7272,Waste
+United Kingdom,8.1,52.3163,0.4989,Solar
+United Kingdom,3.0,50.7546,-2.0297,Waste
+United Kingdom,5.2,50.9217,-4.0387,Solar
+United Kingdom,9.8,50.4703,-4.9556,Wind
+United Kingdom,10.0,58.2528,-2.8884,Wind
+United Kingdom,31.0,55.0107,-3.0263,Wind
+United Kingdom,1.7,50.7618,-1.6798,Solar
+United Kingdom,19.0,51.5182,0.0885,Biomass
+United Kingdom,8.0,51.5178,0.0935,Biomass
+United Kingdom,5.8,51.5256,0.0799,Waste
+United Kingdom,2.2,51.5256,0.0799,Wind
+United Kingdom,7.0,50.8173,-1.9243,Solar
+United Kingdom,7.5,50.849,0.0513,Waste
+United Kingdom,4.0,50.7904,-2.9226,Solar
+United Kingdom,1.7,52.9122,-1.2087,Hydro
+United Kingdom,1.1,56.6439,-3.8218,Hydro
+United Kingdom,7.8,56.3823,-5.2977,Wind
+United Kingdom,4.6,57.7882,-4.2482,Wind
+United Kingdom,29.8,57.8053,-4.329,Wind
+United Kingdom,30.0,55.5732,-5.5874,Wind
+United Kingdom,43.7,55.5732,-5.5874,Wind
+United Kingdom,85.0,57.0956,-4.9655,Wind
+United Kingdom,23.8,57.0956,-4.9655,Wind
+United Kingdom,2.7,51.8753,0.8198,Waste
+United Kingdom,3.9,51.8643,0.8293,Waste
+United Kingdom,23.0,57.4298,-6.4583,Wind
+United Kingdom,2.6,57.4298,-6.4583,Wind
+United Kingdom,1.3,56.3299,-4.7172,Hydro
+United Kingdom,2.0,50.5401,-4.7826,Solar
+United Kingdom,9.0,57.7055,-4.4267,Wind
+United Kingdom,2.2,54.1603,-3.2037,Waste
+United Kingdom,5.0,53.5331,-2.376,Solar
+United Kingdom,8.0,51.6055,-1.8987,Solar
+United Kingdom,5.0,50.9335,0.1108,Solar
+United Kingdom,5.1,53.105,-2.4728,Solar
+United Kingdom,4.6,52.1299,1.4303,Biomass
+United Kingdom,2.0,52.13,1.4303,Biomass
+United Kingdom,1.8,52.1253,1.4428,Biomass
+United Kingdom,66.7,57.4466,-3.4754,Wind
+United Kingdom,5.0,51.5834,-3.3322,Solar
+United Kingdom,8.2,50.856,0.1748,Solar
+United Kingdom,5.0,54.7178,-7.3789,Wind
+United Kingdom,9.0,54.705,-7.4265,Wind
+United Kingdom,5.0,54.70399999999999,-7.4405,Wind
+United Kingdom,1.3,52.6702,-2.7201,Waste
+United Kingdom,2.3,55.2152,-1.5572,Wind
+United Kingdom,110.0,57.2191,-4.5819,Wind
+United Kingdom,26.7,52.9379,-0.2178,Wind
+United Kingdom,2.3,53.4101,-3.0756,Waste
+United Kingdom,5.0,50.4391,-3.7313,Solar
+United Kingdom,59.0,53.75,-2.4833,Gas
+United Kingdom,30.0,53.4201,-1.3985,Biomass
+United Kingdom,7.5,53.5433,-1.7062,Wind
+United Kingdom,5.0,52.0879,-1.6673,Solar
+United Kingdom,3.9,51.9971,-4.4413,Wind
+United Kingdom,23.0,51.9778,-4.238,Wind
+United Kingdom,1.8,52.7604,-1.7443,Solar
+United Kingdom,9.0,55.7416,-4.09,Wind
+United Kingdom,7.5,55.7416,-4.09,Wind
+United Kingdom,1.5,51.1461,-4.1377,Solar
+United Kingdom,6.1,51.2746,-2.1899,Solar
+United Kingdom,2.2,51.9791,-0.7653,Waste
+United Kingdom,1.0,52.707,1.6644,Wind
+United Kingdom,1.5,51.8631,1.0042,Wind
+United Kingdom,10.5,51.8607,1.005,Solar
+United Kingdom,2.7,55.1254,-1.4952,Wind
+United Kingdom,3.4,55.1205,-1.4906,Wind
+United Kingdom,10.3,52.5351,0.0606,Wind
+United Kingdom,11.3,51.3581,0.6889,Solar
+United Kingdom,1.5,52.1742,-1.2793,Wind
+United Kingdom,8.3,51.345,-2.8611,Solar
+United Kingdom,6.0,56.1833,-2.5667,Oil
+United Kingdom,18.8,51.9431,0.9296,Solar
+United Kingdom,16.7,57.6653,-2.639,Wind
+United Kingdom,2.3,57.6607,-2.6518,Wind
+United Kingdom,5.3,50.7807,-4.4415,Solar
+United Kingdom,2.5,52.6727,-1.2428,Waste
+United Kingdom,20.0,51.7098,0.821,Wind
+United Kingdom,72.0,56.2698,-4.0589,Wind
+United Kingdom,2.2,56.2112,-5.2805,Hydro
+United Kingdom,3.9,52.5951,-3.9576,Wind
+United Kingdom,5.0,53.8085,-0.3158,Solar
+United Kingdom,18.9,53.1813,-0.4736,Solar
+United Kingdom,5.0,51.1252,-3.9249,Solar
+United Kingdom,8.7,51.5885,-1.9362,Solar
+United Kingdom,3.9,51.8157,-0.055999999999999994,Waste
+United Kingdom,2.0,53.4274,-2.1143,Biomass
+United Kingdom,1.9,55.068999999999996,-1.6743,Waste
+United Kingdom,1.6,52.7867,-1.5848,Waste
+United Kingdom,1.9,52.6452,1.2582,Solar
+United Kingdom,4.1,52.2506,-1.5558,Solar
+United Kingdom,40.0,53.5423,-0.5096,Biomass
+United Kingdom,10.0,51.5128,-2.67,Biomass
+United Kingdom,5.0,52.2543,0.727,Biomass
+United Kingdom,9.9,52.3672,-3.5656,Wind
+United Kingdom,15.0,53.2333,-4.4047,Solar
+United Kingdom,2.7,51.6579,-3.4832,Waste
+United Kingdom,16.2,51.7128,-4.1781,Solar
+United Kingdom,5.0,51.6866,-3.9582,Solar
+United Kingdom,2.7,59.0973,-2.6601,Wind
+United Kingdom,4.7,52.1542,-0.8107,Solar
+United Kingdom,5.0,51.7483,-0.8963,Solar
+United Kingdom,5.0,52.7984,1.3979,Solar
+United Kingdom,90.0,53.4882,-3.1849,Wind
+United Kingdom,258.0,53.48,-3.27,Wind
+United Kingdom,5.0,59.1176,-3.1492,Wind
+United Kingdom,2.3,59.1176,-3.1492,Wind
+United Kingdom,45.0,51.4563,-0.9711,Oil
+United Kingdom,22.5,58.3568,-3.2039,Wind
+United Kingdom,26.0,56.2091,-3.7728,Wind
+United Kingdom,4.0,56.2154,-3.7689,Wind
+United Kingdom,26.0,55.9121,-3.7748,Wind
+United Kingdom,3.8,54.956,-1.7579,Waste
+United Kingdom,1.5,54.956,-1.7579,Waste
+United Kingdom,6.0,52.5373,-0.0337,Wind
+United Kingdom,11.5,52.6732,0.6271,Solar
+United Kingdom,1.8,53.0441,-1.1289,Waste
+United Kingdom,3.7,60.1648,-1.2361,Wind
+United Kingdom,5.0,50.7613,-3.4208,Solar
+United Kingdom,10.0,50.3609,-4.9461,Solar
+United Kingdom,4.4,52.2135,-1.7372,Solar
+United Kingdom,10.2,53.7492,-0.1135,Wind
+United Kingdom,14.4,52.3616,-0.6518,Wind
+United Kingdom,7.5,52.3536,-0.6565,Wind
+United Kingdom,20.0,52.3608,-0.6431,Wind
+United Kingdom,5.0,52.4514,-0.13699999999999998,Solar
+United Kingdom,24.0,52.0796,0.002,Solar
+United Kingdom,2.0,53.8143,-1.5426,Biomass
+United Kingdom,3.0,53.3977,-2.4842,Waste
+United Kingdom,1.1,51.9469,-0.0487,Biomass
+United Kingdom,20.5,54.6636,-1.3969,Wind
+United Kingdom,2.3,52.0025,-0.1428,Biomass
+United Kingdom,3.3,52.1024,-1.9201,Solar
+United Kingdom,4.1,50.6473,-3.3825,Solar
+United Kingdom,1.8,51.3626,-2.0947,Solar
+United Kingdom,6.7,50.7904,-4.4014,Solar
+United Kingdom,3.0,51.86,-0.4633,Solar
+United Kingdom,5.0,51.8564,-0.4686,Solar
+United Kingdom,18.0,51.8279,-4.6334,Solar
+United Kingdom,3.8,51.5401,-3.6997,Solar
+United Kingdom,10.0,57.4639,-2.8992,Wind
+United Kingdom,2.4,57.5603,-2.3723,Solar
+United Kingdom,2.6,57.3153,-2.8137,Wind
+United Kingdom,3.8,57.3086,-2.8272,Solar
+United Kingdom,1.2,57.3081,-2.8238,Solar
+United Kingdom,5.0,52.2104,-0.2071,Solar
+United Kingdom,28.0,55.6374,-4.2119,Wind
+United Kingdom,26.0,55.5796,-4.6395,Biomass
+United Kingdom,22.8,54.4178,-8.093,Wind
+United Kingdom,32.2,56.6277,-3.8761,Wind
+United Kingdom,6.4,50.5072,-4.3260000000000005,Solar
+United Kingdom,11.2,51.9003,-0.9927,Waste
+United Kingdom,10.0,50.1799,-5.1875,Wind
+United Kingdom,7.0,50.3316,-4.9292,Solar
+United Kingdom,33.6,52.5599,-3.5354,Wind
+United Kingdom,16.8,52.5423,-3.5792,Wind
+United Kingdom,15.6,52.5423,-3.5792,Wind
+United Kingdom,16.8,52.5494,-3.6082,Wind
+United Kingdom,1.4,56.6868,-5.5073,Hydro
+United Kingdom,1.5,51.2184,-1.1299,Biomass
+United Kingdom,1.0,53.7485,-2.9288,Biomass
+United Kingdom,46.0,56.339,-5.2945,Wind
+United Kingdom,3.0,53.0709,-0.0531,Biomass
+United Kingdom,15.3,54.8591,-4.728,Wind
+United Kingdom,12.0,54.941,-3.9278,Hydro
+United Kingdom,8.0,53.0845,-1.6336,Wind
+United Kingdom,2.5,53.7066,-2.7814,Solar
+United Kingdom,11.0,56.5431,-4.4651,Hydro
+United Kingdom,2.1,51.7996,-1.3303,Biomass
+United Kingdom,10.0,57.9768,-4.5832,Hydro
+United Kingdom,12.0,51.4936,-2.2174,Solar
+United Kingdom,17.8,51.6491,-1.7907,Solar
+United Kingdom,3.2,51.72,-5.0128,Wind
+United Kingdom,2.4,57.2828,-2.4477,Wind
+United Kingdom,56.0,53.7259,-1.3626,Gas
+United Kingdom,6.7,50.8878,-2.5962,Solar
+United Kingdom,3.0,55.7971,-4.2153,Wind
+United Kingdom,16.0,54.0698,-2.654,Wind
+United Kingdom,1.5,51.696000000000005,-0.1116,Biomass
+United Kingdom,48.3,58.4435,-3.0854,Wind
+United Kingdom,5.0,50.2863,-5.1209,Solar
+United Kingdom,20.0,57.1528,-4.9319999999999995,Hydro
+United Kingdom,1.6,57.1582,-4.9317,Hydro
+United Kingdom,9.0,51.7942,-3.9437,Solar
+United Kingdom,58.5,52.405,-3.7507,Wind
+United Kingdom,2.0,53.677,-1.0841,Wind
+United Kingdom,3.4,52.6579,-3.6721,Wind
+United Kingdom,15.3,52.6399,-3.6743,Wind
+United Kingdom,270.0,53.1842,0.4981,Wind
+United Kingdom,6.3,50.9494,-1.3079,Solar
+United Kingdom,11.9,51.9104,0.9938,Solar
+United Kingdom,2.0,56.3944,-4.4925,Hydro
+United Kingdom,5.0,51.613,-1.8167,Solar
+United Kingdom,3.0,51.6159,-1.8093,Waste
+United Kingdom,8.0,51.6423,-4.9484,Solar
+United Kingdom,20.0,50.7918,-1.8612,Solar
+United Kingdom,36.0,50.7959,-1.8563,Solar
+United Kingdom,4.0,50.8032,-1.8644,Solar
+United Kingdom,1.0,54.8518,-1.732,Waste
+United Kingdom,3.0,50.8859,-2.9434,Solar
+United Kingdom,11.9,52.8244,-2.8096,Solar
+United Kingdom,3.2,50.735,-1.3019999999999998,Solar
+United Kingdom,12.3,52.3522,1.4737,Solar
+United Kingdom,1.3,53.9624,-1.9142,Wind
+United Kingdom,1.2,53.9624,-1.9142,Wind
+United Kingdom,1.4,50.3709,-4.1161,Waste
+United Kingdom,1.8,50.3709,-4.1161,Waste
+United Kingdom,16.0,52.3027,-0.5253,Solar
+United Kingdom,3.5,52.3021,-0.5196,Solar
+United Kingdom,19.5,52.3041,-0.5286,Solar
+United Kingdom,10.0,52.3076,-0.5373,Wind
+United Kingdom,12.5,52.3012,-0.5366,Wind
+United Kingdom,5.0,51.3484,-2.5157,Solar
+United Kingdom,1.0,51.6276,-1.8876,Solar
+United Kingdom,5.0,53.2373,-1.3425,Solar
+United Kingdom,5.0,50.9235,-4.4863,Solar
+United Kingdom,45.0,50.6114,-2.4533,Oil
+United Kingdom,5.0,50.9945,-2.6027,Solar
+United Kingdom,18.0,54.668,-1.5666,Biomass
+United Kingdom,8.0,51.292,-1.0377,Waste
+United Kingdom,8.2,52.8569,0.6908,Wind
+United Kingdom,10.0,51.46,-2.1247,Gas
+United Kingdom,13.0,51.8219,1.0873,Solar
+United Kingdom,5.0,52.3181,0.2211,Solar
+United Kingdom,6.3,52.3152,0.2177,Solar
+United Kingdom,2.0,57.4917,-5.2603,Hydro
+United Kingdom,18.0,50.7555,-1.7502,Solar
+United Kingdom,6.2,51.8718,-0.6326,Solar
+United Kingdom,1.0,53.5207,-2.3146,Waste
+United Kingdom,1.9,51.489,-0.528,Waste
+United Kingdom,5.0,52.4056,-0.5611,Solar
+United Kingdom,2.6,52.8087,-0.6589,Waste
+United Kingdom,2.0,52.9523,-1.0578,Biomass
+United Kingdom,14.0,52.9994,-2.5962,Solar
+United Kingdom,4.8,51.5353,-1.8036,Solar
+United Kingdom,2.0,51.438,-1.9726,Waste
+United Kingdom,10.2,52.6569,-2.7298,Solar
+United Kingdom,12.3,52.6327,-2.7301,Solar
+United Kingdom,7.1,51.3501,-2.8246,Solar
+United Kingdom,1380.0,53.2317,-3.0815,Gas
+United Kingdom,1.7,54.7661,-6.3071,Wind
+United Kingdom,1.0,50.4353,-4.5487,Waste
+United Kingdom,5.2,50.4344,-4.55,Waste
+United Kingdom,2008.0,53.303999999999995,-0.7815,Coal
+United Kingdom,395.0,53.3051,-0.7858,Gas
+United Kingdom,20.0,52.2615,-0.1952,Wind
+United Kingdom,3.2,54.681999999999995,-6.0171,Waste
+United Kingdom,20.5,55.6807,-5.4849,Wind
+United Kingdom,3.0,51.7267,-0.2575,Biomass
+United Kingdom,15.0,51.5227,-3.6187,Solar
+United Kingdom,8.5,51.6011,-2.8787,Solar
+United Kingdom,2.3,57.391999999999996,-2.261,Wind
+United Kingdom,4.5,52.3962,-1.4915,Waste
+United Kingdom,40.0,51.1961,-1.4601,Solar
+United Kingdom,140.0,50.7469,-1.2862,Gas
+United Kingdom,15.0,56.0769,-3.8639,Biomass
+United Kingdom,1.1,52.4686,-2.082,Biomass
+United Kingdom,10.0,55.1641,-3.069,Wind
+United Kingdom,2.5,54.8685,-5.0871,Wind
+United Kingdom,1.0,55.1965,-6.6106,Waste
+United Kingdom,1.5,56.0455,-4.0685,Wind
+United Kingdom,20.0,56.0543,-4.0497,Wind
+United Kingdom,1.1,52.3759,-0.6338,Waste
+United Kingdom,2.6,51.5587,0.2827,Solar
+United Kingdom,12.5,50.7599,-3.4048,Solar
+United Kingdom,5.4,51.2091,-2.5784,Solar
+United Kingdom,1.8,50.7956,-4.5451,Solar
+United Kingdom,13.8,54.6226,-6.9791,Wind
+United Kingdom,5.0,51.8408,0.6011,Solar
+United Kingdom,5.0,53.2558,-1.2074,Solar
+United Kingdom,28.0,54.6399,-7.7526,Wind
+United Kingdom,2.4,50.9119,-4.4881,Wind
+United Kingdom,15.0,54.5502,-7.0168,Wind
+United Kingdom,2.5,54.5516,-7.0089999999999995,Wind
+United Kingdom,15.0,54.7395,-6.7719,Wind
+United Kingdom,7.5,54.553000000000004,-7.0477,Wind
+United Kingdom,2.0,54.6145,-6.9552,Wind
+United Kingdom,12.5,54.5689,-7.0494,Wind
+United Kingdom,1.3,50.8423,-4.0951,Solar
+United Kingdom,3.0,53.6823,-1.0072,Wind
+United Kingdom,13.6,53.6681,-2.1117,Wind
+United Kingdom,23.8,53.6705,-2.1148,Wind
+United Kingdom,4.8,54.6707,-6.1985,Solar
+United Kingdom,62.5,55.883,-2.5075,Wind
+United Kingdom,138.0,55.8995,-2.5293,Wind
+United Kingdom,13.8,55.9264,-2.5345,Wind
+United Kingdom,2.5,56.9562,-4.211,Hydro
+United Kingdom,7.5,51.8099,-5.0074,Solar
+United Kingdom,3.3,57.7633,-5.0392,Hydro
+United Kingdom,17.0,57.346000000000004,-4.7627,Hydro
+United Kingdom,2.1,57.346000000000004,-4.7627,Hydro
+United Kingdom,7.5,50.9261,-3.128,Solar
+United Kingdom,3.0,52.1095,-1.2047,Solar
+United Kingdom,2.4,55.9704,-3.9575,Biomass
+United Kingdom,15.0,54.9293,-7.3167,Wind
+United Kingdom,1.4,52.602,-0.2214,Waste
+United Kingdom,5.0,50.7504,-2.1031,Solar
+United Kingdom,1.4,56.1726,-4.8768,Hydro
+United Kingdom,2.8,53.0215,-1.1144,Waste
+United Kingdom,1.5,51.9519,-0.6343,Wind
+United Kingdom,1.5,50.7508,-1.6781,Biomass
+United Kingdom,3.0,56.2149,-5.1533,Hydro
+United Kingdom,5.0,52.7742,-1.6535,Solar
+United Kingdom,6.0,51.8562,0.4983,Solar
+United Kingdom,6.0,54.8112,-6.7082,Wind
+United Kingdom,645.0,53.7356,-0.9911,Biomass
+United Kingdom,645.0,53.7356,-0.9911,Biomass
+United Kingdom,645.0,53.7356,-0.9911,Biomass
+United Kingdom,75.0,53.7364,-0.9981,Gas
+United Kingdom,25.0,52.2003,-1.7751,Solar
+United Kingdom,28.6,55.8979,-2.2619,Wind
+United Kingdom,4.6,56.9229,-2.4007,Wind
+United Kingdom,36.8,56.6222,-3.2319999999999998,Wind
+United Kingdom,8.5,55.9043,-3.779,Wind
+United Kingdom,2.0,54.941,-3.9278,Hydro
+United Kingdom,2.0,55.8822,-3.0774,Waste
+United Kingdom,1.0,54.8563,-3.3586,Biomass
+United Kingdom,7.4,52.4998,-2.0854,Waste
+United Kingdom,12.3,57.4511,-2.6915,Wind
+United Kingdom,5.5,51.9112,-4.5907,Wind
+United Kingdom,3.6,50.773,-4.3353,Solar
+United Kingdom,5.0,54.5409,-1.3552,Solar
+United Kingdom,11.9,53.1547,-1.014,Solar
+United Kingdom,10.3,51.8092,1.1109,Wind
+United Kingdom,37.5,56.0708,-4.0955,Wind
+United Kingdom,22.5,56.089,-4.1231,Wind
+United Kingdom,18.4,56.1737,-3.0813,Wind
+United Kingdom,14.0,54.941,-3.9278,Hydro
+United Kingdom,1.5,56.4044,-4.925,Hydro
+United Kingdom,21.3,51.6705,-1.0597,Solar
+United Kingdom,1.4,51.5212,0.1375,Biomass
+United Kingdom,7.3,50.7106,-1.1375,Solar
+United Kingdom,5.0,50.8701,-4.4271,Solar
+United Kingdom,6.6,51.2274,0.7119,Solar
+United Kingdom,1.0,52.8262,-1.3427,Wind
+United Kingdom,6.1,52.8505,-1.3576,Solar
+United Kingdom,4.0,50.9173,-4.4465,Wind
+United Kingdom,9.0,52.9461,-1.1353,Waste
+United Kingdom,1.5,57.6606,-2.4175,Wind
+United Kingdom,1.6,57.157,-2.6219,Wind
+United Kingdom,25.0,56.8364,-2.3957,Wind
+United Kingdom,4.0,54.6712,-3.5401,Wind
+United Kingdom,4.9,51.3157,1.3458,Solar
+United Kingdom,5.0,51.3105,1.3389,Solar
+United Kingdom,5.0,52.9001,-3.0152,Solar
+United Kingdom,2.6,52.8746,-2.2467,Biomass
+United Kingdom,2.9,52.4584,-0.843,Solar
+United Kingdom,3.2,50.786,-1.8569,Biomass
+United Kingdom,1.9,56.1778,-5.3402,Hydro
+United Kingdom,41.4,57.4691,-6.4322,Wind
+United Kingdom,4.5,57.607,-2.2901,Wind
+United Kingdom,59.8,50.9638,0.8227,Wind
+United Kingdom,4.6,52.2894,-0.6548,Solar
+United Kingdom,14.3,53.3039,-0.9932,Solar
+United Kingdom,25.0,56.1194,-3.2522,Wind
+United Kingdom,1.3,50.1707,-5.2253,Solar
+United Kingdom,17.0,51.2738,1.1439,Solar
+United Kingdom,12.1,50.8449,-2.1671,Solar
+United Kingdom,14.0,52.1267,-0.8052,Solar
+United Kingdom,5.0,53.1812,-1.2038,Solar
+United Kingdom,4.8,50.6339,-3.3711,Solar
+United Kingdom,15.0,57.2202,-4.6474,Hydro
+United Kingdom,20.4,53.3544,-4.4656,Wind
+United Kingdom,3.9,51.7227,-2.9165,Solar
+United Kingdom,31.0,52.4421,-3.4308,Wind
+United Kingdom,2.9,53.2922,-3.6367,Waste
+United Kingdom,9.4,52.3069,-4.0292,Wind
+United Kingdom,8.0,52.1084,-4.5236,Solar
+United Kingdom,20.4,53.3534,-4.4379,Wind
+United Kingdom,20.4,53.3534,-4.4379,Wind
+United Kingdom,4.4,52.1203,-3.7699,Hydro
+United Kingdom,4.5,52.9438,-3.6712,Hydro
+United Kingdom,6.0,51.6427,-3.6147,Wind
+United Kingdom,18.0,51.6449,-3.6211,Wind
+United Kingdom,1.3,53.7568,-0.9377,Wind
+United Kingdom,8.0,53.4443,-1.4523,Biomass
+United Kingdom,2.5,51.5755,0.6938,Solar
+United Kingdom,2.0,52.5731,0.0893,Wind
+United Kingdom,4.1,51.8452,-0.6478,Solar
+United Kingdom,27.6,54.9841,-6.442,Wind
+United Kingdom,1.7,52.79,0.1348,Solar
+United Kingdom,1.0,52.7904,0.1359,Solar
+United Kingdom,1.5,51.5633,-3.7479,Wind
+United Kingdom,38.0,55.6692,-2.8275,Wind
+United Kingdom,4.5,53.3145,-1.236,Wind
+United Kingdom,10.5,54.6343,-7.6052,Wind
+United Kingdom,2.8,52.7561,-1.4405,Solar
+United Kingdom,1.1,52.7646,-1.4353,Waste
+United Kingdom,4.5,50.9121,-1.0341,Solar
+United Kingdom,8.0,52.5024,-1.1792,Wind
+United Kingdom,1.3,50.8832,-2.3022,Biomass
+United Kingdom,4.7,54.5974,-3.571,Wind
+United Kingdom,10.5,51.5245,-1.7914,Solar
+United Kingdom,5.0,50.48,-4.7383,Solar
+United Kingdom,1.0,50.8832,-2.8379,Solar
+United Kingdom,1.0,50.8852,-2.8311,Solar
+United Kingdom,4.9,51.3066,-2.0387,Solar
+United Kingdom,5.0,51.0667,-3.1167,Solar
+United Kingdom,1.0,56.2926,-3.1325,Waste
+United Kingdom,11.5,52.9473,-2.0203,Solar
+United Kingdom,2.7,50.74,-1.5529,Solar
+United Kingdom,10.8,50.8989,-2.7772,Solar
+United Kingdom,4.1,50.2933,-3.7671,Solar
+United Kingdom,4.0,51.9799,-1.9979,Solar
+United Kingdom,1.1,52.1366,1.3657,Solar
+United Kingdom,5.0,52.1386,-2.6694,Solar
+United Kingdom,1.8,52.3599,-1.0243,Solar
+United Kingdom,4.0,56.5419,-4.5174,Hydro
+United Kingdom,2.0,54.0556,-2.8339999999999996,Waste
+United Kingdom,13.0,51.1105,-4.1205,Solar
+United Kingdom,1.9,50.3617,-3.9413,Solar
+United Kingdom,2.4,56.0328,-5.787000000000001,Hydro
+United Kingdom,26.0,55.2016,-1.5396,Wind
+United Kingdom,97.2,53.1356,0.4515,Wind
+United Kingdom,27.0,51.6625,-1.7004,Solar
+United Kingdom,3.8,52.706,-2.4221,Solar
+United Kingdom,4.0,52.3495,-1.1577,Wind
+United Kingdom,7.2,52.1617,-0.8617,Wind
+United Kingdom,12.0,51.4551,0.6142,Solar
+United Kingdom,2.0,52.5713,0.1215,Wind
+United Kingdom,1.2,50.8102,-1.09,Solar
+United Kingdom,69.8,51.5066,-1.9680000000000002,Solar
+United Kingdom,4.0,55.1035,-1.6222,Wind
+United Kingdom,1.8,57.3779,-2.3891,Solar
+United Kingdom,1.2,56.9152,-2.3876,Biomass
+United Kingdom,35.3,52.946000000000005,-3.9879,Hydro
+United Kingdom,24.0,51.6978,-3.5179,Wind
+United Kingdom,4.9,51.5639,-3.2916,Solar
+United Kingdom,26.0,51.7365,-3.6596,Wind
+United Kingdom,2.5,51.7406,-3.6442,Wind
+United Kingdom,7.5,51.7658,-3.6212,Solar
+United Kingdom,1.0,54.769,-6.6477,Wind
+United Kingdom,2.4,57.6153,-2.0667,Wind
+United Kingdom,1.1,51.1104,-0.1088,Solar
+United Kingdom,4.0,58.2603,-4.9819,Hydro
+United Kingdom,5.0,51.6243,-2.1089,Solar
+United Kingdom,2.1,51.8101,-2.282,Biomass
+United Kingdom,6.3,50.4248,-3.8093,Solar
+United Kingdom,8.0,53.533,-1.2397,Wind
+United Kingdom,14.0,51.6264,-2.1108,Solar
+United Kingdom,1.4,53.0336,0.1569,Biomass
+United Kingdom,9.1,51.3422,-2.1856,Solar
+United Kingdom,5.5,51.2056,-0.8486,Solar
+United Kingdom,5.0,51.2774,1.3072,Solar
+United Kingdom,1.5,55.6871,-3.9334,Wind
+United Kingdom,1.8,50.8394,-2.937,Solar
+United Kingdom,4.9,52.9692,-0.6907,Solar
+United Kingdom,1.5,52.0647,-0.5354,Wind
+United Kingdom,5.5,52.1089,1.0813,Waste
+United Kingdom,1.6,53.1139,-2.4228,Waste
+United Kingdom,2.0,53.1139,-2.4228,Waste
+United Kingdom,2.3,53.6335,-2.7803,Wind
+United Kingdom,2.4,52.4546,0.3521,Biomass
+United Kingdom,1.5,52.7381,1.3256,Waste
+United Kingdom,1.0,52.5594,-0.1752,Biomass
+United Kingdom,6.0,52.5433,0.544,Solar
+United Kingdom,1.1,53.426,-1.4069999999999998,Waste
+United Kingdom,17.0,57.71,-4.427,Wind
+United Kingdom,700.0,51.4396,0.6894,Gas
+United Kingdom,1.3,52.9023,-2.2185,Waste
+United Kingdom,10.0,57.0188,-2.2783,Wind
+United Kingdom,5.0,53.7172,-0.5336,Wind
+United Kingdom,2.8,50.355,-4.2407,Solar
+United Kingdom,2.0,52.5711,-1.5867,Biomass
+United Kingdom,10.0,50.8181,-0.7317,Solar
+United Kingdom,6.5,53.1334,-0.4721,Biomass
+United Kingdom,12.0,57.4276,-2.2431,Wind
+United Kingdom,4.0,56.4836,-2.8938,Wind
+United Kingdom,18.4,56.9688,-2.4862,Wind
+United Kingdom,57.5,56.9688,-2.4862,Wind
+United Kingdom,4.8,52.1541,1.0391,Solar
+United Kingdom,31.6,52.0649,0.011000000000000001,Solar
+United Kingdom,8.0,51.583,-3.7457,Wind
+United Kingdom,22.5,51.7147,-3.5098,Wind
+United Kingdom,14.5,52.5784,-3.4285,Wind
+United Kingdom,10.2,52.4663,-3.971,Wind
+United Kingdom,9.4,51.5564,-3.4597,Wind
+United Kingdom,12.0,51.5604,-3.4496,Wind
+United Kingdom,4.7,51.7784,-3.8472,Wind
+United Kingdom,34.5,51.7728,-3.929,Wind
+United Kingdom,1.8,55.6919,-4.279,Wind
+United Kingdom,1.6,57.599,-2.8425,Wind
+United Kingdom,9.2,55.7541,-4.4667,Wind
+United Kingdom,7.2,51.6265,-2.113,Solar
+United Kingdom,5.0,50.6433,-2.5063,Solar
+United Kingdom,6.0,50.1601,-5.1833,Solar
+United Kingdom,15.0,55.9846,-4.821000000000001,Hydro
+United Kingdom,1.4,51.8369,-4.2192,Waste
+United Kingdom,7.7,50.3062,-5.0951,Solar
+United Kingdom,4.7,50.2179,-5.3681,Solar
+United Kingdom,5.0,52.1511,-4.1352,Solar
+United Kingdom,2.7,52.5728,-1.2268,Waste
+United Kingdom,2.5,51.5511,-2.9591,Wind
+United Kingdom,8.9,50.845,0.2357,Solar
+United Kingdom,4.7,55.6907,-4.2844,Wind
+United Kingdom,1.0,52.22,-0.9617,Solar
+United Kingdom,2.3,52.4804,1.761,Wind
+United Kingdom,3.1,50.8993,-3.3952,Solar
+United Kingdom,19.7,53.2311,-1.0914,Solar
+United Kingdom,4.6,57.6027,-2.8559,Wind
+United Kingdom,1.2,50.8894,-1.3374,Waste
+United Kingdom,1.1,56.847,-4.9453,Hydro
+United Kingdom,14.4,52.4502,-0.7554,Wind
+United Kingdom,4.5,53.7732,-2.3034,Wind
+United Kingdom,1.0,58.9133,-2.8689,Wind
+United Kingdom,10.0,56.574,-2.7091,Solar
+United Kingdom,4.8,51.0074,-3.2012,Solar
+United Kingdom,3.9,51.2042,-2.5281,Solar
+United Kingdom,12.5,51.868,-1.1824,Solar
+United Kingdom,5.0,50.7726,-2.951,Solar
+United Kingdom,20.5,50.8313,-1.1961,Solar
+United Kingdom,3.2,53.6019,-0.1638,Waste
+United Kingdom,14.0,50.4085,-4.0295,Solar
+United Kingdom,4.9,51.5508,-3.1003,Solar
+United Kingdom,2.0,54.2175,-6.3367,Biomass
+United Kingdom,1.5,53.0753,-1.2178,Wind
+United Kingdom,11.6,50.8182,-2.1698,Solar
+United Kingdom,60.0,53.3375,-3.4078,Wind
+United Kingdom,4.0,53.5745,-0.7941,Biomass
+United Kingdom,8.1,52.9259,-0.1057,Solar
+United Kingdom,15.0,55.5995,-3.9216,Wind
+United Kingdom,4.9,51.8233,-4.8613,Solar
+United Kingdom,2.0,52.7686,1.3564,Biomass
+United Kingdom,5.7,51.6107,-2.7209,Solar
+United Kingdom,4.0,51.6869,-3.1714,Wind
+United Kingdom,5.0,53.7719,-2.8103,Solar
+United Kingdom,1.7,53.7722,-2.8066,Solar
+United Kingdom,8.0,51.5458,-2.5796,Solar
+United Kingdom,6.9,51.1682,0.8078,Solar
+United Kingdom,5.0,50.7055,-2.1436,Solar
+United Kingdom,2.0,55.8556,-3.1645,Waste
+United Kingdom,4.5,51.5141,0.3117,Waste
+United Kingdom,8.5,51.5248,0.318,Waste
+United Kingdom,16.8,52.2317,-0.5968,Solar
+United Kingdom,1.2,51.2919,0.3593,Waste
+United Kingdom,7.2,50.7569,-1.7037,Solar
+United Kingdom,8.0,51.3929,0.8695,Solar
+United Kingdom,40.0,52.5169,-2.0288,Biomass
+United Kingdom,5.4,54.6596,-3.5564,Wind
+United Kingdom,1.0,51.6982,0.2595,Waste
+United Kingdom,1.8,51.6977,0.2588,Waste
+United Kingdom,15.0,54.3385,-7.8959,Wind
+United Kingdom,4.0,53.9001,-2.8657,Wind
+United Kingdom,10.0,51.3698,0.6989,Solar
+United Kingdom,150.0,54.0889,-3.4386,Wind
+United Kingdom,18.0,57.5294,-4.5585,Hydro
+United Kingdom,1.6,54.869,-3.0067,Wind
+United Kingdom,4.0,52.1854,-2.2862,Solar
+United Kingdom,3.2,50.6849,-4.6103,Wind
+United Kingdom,5.0,52.7975,1.1839,Solar
+United Kingdom,65.0,57.4462,-3.4762,Wind
+United Kingdom,2.4,50.8365,-1.0925,Waste
+United Kingdom,19.2,55.8205,-3.5624,Wind
+United Kingdom,4.0,52.455,-1.0283,Biomass
+United Kingdom,3.0,50.8533,0.5204,Waste
+United Kingdom,1.0,50.8533,0.5204,Waste
+United Kingdom,3.9,53.7825,-1.3413,Waste
+United Kingdom,2180.0,51.685,-4.99,Gas
+United Kingdom,4.7,51.6725,-3.3811,Solar
+United Kingdom,6.9,51.7874,-4.0291,Solar
+United Kingdom,228.0,51.6555,-3.6957,Wind
+United Kingdom,1.7,51.4006,-1.0222,Solar
+United Kingdom,4.1,53.5836,-2.2583,Waste
+United Kingdom,15.8,51.4175,-1.0144,Solar
+United Kingdom,3.4,51.7819,-2.623,Solar
+United Kingdom,3.4,51.7819,-2.623,Solar
+United Kingdom,1.5,52.9651,-0.0195,Solar
+United Kingdom,10.2,52.6223,-2.7131,Solar
+United Kingdom,15.0,56.6991,-3.7406,Hydro
+United Kingdom,11.6,51.537,0.5104,Waste
+United Kingdom,14.0,51.5371,0.5089,Waste
+United Kingdom,2.6,51.2138,-2.5858,Solar
+United Kingdom,18.0,50.8214,-4.4275,Solar
+United Kingdom,4.9,50.3601,-3.7473,Solar
+United Kingdom,2.4,54.9563,-3.7602,Wind
+United Kingdom,8.6,52.4393,1.5874,Solar
+United Kingdom,1.8,52.3871,-1.0331,Waste
+United Kingdom,14.0,50.821999999999996,-1.0542,Waste
+United Kingdom,1.8,52.77,0.3876,Solar
+United Kingdom,6.0,54.6027,-3.5031,Wind
+United Kingdom,5.0,51.7091,-0.2051,Solar
+United Kingdom,5.0,56.635,-2.7043,Solar
+United Kingdom,2.8,54.6058,-1.5803,Biomass
+United Kingdom,16.0,52.7568,-1.499,Solar
+United Kingdom,1.0,52.5693,-3.0504,Solar
+United Kingdom,3.7,53.2743,-0.2944,Solar
+United Kingdom,1.6,51.772,-4.6844,Wind
+United Kingdom,7.6,50.9463,-0.3422,Solar
+United Kingdom,3.1,52.4485,1.6747,Solar
+United Kingdom,1.7,52.4375,1.5957,Solar
+United Kingdom,2.0,53.5369,-1.1374,Biomass
+United Kingdom,3.0,53.5369,-1.1374,Biomass
+United Kingdom,8.0,52.4681,-0.1224,Wind
+United Kingdom,45.0,56.6333,-4.3667,Hydro
+United Kingdom,6.0,52.5127,0.0314,Wind
+United Kingdom,4.0,52.5106,0.0373,Wind
+United Kingdom,2000.0,52.8653,-1.255,Coal
+United Kingdom,34.0,52.8653,-1.255,Gas
+United Kingdom,3.0,51.7671,0.0003,Biomass
+United Kingdom,5.0,54.1308,-2.552,Solar
+United Kingdom,38.0,53.5604,-0.5813,Solar
+United Kingdom,54.4,55.1822,-2.0714,Wind
+United Kingdom,1.4,51.5241,0.1364,Biomass
+United Kingdom,6.1,52.5594,0.5641,Solar
+United Kingdom,10.2,53.7002,-2.1671,Wind
+United Kingdom,9.0,52.1367,-0.6927,Solar
+United Kingdom,12.5,54.6468,-1.3206,Wind
+United Kingdom,4.8,50.9549,-3.3028,Solar
+United Kingdom,24.0,52.4305,-0.0292,Wind
+United Kingdom,1.2,52.9875,-3.4446,Solar
+United Kingdom,6.0,51.6965,-3.9394,Solar
+United Kingdom,90.0,53.2844,-3.5822,Wind
+United Kingdom,1.0,52.0035,-1.4136,Solar
+United Kingdom,25.0,51.3823,0.7588,Biomass
+United Kingdom,3.0,53.6098,-2.6178,Waste
+United Kingdom,5.0,55.0219,-6.8198,Wind
+United Kingdom,5.0,51.489,-2.3961,Solar
+United Kingdom,2.0,53.4376,-2.5024,Waste
+United Kingdom,5.9,53.4372,-2.5057,Waste
+United Kingdom,2.1,53.4354,-2.5057,Waste
+United Kingdom,3.0,57.2135,-4.4506,Hydro
+United Kingdom,2.0,56.4049,-4.9226,Hydro
+United Kingdom,2.0,56.9166,-4.3855,Hydro
+United Kingdom,1.4,57.4231,-5.4216,Hydro
+United Kingdom,72.0,51.4683,0.1178,Waste
+United Kingdom,6.5,54.1745,-3.2097,Solar
+United Kingdom,90.0,54.7642,-3.6955,Wind
+United Kingdom,84.0,54.7473,-3.7293,Wind
+United Kingdom,41.6,53.4251,-2.4195,Biomass
+United Kingdom,7.0,50.765,-3.3985,Solar
+United Kingdom,35.0,51.4846,-0.0454,Waste
+United Kingdom,6.5,51.2799,-2.5256,Solar
+United Kingdom,8.0,53.4075,0.0188,Solar
+United Kingdom,3.0,51.2217,-2.9116,Solar
+United Kingdom,16.0,52.3748,-1.1511,Wind
+United Kingdom,6.1,51.7473,-4.7945,Solar
+United Kingdom,1.0,57.4308,-1.9419,Wind
+United Kingdom,4.6,57.586999999999996,-2.4166,Wind
+United Kingdom,5.0,51.7459,-2.5356,Solar
+United Kingdom,4.6,53.3938,-4.4003,Wind
+Uruguay,20.0,-30.4214,-57.4574,Solar
+Uruguay,10.0,-30.3301,-57.622,Biomass
+Uruguay,10.0,-30.9148,-57.4682,Solar
+Uruguay,12.0,-30.9392,-55.5583,Biomass
+Uruguay,50.0,-31.2628,-57.8631,Solar
+Uruguay,3.6,-34.2042,-55.748000000000005,Wind
+Uruguay,9.5,-32.296,-58.02,Solar
+Uruguay,10.0,-31.6987,-55.9331,Biomass
+Uruguay,14.0,-33.2505,-54.4018,Biomass
+Uruguay,67.2,-30.409000000000002,-56.6401,Wind
+Uruguay,50.0,-31.4321,-57.913999999999994,Solar
+Uruguay,1.2,-34.8189,-54.9721,Biomass
+Uruguay,5.0,-32.3035,-58.0887,Biomass
+Uruguay,20.0,-33.8663,-56.3405,Wind
+Uruguay,18.0,-33.8763,-56.3505,Wind
+Uruguay,50.0,-33.8855,-56.4428,Wind
+Uruguay,2.0,-34.6323,-56.5932,Wind
+Uruguay,50.0,-32.5828,-54.2302,Wind
+Uruguay,20.0,-32.6083,-57.4385,Solar
+Uruguay,42.0,-34.4647,-55.3065,Wind
+Uruguay,180.0,-34.2196,-58.0495,Biomass
+Uruguay,80.0,-34.8861,-56.1977,Oil
+Uruguay,9.5,-33.2611,-57.9922,Solar
+Uruguay,4.0,-34.2862,-54.04,Wind
+Uruguay,58.75,-32.6004,-56.4196,Wind
+Uruguay,9.5,-32.296,-58.015,Solar
+Uruguay,7.5,-31.0751,-55.7559,Biomass
+Uruguay,50.0,-34.7498,-56.5411,Gas
+Uruguay,300.0,-34.75,-56.5422,Oil
+Uruguay,8.0,-32.3896,-58.1316,Solar
+Uruguay,108.0,-32.8736,-56.8061,Hydro
+Uruguay,945.0,-31.2749,-57.9382,Hydro
+Uruguay,1.44,-32.6135,-55.8344,Oil
+Uruguay,1.8,-34.6512,-56.5844,Wind
+Uruguay,50.0,-33.6348,-56.7214,Wind
+Uruguay,50.0,-33.605,-56.7117,Wind
+Uruguay,4.3,-32.6576,-53.3357,Oil
+Uruguay,161.0,-33.1148,-58.2567,Biomass
+Uruguay,70.0,-33.2672,-55.1021,Wind
+Uruguay,12.0,-31.6416,-55.9031,Biomass
+Uruguay,9.5,-32.6848,-57.6068,Solar
+Uruguay,3.72,-34.8467,-56.2347,Gas
+Uzbekistan,39.0,41.4471,69.5578,Hydro
+Uzbekistan,600.0,41.0047,70.1235,Coal
+Uzbekistan,620.0,41.626999999999995,69.969,Hydro
+Uzbekistan,126.0,40.1924,69.3048,Hydro
+Uzbekistan,300.0,40.449,71.782,Oil
+Uzbekistan,120.0,41.5581,69.7708,Hydro
+Uzbekistan,165.0,41.599,69.8644,Hydro
+Uzbekistan,60.0,39.2553,65.1528,Gas
+Uzbekistan,1758.0,40.1569,65.3104,Gas
+Uzbekistan,2100.0,40.9233,69.8174,Coal
+Uzbekistan,3000.0,40.2287,69.1005,Gas
+Uzbekistan,730.0,42.3175,59.5553,Gas
+Uzbekistan,800.0,38.4809,65.6315,Gas
+Uzbekistan,2230.0,41.3822,69.3677,Gas
+Uzbekistan,70.0,41.5542,69.6811,Hydro
+Vietnam,170.0,16.2266,107.2728,Hydro
+Vietnam,210.0,15.7998,107.6171,Hydro
+Vietnam,13.0,10.9471,106.9,Oil
+Vietnam,120.0,21.5969,105.76700000000001,Coal
+Vietnam,173.0,14.0148,108.6796,Hydro
+Vietnam,3.0,13.5809,108.2592,Hydro
+Vietnam,389.0,10.4891,107.17,Gas
+Vietnam,80.0,20.320999999999998,105.3281,Hydro
+Vietnam,33.0,11.3711,108.33,Hydro
+Vietnam,99.0,9.2351,105.8048,Wind
+Vietnam,220.0,21.8612,103.8286,Hydro
+Vietnam,18.0,19.6053,104.859,Hydro
+Vietnam,18.0,22.859,106.6998,Hydro
+Vietnam,320.0,19.3404,104.4873,Hydro
+Vietnam,44.0,16.3172,107.5028,Hydro
+Vietnam,24.0,10.613,106.49,Oil
+Vietnam,4.0,11.8713,106.9768,Hydro
+Vietnam,280.0,12.5305,107.9243,Hydro
+Vietnam,86.0,12.2852,108.0383,Hydro
+Vietnam,2.6,15.2714,108.5186,Hydro
+Vietnam,1542.0,9.242,105.06,Gas
+Vietnam,39.0,20.9861,107.03,Oil
+North Vietnam,600.0,21.0063,107.36,Coal
+North Vietnam,4.5,21.5438,106.5105,Hydro
+Vietnam,77.0,11.9689,106.8435,Hydro
+Vietnam,185.0,10.1,105.72,Oil
+Vietnam,115.0,21.613000000000003,105.82,Coal
+Vietnam,4.0,21.4707,104.1852,Hydro
+Vietnam,8.0,21.4572,104.2104,Hydro
+Vietnam,90.0,22.2985,103.1613,Hydro
+Vietnam,30.0,22.4144,103.9066,Hydro
+Vietnam,97.0,19.8782,105.2731,Hydro
+Vietnam,34.0,11.7219,108.2468,Hydro
+Vietnam,6.0,12.0838,108.5953,Hydro
+Vietnam,160.0,11.8529,108.6058,Hydro
+Vietnam,7.5,12.1161,108.5852,Hydro
+Vietnam,5.0,12.1333,108.31299999999999,Hydro
+Vietnam,10.0,11.4219,107.8754,Hydro
+Vietnam,300.0,11.6499,108.3202,Hydro
+Vietnam,14.0,14.1847,108.1064,Hydro
+Vietnam,18.0,12.0252,107.1834,Hydro
+Vietnam,3.2,14.7979,108.0074,Hydro
+Vietnam,22.0,14.7275,108.3694,Hydro
+Vietnam,190.0,15.459000000000001,107.9124,Hydro
+Vietnam,18.0,15.4642,107.929,Hydro
+Vietnam,28.0,11.8186,107.459,Hydro
+Vietnam,18.0,13.7659,108.5236,Hydro
+Vietnam,24.0,13.6786,108.5649,Hydro
+Vietnam,10.0,13.3473,108.5323,Hydro
+Vietnam,20.0,13.3381,108.5587,Hydro
+Vietnam,125.0,14.9785,108.3013,Hydro
+Vietnam,75.0,11.5827,107.6726,Hydro
+Vietnam,9.9,14.1565,108.7727,Hydro
+South Vietnam,70.0,11.7129,108.0579,Hydro
+South Vietnam,180.0,11.8722,107.8887,Hydro
+South Vietnam,340.0,11.8851,107.7286,Hydro
+South Vietnam,150.0,11.7927,107.5534,Hydro
+South Vietnam,12.0,12.6712,107.9075,Hydro
+Vietnam,16.0,12.6757,107.9041,Hydro
+Vietnam,1244.0,9.583,106.52,Coal
+Vietnam,622.0,9.5867,106.53,Coal
+Vietnam,28.0,12.5992,108.9397,Hydro
+Vietnam,5.0,12.7999,108.9287,Hydro
+Vietnam,310.0,10.7151,106.92,Coal
+Vietnam,150.0,18.0288,106.45,Coal
+Vietnam,12.0,13.4257,108.42,Biomass
+Vietnam,5.4,11.8284,108.6906,Hydro
+Vietnam,5.1,11.8319,108.7073,Hydro
+Vietnam,600.0,20.9419,106.76,Coal
+Vietnam,600.0,20.9386,106.757,Coal
+Vietnam,475.0,11.335999999999999,107.935,Hydro
+Vietnam,8.4,21.2658,104.5407,Hydro
+Vietnam,5.0,21.5067,104.3622,Hydro
+Vietnam,375.0,10.642000000000001,106.75,Oil
+Vietnam,18.0,21.8778,103.94200000000001,Hydro
+Vietnam,14.0,18.0464,105.8334,Hydro
+Vietnam,1.89,21.5565,105.73,Hydro
+Vietnam,1920.0,20.8082,105.3233,Hydro
+Vietnam,29.0,12.6497,107.9091,Hydro
+Vietnam,180.0,19.8381,105.0846,Hydro
+Vietnam,520.0,21.6965,103.8776,Hydro
+Vietnam,81.0,16.4601,107.4233,Hydro
+Vietnam,33.0,18.445999999999998,105.1513,Hydro
+Vietnam,1.2,13.7389,107.8508,Hydro
+Vietnam,10.8,13.9757,107.7278,Hydro
+Vietnam,7.5,13.9756,107.7928,Hydro
+Vietnam,7.5,14.0222,107.649,Hydro
+Vietnam,720.0,14.2274,107.8294,Hydro
+Vietnam,2.3,18.1953,105.928,Hydro
+Vietnam,6.0,17.9168,105.9706,Hydro
+Vietnam,24.0,21.3412,104.3498,Hydro
+Vietnam,18.0,19.4142,104.1123,Hydro
+Vietnam,10.0,21.3198,104.3022,Hydro
+Vietnam,12.0,22.5496,104.8767,Hydro
+Vietnam,44.0,21.7981,103.2935,Hydro
+Vietnam,66.0,22.4932,103.234,Hydro
+Vietnam,84.0,22.2985,103.1613,Hydro
+Vietnam,15.0,21.4452,104.1691,Hydro
+Vietnam,32.0,19.5184,105.0377,Hydro
+Vietnam,9.3,22.5069,103.6906,Hydro
+Vietnam,600.0,19.3158,105.8,Coal
+Vietnam,8.4,21.8093,104.4361,Hydro
+Vietnam,48.0,21.7938,104.3324,Hydro
+Vietnam,72.0,22.5546,103.7434,Hydro
+Vietnam,10.5,22.4734,103.8729,Hydro
+Vietnam,8.0,22.4754,103.8595,Hydro
+Vietnam,110.0,23.1433,105.5154,Hydro
+Vietnam,1215.0,10.6428,106.84,Gas
+Vietnam,100.0,20.2527,105.98,Coal
+Vietnam,30.0,15.7171,108.03,Coal
+Vietnam,16.5,15.0809,108.4118,Hydro
+Vietnam,660.0,10.1332,105.67,Gas
+Vietnam,22.0,21.476,104.0403,Hydro
+Vietnam,440.0,21.1146,106.31,Coal
+Vietnam,600.0,21.1141,106.31,Coal
+Vietnam,1108.0,10.6056,107.04,Gas
+Vietnam,896.0,10.6041,107.04,Gas
+Vietnam,733.0,10.603,107.04,Gas
+Vietnam,733.0,10.6014,107.04,Gas
+Vietnam,458.0,10.5975,107.03,Gas
+Vietnam,6.0,10.5507,108.93,Wind
+Vietnam,21.0,13.9077,109.26,Wind
+Vietnam,100.0,14.4084,107.863,Hydro
+Vietnam,1200.0,21.0118,107.13,Coal
+Vietnam,5.0,11.9631,107.4493,Hydro
+Vietnam,3.6,14.209000000000001,107.8141,Hydro
+Vietnam,3.0,19.6605,104.9386,Hydro
+Vietnam,21.0,21.0315,104.2138,Hydro
+Vietnam,260.0,14.2152,107.7222,Hydro
+Vietnam,108.0,14.1063,107.6577,Hydro
+Vietnam,360.0,13.9678,107.4953,Hydro
+Vietnam,63.0,13.9308,107.4678,Hydro
+Vietnam,22.0,22.2481,103.8963,Hydro
+Vietnam,220.0,21.1793,106.78,Coal
+Vietnam,2400.0,21.4971,103.99600000000001,Hydro
+Vietnam,220.0,13.0226,108.9039,Hydro
+Vietnam,156.0,15.7258,107.6512,Hydro
+Vietnam,49.0,15.7646,107.6802,Hydro
+Vietnam,57.0,15.8077,107.7472,Hydro
+Vietnam,29.0,15.8186,107.7787,Hydro
+Vietnam,16.0,22.7148,104.535,Hydro
+Vietnam,63.0,15.9332,107.8081,Hydro
+Vietnam,400.0,11.1048,106.9848,Hydro
+Vietnam,30.0,11.2122,108.2,Wind
+Vietnam,342.0,22.36,105.3985,Hydro
+Vietnam,735.0,21.0398,106.78,Coal
+Vietnam,66.0,14.3656,108.6943,Hydro
+Vietnam,28.0,14.3611,108.7203,Hydro
+Vietnam,1244.0,11.317,108.81,Coal
+Vietnam,1245.0,18.0979,106.38,Coal
+Vietnam,6.6,21.3412,104.3498,Hydro
+Vietnam,19.5,12.1526,108.3787,Hydro
+Vietnam,30.0,15.86,107.6538,Hydro
+Western Sahara,23.4,23.6816,-15.9594,Oil
+Yemen,125.0,12.8271,44.9227,Oil
+Yemen,139.0,12.8536,44.9752,Oil
+Yemen,160.0,13.3609,43.2517,Oil
+Yemen,41.0,15.4306,44.1863,Oil
+Yemen,30.0,12.8155,45.0279,Oil
+Yemen,400.0,15.552,45.7717,Gas
+Yemen,150.0,14.9893,42.9113,Oil
+Zambia,20.0,-12.3786,27.8317,Oil
+Zambia,120.0,-15.7688,26.0203,Hydro
+Zambia,990.0,-15.8089,28.4199,Hydro
+Zambia,930.0,-16.5222,28.7619,Hydro
+Zambia,40.0,-11.5667,24.1333,Oil
+Zambia,14.6,-13.1333,28.4,Oil
+Zambia,15.0,-15.433,28.333000000000002,Oil
+Zambia,12.0,-12.9884,30.8649,Hydro
+Zambia,300.0,-17.3529,27.186999999999998,Coal
+Zambia,10.0,-12.55,28.2333,Oil
+Zambia,12.237,-15.8333,27.7667,Biomass
+Zambia,50.0,-12.9667,28.6333,Oil
+Zambia,20.0,-12.8167,28.2,Oil
+Zambia,108.0,-17.9167,25.85,Hydro
+Zimbabwe,920.0,-18.3835,26.47,Coal
+Rhodesia,750.0,-16.5222,28.7619,Hydro
