@@ -96,11 +96,7 @@
                         .on("mouseover", function(d){
                                 d3.select(this)
                                     .classed("active", true);
-                                tooltip.html(d.country_long+"<br/>"
-                                +"Capacity: "+d.capacity_mw+"<br/>"
-                                +"fuel: "+d.fuel1+"<br/>"
-                                +"Longitude: "+d.longitude+"<br/>"
-                                +"latitude " +d.latitude+"<br/>")
+                                tooltip.html(d.country_long+"<br/>"+"Capacity: "+d.capacity_mw+"<br/>"+"fuel: "+d.fuel1+"<br/>"+"Longitude: "+d.longitude+"<br/>"+"latitude " +d.latitude+"<br/>")
                                     .style("left",(d3.event.pageX) + "px")
                                     .style("top",(d3.event.pageY+20) + "px")
                                     .style("opacity",0.5)
