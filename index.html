@@ -36,8 +36,8 @@
                 if(error)
                     return console.error(error);
                 console.log(root.features);
-
-                svg.selectAll("path")
+                var world = svg.append("g");
+                world.selectAll("path")
                     .data(root.features)
                     .enter()
                     .append("path")
@@ -85,7 +85,7 @@
                         return "translate("+ coordinates[0] + "," + coordinates[1] +")";
                     });
                 position.append("circle")
-			        .attr("r",5);
+			        .attr("r",1);
                 }
             );
 
