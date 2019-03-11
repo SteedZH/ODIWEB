@@ -92,7 +92,7 @@
                     .append("div")
                     .attr("class", "tooltip")
                     .style("opacity", 0.0)
-                var circle = svg.selectAll("position")
+                var circle = svg.selectAll("circle")
                         .on("mouseover", function(d){
                                 d3.select(this)
                                     .classed("active", true);
