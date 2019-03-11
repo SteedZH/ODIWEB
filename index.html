@@ -6,7 +6,7 @@
         <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
     </head>
     <style>
-    .location circle{
+    .position circle{
         fill: blue;
     }
     </style>
@@ -75,16 +75,16 @@
                         console.log(error);
                         return;
                     }
-                var position = svg.selectAll(".location")
+                var position = svg.selectAll(".position")
                     .data(data)
                     .enter()
                     .append("g")
-                    .attr("class", "location")
+                    .attr("class", "position")
                     .attr("transform",function(d){
                         var coordinates = projection(d.longitude, d.latitude);
                         return "translate("+ coordinates[0] + "," + coordinates[1] +")";
                     });
-                location.append("circle")
+                position.append("circle")
 			        .attr("r",5);
                 }
             );
