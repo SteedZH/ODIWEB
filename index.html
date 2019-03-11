@@ -5,6 +5,11 @@
         <title>Map</title>
         <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
     </head>
+    <style>
+    .location circle{
+        fill: blue;
+    }
+    </style>
     <body>
         <script>
             var width = window.innerWidth;
@@ -70,9 +75,20 @@
                         console.log(error);
                         return;
                     }
-                    console.log(data);
+                var position = svg.selectAll(".location")
+                    .data(data)
+                    .enter()
+                    .append("g")
+                    .attr("class", "location")
+                    .attr("transform",function(d){
+                        var coordinates = projection(d.longitude, d.latitude);
+                        return "translate("+ coordinates[0] + "," + coordinates[1] +")";
+                    });
+                location.append("circle")
+			        .attr("r",5);
                 }
             );
+
         </script>
     </body>
 </html>
