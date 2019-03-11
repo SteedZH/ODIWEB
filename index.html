@@ -32,10 +32,7 @@
             
             var color = d3.scaleOrdinal(d3.schemeCategory20);
 
-            var tooltip = d3.select("body")
-                    .append("div")
-                    .attr("class", "tooltip")
-                    .style("opacity", 0.0)
+           
 
             d3.json("worldmap.geojson", function(error, root){
 
@@ -80,6 +77,11 @@
                         return;
                     }
                 console.log(data);
+                var tooltip = d3.select("body")
+                    .append("div")
+                    .attr("class", "tooltip")
+                    .style("opacity", 0.0)
+
                 var position = svg.selectAll(".position")
                     .data(data)
                     .enter()
@@ -93,7 +95,7 @@
                     .on("mouseover", function(d){
                                 d3.select(this)
                                     .classed("active", true);
-                                console.log("just had a mouseover", d);
+                                console.log("just had a mouseover", d.country);
                                 tooltip.html(d.country+"<br/>"+"Capacity: "+d.capacity+"<br/>"+"fuel: "+d.fuel+"<br/>"+"Longitude: "+d.longitude+"<br/>"+"latitude " +d.latitude+"<br/>")
                                     .style("left",(d3.event.pageX) + "px")
                                     .style("top",(d3.event.pageY+20) + "px")
