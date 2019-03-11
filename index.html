@@ -55,10 +55,8 @@
                         d3.select(this)
                             .attr("fill",color(i));
                     });
-            });
-            
-            d3.csv("refine.csv",
-                function(data) {
+                
+                    d3.csv("refine.csv", function(data) {
                     return {
                         country: data["country_long"],
                         capacity: +data["capacity_mw"],
@@ -88,6 +86,9 @@
 			        .attr("r",1);
                 }
             );
+            });
+            
+            
 
         </script>
     </body>
