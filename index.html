@@ -7,7 +7,7 @@
     </head>
     <style>
     .position circle{
-        fill: rgb(104, 104, 252);
+        fill: yellow;
     }
     </style>
     <body>
@@ -49,7 +49,7 @@
                     .attr("d", path )
                     .on("mouseover",function(d,i){
                         d3.select(this)
-                            .attr("fill","black");
+                            .attr("fill","blue");
                     })
                     .on("mouseout",function(d,i){
                         d3.select(this)
