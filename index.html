@@ -21,7 +21,7 @@
                 .attr("height", height)
                 .append("g")
                 .attr("transform", "translate(0,0)");
-
+            
             var projection = d3.geoMercator()
                                 .center([0,0])
                                 .scale(300)
@@ -85,16 +85,34 @@
                         return "translate("+ coordinates[0] + "," + coordinates[1] +")";
                     })
                 position.append("circle")
-                    .attr("r",5);
-                    
+                    .attr("r",3);
+                
+
+                var tooltip = d3.select("body")
+                    .append("div")
+                    .attr("class", "tooltip")
+                    .style("opacity", 0.0)
                 var circle = svg.selectAll("circle")
                         .on("mouseover", function(d){
                                 d3.select(this)
-                                    .classed("active", true)
+                                    .classed("active", true);
+                                tooltip.html(d.country_long+"<br/>"
+                                +"Capacity: "+d.capacity_mw+"<br/>"
+                                +"fuel: "+d.fuel1+"<br/>
+                                +"Longitude: "+d.longitude+"<br/>"
+                                +"latitude " +d.latitude+"<br/>")
+                                    .style("left",(d3.event.pageX) + "px")
+                                    .style("top",(d3.event.pageY+20) + "px")
+                                    .style("opacity",0.5)
+                        })
+                        .on("mousemove", function(d){
+                            tooltip.style("left", (d3.event.pageX)+"px")
+                                   .style("top", (d3.event.pageY+20)+"px")
                         })
                         .on("mouseout", function(d){
-                                d3.select(this)
-                                    .classed("active", false)
+                                tooltip.style("opacity", 0.0)
+                                // d3.select(this)
+                                //     .classed("active", false)
                         });
                 }
             );
