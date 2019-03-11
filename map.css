@@ -1,15 +1,21 @@
 
-    /* path {
-      fill: #ccc;
-      stroke: #fff;
-      stroke-width: .5px;
-    } */
-    
-    circle {
-        fill: #fff;
-        fill-opacity: 0.4;
-        stroke: #111;
-    }  
-    circle.active{
-        fill: rgb(0, 0, 0);
-     }
+/* path {
+    fill: #ccc;
+    stroke: #fff;
+    stroke-width: .5px;
+} */
+
+circle {
+    fill: #fff;
+    fill-opacity: 0.4;
+    stroke: #111;
+}  
+circle.active{
+    fill: rgb(0, 0, 0);
+    }
+
+.tooltip{
+    position: absolute;
+    width: 120;
+    height: auto;
+}
