@@ -32,7 +32,10 @@
             
             var color = d3.scaleOrdinal(d3.schemeCategory20);
 
-           
+            var tooltip = d3.select("body")
+                    .append("div")
+                    .attr("class", "tooltip")
+                    .style("opacity", 0.0)
 
             d3.json("worldmap.geojson", function(error, root){
 
@@ -77,10 +80,7 @@
                         return;
                     }
                 console.log(data);
-                var tooltip = d3.select("body")
-                    .append("div")
-                    .attr("class", "tooltip")
-                    .style("opacity", 0.0)
+                
 
                 var position = svg.selectAll(".position")
                     .data(data)
