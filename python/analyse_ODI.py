@@ -10,5 +10,5 @@ df3 = df2.dropna()  # get rid of row contained null
 # df4 = df[df["country"] == "North Vietnam"]
 # print(len(df), len(df1), len(df2), len(df3))
 
-df3.to_csv("refine.csv", index=False)
+# df3.to_csv("refine.csv", index=False)
 
