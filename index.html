@@ -86,7 +86,7 @@
                     })
                 position.append("circle")
                     .attr("r",3);
-                
+
 
                 var tooltip = d3.select("body")
                     .append("div")
@@ -94,8 +94,8 @@
                     .style("opacity", 0.0)
                 var circle = svg.selectAll("position")
                         .on("mouseover", function(d){
-                                // d3.select(this)
-                                //     .classed("active", true);
+                                d3.select(this)
+                                    .classed("active", true);
                                 tooltip.html(d.country_long+"<br/>"
                                 +"Capacity: "+d.capacity_mw+"<br/>"
                                 +"fuel: "+d.fuel1+"<br/>"
