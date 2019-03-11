@@ -93,7 +93,7 @@
                     .on("mouseover", function(d){
                                 d3.select(this)
                                     .classed("active", true);
-                                console.log("just had a mouseover", d.country_long, d3.select(d));
+                                console.log("just had a mouseover", d.country, d3.select(d));
                                 tooltip.html(d.country_long+"<br/>"+"Capacity: "+d.capacity_mw+"<br/>"+"fuel: "+d.fuel1+"<br/>"+"Longitude: "+d.longitude+"<br/>"+"latitude " +d.latitude+"<br/>")
                                     .style("left",(d3.event.pageX) + "px")
                                     .style("top",(d3.event.pageY+20) + "px")
