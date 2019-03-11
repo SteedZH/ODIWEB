@@ -35,7 +35,8 @@
             var tooltip = d3.select("body")
                     .append("div")
                     .attr("class", "tooltip")
-                    .style("opacity", 1.0)  
+                    .attr("id", "info")
+                    // .style("opacity", 0.0)  
 
             d3.json("worldmap.geojson", function(error, root){
 
@@ -94,7 +95,7 @@
                                 d3.select(this)
                                     .classed("active", true);
                                 console.log("just had a mouseover", d, d3.select(d));
-                                tooltip.html(d.country_long+"<br/>"+"Capacity: "+d.capacity_mw+"<br/>"+"fuel: "+d.fuel1+"<br/>"+"Longitude: "+d.longitude+"<br/>"+"latitude " +d.latitude+"<br/>")
+                                tooltip.innerhtml(d.country_long+"<br/>"+"Capacity: "+d.capacity_mw+"<br/>"+"fuel: "+d.fuel1+"<br/>"+"Longitude: "+d.longitude+"<br/>"+"latitude " +d.latitude+"<br/>")
                                     .style("left",(d3.event.pageX) + "px")
                                     .style("top",(d3.event.pageY+20) + "px")
                                     .style("opacity",0.5)
