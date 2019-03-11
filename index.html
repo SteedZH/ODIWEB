@@ -66,8 +66,7 @@
                         position: [data["longitude"], data["latitude"]],
                         fuel: data["fuel1"]
                     };
-                };
-                console.log(data.country_long);
+                },
 
                 function(error, data) {
                     if (error){
@@ -75,6 +74,7 @@
                         console.log(error);
                         return;
                     }
+                console.log(data);
                 var position = svg.selectAll(".position")
                     .data(data)
                     .enter()
