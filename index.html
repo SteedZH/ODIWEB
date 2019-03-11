@@ -80,12 +80,13 @@
                     .enter()
                     .append("g")
                     .attr("class", "position")
+                    .append("circle").attr("r",3)
                     .attr("transform",function(d){
                         var coordinates = projection([d.longitude, d.latitude]);
                         return "translate("+ coordinates[0] + "," + coordinates[1] +")";
                     })
-                position.append("circle")
-                    .attr("r",3);
+                // position.append("circle")
+                //     .attr("r",3);
 
 
                 var tooltip = d3.select("body")
@@ -95,7 +96,6 @@
                 var circle = svg.selectAll("circle")
                         .data(data)
                         .enter()
-                        .append("g")
                         .on("mouseover", function(d){
                                 d3.select(this)
                                     .classed("active", true);
