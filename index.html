@@ -27,12 +27,8 @@
             
             var color = d3.scaleOrdinal(d3.schemeCategory20);
 
-            var tooltip = d3.select("body")
-                    .append("div")
-                    .attr("class", "tooltip")
-                    .style("opacity", 0.0)
 
-            d3.json("worldmap.geojson", function(error, root){
+            d3.json("world.json", function(error, root){
 
                 if(error)
                     return console.error(error);
@@ -76,7 +72,11 @@
                     }
                 console.log(data);
                 
-
+                var tooltip = d3.select("body")
+                    .append("div")
+                    .attr("class", "tooltip")
+                    .style("opacity", 0.0)
+                    
                 var position = svg.selectAll(".position")
                     .data(data)
                     .enter()
@@ -94,7 +94,7 @@
                                 tooltip.html(d.country+"<br/>"+"Capacity: "+d.capacity+"<br/>"+"fuel: "+d.fuel+"<br/>"+"Longitude: "+d.longitude+"<br/>"+"latitude " +d.latitude+"<br/>")
                                     .style("left",(d3.event.pageX) + "px")
                                     .style("top",(d3.event.pageY+20) + "px")
-                                    .style("opacity",0.5)
+                                    .style("opacity",1.0)
                         })
                     .on("mousemove", function(d){
                             tooltip.style("left", (d3.event.pageX)+"px")
