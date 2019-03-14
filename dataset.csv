@@ -1973,9 +1973,9 @@ IRL,Ireland,Raheen Barr,WRI1022958,18.7,53.9001,-9.3579,Wind,,,,2003,,Irish Wind
 IRL,Ireland,Raheenleagh Wind Farm,WRI1022959,36.5,52.7973,-6.3164,Wind,,,,2016,Coillte and ESB,Irish Wind Energy Association,http://www.iwea.com/windfarmsinireland,WRI,,,,,,145.767
 IRL,Ireland,Rhode,WRI1002837,104,53.3594,-7.213,Oil,,,,,Endesa,All Island Project,http://www.allislandproject.org/en/market_decision_documents.aspx?article=151a9561-cef9-47f2-9f48-21f6c62cef73,GEODB,,,,,,16.976
 IRL,Ireland,Sealrock (Aughinish CHP),WRI1002838,166,52.6324,-9.0596,Gas,,,,,Aughinish,All Island Project,http://www.allislandproject.org/en/market_decision_documents.aspx?article=151a9561-cef9-47f2-9f48-21f6c62cef38,GEODB,,,,,,580.562
-ISR,Israel,Haluziot,WRI1061486,55,31.1685,34.5469,Solarr,,,,2015,Israel Electric corporation,PV Tech,https://www.pv-tech.org/news/grupo_clavijo_installing_single_axis_tracker_to_55mw_israel_project,WRI,,,,,,122.287
+ISR,Israel,Haluziot,WRI1061486,55,31.1685,34.5469,Solar,,,,2015,Israel Electric corporation,PV Tech,https://www.pv-tech.org/news/grupo_clavijo_installing_single_axis_tracker_to_55mw_israel_project,WRI,,,,,,122.287
 ISR,Israel,Hazeva,WRI1061487,4.5,30.8069,35.2466,Solar,,,,,Eren Group,Eren Group,http://eren-groupe.com/en/realisation-eren/hazeva/,WRI,,,,,,10.005
-ISR,Israel,Kibbutz Ketura,WRI1061488,40,29.9647,35.0595,Solarr,,,,2015,Israel Electric corporation,PV Magazine,https://www.energymatters.com.au/renewable-news/ketura-solar-farm-em4960/,WRI,,,,,,88.936
+ISR,Israel,Kibbutz Ketura,WRI1061488,40,29.9647,35.0595,Solar,,,,2015,Israel Electric corporation,PV Magazine,https://www.energymatters.com.au/renewable-news/ketura-solar-farm-em4960/,WRI,,,,,,88.936
 ISR,Israel,Lahav,WRI1026462,3.2,31.3764,34.8691,Solar,,,,2014,Belectric GmbH,Belectric,http://www.belectric.com/en/solar-power-plants/projects/,,,,,,,7.115
 ISR,Israel,Meitarim,WRI1026463,5,31.3663,35.0046,Solar,,,,2015,Energix Renewable Energies Limited,Energix,http://www.energix-group.com/Meitarim/,WRI,,,,,,11.117
 ISR,Israel,Mount Gilboa,WRI1061482,21,32.4664,35.4256,Wind,,,,2017,Israel Electric corporation,Ynet News,https://www.ynetnews.com/articles/0 7340 L-4702563 00.html,WRI,,,,,,3
@@ -2025,9 +2025,9 @@ ITA,Italy,BRESSANONE,WRI1021300,89,46.7782,11.6321,Hydro,,,,,Ghella,ENTSOE,https
 ITA,Italy,BRINDISI NORD,WRI1002854,640,40.6432,17.9802,Coal,,,,,A2A,Association of Carbon Italy,http://www.assocarboni.it/index.php/en/the-coal/coal-plants-in-italy,GEODB,,,,0,,3509
 ITA,Italy,BRINDISI SUD CE,WRI1002855,2420,40.5632,18.0318,Coal,,,,,ENEL,Association of Carbon Italy,http://www.assocarboni.it/index.php/en/the-coal/coal-plants-in-italy,GEODB,,,,13251,,13269
 ITA,Italy,BUSSI,WRI1002857,125,42.2002,13.8398,Gas,,,,1994,Edison,Edison,http://www.edison.it/en/bussi-thermoelectric-power-plant,GEODB,,,,72,,303.459
-ITA,Italy,Barrafranca Solar Power Plant,WRI1026394,5,37.3698,14.2189,Solarr,,,,,Opde Photovoltaics,Enel Green Power,https://www.enelgreenpower.com/en/country-italy.html,Industry About,,,,,,258.417
+ITA,Italy,Barrafranca Solar Power Plant,WRI1026394,5,37.3698,14.2189,Solar,,,,,Opde Photovoltaics,Enel Green Power,https://www.enelgreenpower.com/en/country-italy.html,Industry About,,,,,,258.417
 ITA,Italy,Bellavista Solar Power Plant,WRI1026395,6,41.6577,12.6621,Solar,,,,,Opde Photovoltaics,9ren,http://www.9ren.it/en/about-us/sustainability/environmental-initiatives,Industry About,,,,,,310.1
-ITA,Italy,Bellpower Solar Power Plant,WRI1026396,9.2,41.8304,15.8484,Solarr,,,,,,Gestamp Solar,http://www.gestampsolar.com/es/negocio/proyectos-de-investigacion/bellpower,Industry About,,,,,,475.486
+ITA,Italy,Bellpower Solar Power Plant,WRI1026396,9.2,41.8304,15.8484,Solar,,,,,,Gestamp Solar,http://www.gestampsolar.com/es/negocio/proyectos-de-investigacion/bellpower,Industry About,,,,,,475.486
 ITA,Italy,Bosco Marengo Solar Power Plant,WRI1026397,6.5,44.8372,8.7493,Solar,,,,,Opde Photovoltaics,OPDE,http://www.opde.net/en/projects/,Industry About,,,,,,335.942
 ITA,Italy,CADARESE,WRI1021327,68,46.2921,8.3038,Hydro,,,,,,ENTSOE,https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show,WRI,,,,,,306.138
 ITA,Italy,CANDELA,WRI1002858,400,41.2014,15.4762,Gas,,,,,Edison,Edison,http://www.skemaq.it/uploads/case-studies/7cae243ca90d11d3755216b3b90bacdc.pdf,GEODB,,,,2397.6,,971.07
@@ -2096,7 +2096,7 @@ ITA,Italy,Massoli Terni Solar Power Plant,WRI1026416,2.3,42.5107,12.6187,Solar,,
 ITA,Italy,Maviglia Solar Power Plant,WRI1026417,1,40.3175,17.5873,Solar,,,,,9REN,9ren,http://www.9ren.it/en/about-us/where-we-operate/our-plants/,Industry About,,,,,,51.68331055
 ITA,Italy,Meatiri Solar Power Plant,WRI1026418,1,40.1563,18.2334,Solar,,,,,9REN,Solaer,https://www.google.com/maps/d/embed?mid=1bXiXRcLRnBCUfpkHM2J5EVryhG4&ll=31.06035315253383%2C35.02284616406246&z=8,Industry About,,,,,,51.68331055
 ITA,Italy,Monfalcone,WRI1002911,336,45.7979,13.5455,Coal,,,,,A2A,A2A,http://www.a2a.eu/en/plants_networks/thermoelectric/monfalcone/,GEODB,,,,2109,,1842.317501
-ITA,Italy,Montalto di Castro - Solaer Solar Power Plant,WRI1026419,1,42.4067,11.6104,Solarr,,,,,Solaer,Solaer,https://www.google.com/maps/d/embed?mid=1bXiXRcLRnBCUfpkHM2J5EVryhG4&ll=31.06035315253383%2C35.02284616406246&z=8,Industry About,,,,,,51.68331055
+ITA,Italy,Montalto di Castro - Solaer Solar Power Plant,WRI1026419,1,42.4067,11.6104,Solar,,,,,Solaer,Solaer,https://www.google.com/maps/d/embed?mid=1bXiXRcLRnBCUfpkHM2J5EVryhG4&ll=31.06035315253383%2C35.02284616406246&z=8,Industry About,,,,,,51.68331055
 ITA,Italy,Monte San Pietrangeli Solar Power Plant,WRI1026420,5.7,43.1953,13.6002,Solar,,,,,Solaria Energ??_a y Medio Ambiente SA,En Value,http://www.envalue.de/de/neues/index.php,Industry About,,,,,,294.5948701
 ITA,Italy,NAPOLI L,WRI1002916,400,40.8339,14.3006,Gas,,,,2009,Tirreno,Tirreno Power,http://www.tirrenopower.com/en/impianti-elettrici/napoli-levante/,GEODB,,,,715,,971.0699716
 ITA,Italy,NOVEL,WRI1021293,97,45.457,8.6496,Other,,,,,,ENTSOE,https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show,GEODB,,,,,,166.7108684
@@ -2108,7 +2108,7 @@ ITA,Italy,NUOVA MOLINETTO,WRI1021721,18,43.2112,10.8585,Geothermal,,,,2002,,ENTS
 ITA,Italy,NUOVA MONTEROTONDO,WRI1021914,11,43.1519,10.8495,Geothermal,,,,2002,,ENTSOE,https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show,WRI,,,,,,75.93465578
 ITA,Italy,NUOVA RADICONDOLI,WRI1021348,59,43.1935,11.0446,Geothermal,,,,2002,,ENTSOE,https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show,WRI,,,,,,407.285881
 ITA,Italy,NUOVA SAN MARTINO,WRI1021455,39,43.1452,10.8325,Geothermal,,,,2005,,ENTSOE,https://transparency.entsoe.eu/generation/r2/installedCapacityPerProductionUnit/show,WRI,,,,,,269.2228705
-ITA,Italy,Piccolo Carlo Solar Power Plant,WRI1026425,1,40.0366,18.3629,Solarr,,,,,Solaer,Solaer,https://www.google.com/maps/d/embed?mid=1bXiXRcLRnBCUfpkHM2J5EVryhG4&ll=31.06035315253383%2C35.02284616406246&z=8,Industry About,,,,,,51.68331055
+ITA,Italy,Piccolo Carlo Solar Power Plant,WRI1026425,1,40.0366,18.3629,Solar,,,,,Solaer,Solaer,https://www.google.com/maps/d/embed?mid=1bXiXRcLRnBCUfpkHM2J5EVryhG4&ll=31.06035315253383%2C35.02284616406246&z=8,Industry About,,,,,,51.68331055
 ITA,Italy,Portoscuso,WRI1002926,320,39.2047,8.3789,Oil,,,,1973,ENEL,ENEL,https://www.futur-e.enel.it/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=MDT-Type&blobheadervalue1=inline%3B+filename%3Dportoscuso-eng.pdf&blobheadervalue2=abinary%3B+charset%3DUTF-8&blobkey=id&blobtable=MungoBlobs&blobwhere=1445864757450&ssbinary=true,CARMA,,,,0,,513.3439804
 ITA,Italy,Pozzilli Solar Power Plant,WRI1026426,2.9,41.5051,14.0879,Solar,,,,,Solaer,Solar Rig,http://solarig.com,Industry About,,,,,,149.8816006
 ITA,Italy,Pozzo d'Adda Solar Power Plant,WRI1026427,3,45.5738,9.4927,Solar,,,,,,Martifer Solar,http://www.martifersolar.com/powering.php,Industry About,,,,,,155.0499316

@@ -27,7 +27,7 @@ rect.background {
 
 var margin = {top: 30, right: 120, bottom: 0, left: 120},
     width = 960 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+    height = 1200 - margin.top - margin.bottom;
 
 var x = d3.scale.linear()
     .range([0, width]);
@@ -65,24 +65,24 @@ svg.append("g")
 svg.append("g")
     .attr("class", "y axis")
   .append("line")
-    .attr("y1", "100%");
+    .attr("y1", "15%");
 
-d3.json("readme.json", function(error, root) {
-  if (error) throw error;
-  console.log(root)
-//   console.log(root.value)
-  partition.nodes(root);
-  x.domain([0, root.value]).nice();
+// d3.json("readme.json", function(error, root) {
+//   if (error) throw error;
 //   console.log(root)
-//   console.log(root.value)
-  down(root, 0);
-});
+// //   console.log(root.value)
+//   partition.nodes(root);
+//   x.domain([0, root.value]).nice();
+// //   console.log(root)
+// //   console.log(root.value)
+//   down(root, 0);
+// });
 
 d3.csv("join.csv",function(data){
-    console.log(data[0]);
+    // console.log(data[0]);
     var array_use = [{ "name" : "Africa" , "children" : [] }, { "name" : "Asia" , "children" : [] }, { "name" : "Europe" , "children" : [] },
     { "name" : "South America" , "children" : [] }, { "name" : "North America" , "children" : [] }, { "name" : "Oceania" , "children" : [] }, { "name" : "Antarctica" , "children" : [] }];
-    console.log(data[0]["continent"]);
+    // console.log(data[0]["continent"]);
     data.forEach(function(value, index, array){
         continent_all = ["Africa", "Asia","Europe","South America","North America","Oceania","Antarctica"];
         continent_all.forEach(function(v, i, a){
@@ -92,13 +92,17 @@ d3.csv("join.csv",function(data){
                 if(val["name"] == v){
                     val["children"].push(value);
                 }
-                
-            })
-            
+            });
             }
-            });    
+            });
     })
     var dict = {"name": "continent_data", "children": array_use}
+    // dict = JSON.stringify(dict);
+    partition.nodes(dict)
+    x.domain([0, dict.value]).nice();
+
+    down(dict, 0)
+
     console.log(dict);
     });
 

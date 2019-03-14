@@ -16,13 +16,13 @@ country = pd.read_json("countries.json")
 country = country.loc[["name", "continent"]]
 
 country.replace({
-  "AF": "Africa",
-  "AN": "Antarctica",
-  "AS": "Asia",
-  "EU": "Europe",
-  "NA": "North America",
-  "OC": "Oceania",
-  "SA": "South America"
+    "AF": "Africa",
+    "AN": "Antarctica",
+    "AS": "Asia",
+    "EU": "Europe",
+    "NA": "North America",
+    "OC": "Oceania",
+    "SA": "South America"
 }, inplace=True)
 
 # country_name = df1.index.values
@@ -45,6 +45,54 @@ result = pd.merge(df1, country, how='left', on="country")
 result = pd.read_csv("join.csv")
 test = result["continent"].value_counts()
 
+pd.concat([result, pd.DataFrame(columns=["Hydro",
+                                         "Gas",
+                                         "Solar",
+                                         "Wind",
+                                         "Oil",
+                                         "Coal",
+                                         "Biomass",
+                                         "Waste",
+                                         "Geothermal",
+                                         "Nuclear",
+                                         "Other",
+                                         "Cogeneration",
+                                         "Wave and Tidal"])], sort=False)
+
+result = pd.concat(
+    [
+        result,
+        pd.DataFrame(
+            0,
+            index=result.index,
+            columns=["Hydro",
+                     "Gas",
+                     "Solar",
+                     "Wind",
+                     "Oil",
+                     "Coal",
+                     "Biomass",
+                     "Waste",
+                     "Geothermal",
+                     "Nuclear",
+                     "Other",
+                     "Cogeneration",
+                     "Wave and Tidal"]
+        )
+    ], axis=1
+)
+
+for index, row in df3.iterrows():
+    # print(result[row.fuel1])
+    #
+    # if string == row.country_long:
+
+    print(row.fuel1)
+    result.loc[result["country"] == row.country_long, row.fuel1] += 1
+    #
+    # else:
+    #
+    #     string = row.country_long
+    #     result.loc[result[row.country_long] == row.country_long, row.fuel1] = result[row.fuel1] + 1
+
 print("hello")
-
-

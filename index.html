@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <title>Map</title>
         <link rel="stylesheet" type="text/css" href="map.css">
-        <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+        <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
     </head>
     <body>
         <script>
@@ -20,15 +20,15 @@
                 .attr("viewBox", "0,0,1900,500")
                 .append("g");
             
-            var projection = d3.geoMercator()
+            var projection = d3.geo.mercator()
                                 .center([0,0])
                                 .scale(300)
                                 .translate([width/2, height/2]);
             
-            var path = d3.geoPath()
+            var path = d3.geo.path()
                         .projection(projection);
             
-            var color = d3.scaleOrdinal(d3.schemeCategory20);
+            var color = d3.scale.category20();
 
             var world = svg.append("g");
                         
