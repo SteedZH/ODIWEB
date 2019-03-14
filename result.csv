@@ -1,0 +1,148 @@
+country,plant_number,continent,Hydro,Gas,Solar,Wind,Oil,Coal,Biomass,Waste,Geothermal,Nuclear,Other,Cogeneration,Wave and Tidal
+United Kingdom,764,Europe,43,13,289,256,3,3,68,89,0,0,0,0,0
+India,540,Asia,132,45,77,69,15,166,28,0,0,7,0,1,0
+Australia,243,Oceania,39,84,5,29,21,22,17,23,0,0,0,0,0
+Japan,231,Asia,36,24,96,2,24,23,0,1,11,13,0,0,0
+Norway,229,Europe,216,3,0,8,0,0,0,0,0,0,0,0,0
+Italy,171,Europe,42,32,53,1,8,7,0,0,25,0,3,0,0
+Vietnam,153,Asia,115,9,0,4,5,19,1,0,0,0,0,0,0
+Chile,151,South America,62,3,5,11,41,5,10,0,0,0,0,0,0
+Sweden,115,Europe,101,2,0,5,0,0,5,0,0,2,0,0,0
+Switzerland,111,Europe,107,0,0,0,0,0,0,0,0,4,0,0,0
+Argentina,110,South America,27,29,0,3,41,3,0,0,0,1,4,0,0
+South Korea,85,Asia,24,22,9,10,2,9,2,2,0,4,0,0,1
+Germany,85,Europe,14,6,35,12,3,7,6,2,0,0,0,0,0
+Iran,81,Asia,18,46,0,1,15,0,0,0,0,1,0,0,0
+Austria,77,Europe,73,0,0,4,0,0,0,0,0,0,0,0,0
+South Africa,70,Africa,3,1,27,17,3,12,2,4,0,1,0,0,0
+Belgium,48,Europe,7,17,0,11,8,0,2,0,0,3,0,0,0
+Turkey,48,Asia,13,10,3,1,1,11,0,0,9,0,0,0,0
+Greece,43,Europe,11,7,13,5,3,3,0,1,0,0,0,0,0
+Philippines,43,Asia,9,4,14,0,4,8,1,0,3,0,0,0,0
+Uruguay,42,South America,2,2,10,14,4,0,10,0,0,0,0,0,0
+Spain,42,Europe,12,6,3,7,2,3,1,5,0,3,0,0,0
+Guatemala,39,North America,17,0,1,2,7,2,9,0,1,0,0,0,0
+Pakistan,36,Asia,7,9,0,4,8,5,0,0,0,2,0,0,0
+Bangladesh,35,Asia,1,16,0,0,17,1,0,0,0,0,0,0,0
+Myanmar,34,Asia,20,12,0,0,0,2,0,0,0,0,0,0,0
+Sri Lanka,34,Asia,17,0,0,9,8,0,0,0,0,0,0,0,0
+Netherlands,33,Europe,0,7,0,22,0,3,0,0,0,1,0,0,0
+Ireland,32,Europe,1,4,0,23,4,0,0,0,0,0,0,0,0
+North Korea,30,Asia,14,0,0,0,0,15,0,0,0,0,0,0,0
+Egypt,30,Africa,2,22,0,1,5,0,0,0,0,0,0,0,0
+Morocco,29,Africa,15,2,0,11,1,0,0,0,0,0,0,0,0
+Tunisia,27,Africa,6,19,0,2,0,0,0,0,0,0,0,0,0
+New Zealand,26,Oceania,15,2,0,4,1,1,0,0,3,0,0,0,0
+Algeria,26,Africa,1,25,0,0,0,0,0,0,0,0,0,0,0
+Malaysia,25,Asia,5,10,3,0,3,3,1,0,0,0,0,0,0
+Israel,22,Asia,0,7,11,2,0,2,0,0,0,0,0,0,0
+Kenya,22,Africa,8,0,0,2,6,0,0,0,6,0,0,0,0
+Russia,21,Europe,3,10,0,0,0,5,0,0,0,3,0,0,0
+Poland,21,Europe,3,6,0,0,0,11,0,0,0,0,0,0,0
+Taiwan,20,Asia,4,5,0,5,1,2,0,0,0,3,0,0,0
+Laos,20,Asia,19,0,0,0,0,1,0,0,0,0,0,0,0
+Iceland,20,Europe,14,0,0,0,0,0,0,0,6,0,0,0,0
+Ecuador,20,South America,9,4,0,0,6,0,0,0,0,0,0,0,0
+Iraq,19,Asia,7,10,0,0,2,0,0,0,0,0,0,0,0
+Sudan,19,Africa,6,1,0,0,10,0,2,0,0,0,0,0,0
+Bolivia,18,South America,10,8,0,0,0,0,0,0,0,0,0,0,0
+Syrian Arab Republic,18,Asia,3,8,0,0,7,0,0,0,0,0,0,0,0
+Bulgaria,18,Europe,7,0,0,1,0,9,0,0,0,1,0,0,0
+Ukraine,18,Europe,2,0,0,0,0,13,0,0,0,3,0,0,0
+Georgia,18,Asia,16,2,0,0,0,0,0,0,0,0,0,0,0
+Czech Republic,17,Europe,2,0,14,0,0,0,0,0,0,0,0,0,0
+Denmark,17,Europe,0,2,1,8,0,5,0,0,1,0,0,0,0
+Belarus,17,Europe,0,17,0,0,0,0,0,0,0,0,0,0,0
+Estonia,16,Europe,0,2,0,12,2,0,0,0,0,0,0,0,0
+Romania,16,Europe,2,3,0,2,0,8,0,0,0,0,0,0,0
+Nicaragua,15,North America,2,1,0,0,8,0,0,2,2,0,0,0,0
+Papua New Guinea,15,Oceania,6,1,0,0,7,0,0,0,1,0,0,0,0
+Uzbekistan,15,Asia,6,6,0,0,1,2,0,0,0,0,0,0,0
+China,15,Asia,7,1,1,4,0,2,0,0,0,0,0,0,0
+Democratic Republic of the Congo,15,Africa,13,1,0,0,1,0,0,0,0,0,0,0,0
+United Arab Emirates,15,Asia,0,15,0,0,0,0,0,0,0,0,0,0,0
+Azerbaijan,14,Asia,5,8,0,0,1,0,0,0,0,0,0,0,0
+Singapore,14,Asia,0,8,0,0,3,0,0,3,0,0,0,0,0
+Zambia,14,Africa,5,0,0,0,7,1,1,0,0,0,0,0,0
+Saudi Arabia,13,Asia,0,4,0,0,9,0,0,0,0,0,0,0,0
+Ethiopia,13,Africa,11,0,0,1,0,0,0,0,1,0,0,0,0
+Hungary,12,Europe,0,8,0,0,1,2,0,0,0,1,0,0,0
+Macedonia,12,Europe,10,0,0,0,0,2,0,0,0,0,0,0,0
+Nigeria,12,Africa,3,9,0,0,0,0,0,0,0,0,0,0,0
+Honduras,12,North America,3,0,3,1,2,0,2,0,1,0,0,0,0
+Fiji,12,Oceania,2,0,0,1,3,0,3,0,0,0,0,0,0
+Nepal,12,Asia,12,0,0,0,0,0,0,0,0,0,0,0,0
+Dominican Republic,12,North America,2,1,1,1,5,2,0,0,0,0,0,0,0
+Libya,12,Africa,0,8,0,0,4,0,0,0,0,0,0,0,0
+Bosnia and Herzegovina,12,Europe,9,0,0,0,0,3,0,0,0,0,0,0,0
+Madagascar,11,Africa,5,2,0,0,3,1,0,0,0,0,0,0,0
+Serbia,11,Europe,4,0,0,0,0,7,0,0,0,0,0,0,0
+Panama,11,North America,8,1,0,0,2,0,0,0,0,0,0,0,0
+Tanzania,11,Africa,6,4,0,0,1,0,0,0,0,0,0,0,0
+Angola,10,Africa,2,3,0,0,4,0,0,0,0,0,0,0,0
+Tajikistan,10,Asia,8,0,0,0,1,1,0,0,0,0,0,0,0
+Rwanda,10,Africa,5,1,1,0,2,0,0,1,0,0,0,0,0
+Finland,10,Europe,7,0,0,0,1,0,2,0,0,0,0,0,0
+Guinea,9,Africa,6,0,0,0,3,0,0,0,0,0,0,0,0
+Oman,9,Asia,0,9,0,0,0,0,0,0,0,0,0,0,0
+Jamaica,9,North America,3,1,0,1,4,0,0,0,0,0,0,0,0
+Thailand,9,Asia,1,3,5,0,0,0,0,0,0,0,0,0,0
+Jordan,8,Asia,0,7,0,0,1,0,0,0,0,0,0,0,0
+Kyrgyzstan,8,Asia,6,0,0,0,1,1,0,0,0,0,0,0,0
+Kuwait,8,Asia,0,6,0,0,2,0,0,0,0,0,0,0,0
+Namibia,8,Africa,1,0,3,0,3,1,0,0,0,0,0,0,0
+Albania,8,Europe,7,0,0,0,0,0,0,0,0,0,1,0,0
+Armenia,8,Asia,4,3,0,0,0,0,0,0,0,1,0,0,0
+El Salvador,8,North America,4,0,0,0,2,0,0,0,2,0,0,0,0
+Peru,7,South America,4,2,0,1,0,0,0,0,0,0,0,0,0
+Kazakhstan,7,Asia,0,1,1,0,0,5,0,0,0,0,0,0,0
+Lebanon,7,Asia,0,2,0,0,5,0,0,0,0,0,0,0,0
+Afghanistan,7,Asia,6,1,0,0,0,0,0,0,0,0,0,0,0
+Yemen,7,Asia,0,1,0,0,6,0,0,0,0,0,0,0,0
+Bahrain,7,Asia,0,6,0,0,1,0,0,0,0,0,0,0,0
+Turkmenistan,7,Asia,0,5,0,0,2,0,0,0,0,0,0,0,0
+Moldova,6,Europe,2,3,0,0,0,1,0,0,0,0,0,0,0
+Mauritius,6,Africa,1,0,1,0,0,2,2,0,0,0,0,0,0
+Cambodia,6,Asia,3,0,0,0,1,0,1,1,0,0,0,0,0
+Cameroon,6,Africa,3,1,0,0,2,0,0,0,0,0,0,0,0
+Trinidad and Tobago,6,North America,0,4,0,0,2,0,0,0,0,0,0,0,0
+Mauritania,6,Africa,0,1,1,1,3,0,0,0,0,0,0,0,0
+Gabon,6,Africa,3,2,0,0,1,0,0,0,0,0,0,0,0
+Lithuania,6,Europe,2,4,0,0,0,0,0,0,0,0,0,0,0
+Senegal,6,Africa,1,0,0,0,5,0,0,0,0,0,0,0,0
+Niger,6,Africa,0,0,0,0,5,1,0,0,0,0,0,0,0
+Uganda,6,Africa,4,0,0,0,1,0,1,0,0,0,0,0,0
+Swaziland,6,Africa,3,0,0,0,0,0,3,0,0,0,0,0,0
+Bhutan,5,Asia,5,0,0,0,0,0,0,0,0,0,0,0,0
+Burkina Faso,5,Africa,2,0,0,0,3,0,0,0,0,0,0,0,0
+French Guiana,5,South America,1,2,0,0,1,0,1,0,0,0,0,0,0
+Malawi,5,Africa,3,1,0,0,0,0,1,0,0,0,0,0,0
+Ghana,5,Africa,3,2,0,0,0,0,0,0,0,0,0,0,0
+Latvia,5,Europe,3,2,0,0,0,0,0,0,0,0,0,0,0
+Guyana,5,South America,0,0,0,0,4,0,1,0,0,0,0,0,0
+Brunei Darussalam,4,Asia,0,4,0,0,0,0,0,0,0,0,0,0,0
+Mali,4,Africa,4,0,0,0,0,0,0,0,0,0,0,0,0
+Togo,3,Africa,1,1,0,0,1,0,0,0,0,0,0,0,0
+Montenegro,3,Europe,2,0,0,0,0,1,0,0,0,0,0,0,0
+Burundi,3,Africa,3,0,0,0,0,0,0,0,0,0,0,0,0
+Equatorial Guinea,3,Africa,1,2,0,0,0,0,0,0,0,0,0,0,0
+Mozambique,3,Africa,3,0,0,0,0,0,0,0,0,0,0,0,0
+Cape Verde,3,Africa,0,0,0,0,3,0,0,0,0,0,0,0,0
+Sierra Leone,3,Africa,1,0,0,0,2,0,0,0,0,0,0,0,0
+Paraguay,3,South America,3,0,0,0,0,0,0,0,0,0,0,0,0
+Central African Republic,2,Africa,1,0,0,0,1,0,0,0,0,0,0,0,0
+Botswana,2,Africa,0,0,0,0,0,2,0,0,0,0,0,0,0
+Liberia,2,Africa,1,0,0,0,1,0,0,0,0,0,0,0,0
+Benin,2,Africa,0,1,0,0,1,0,0,0,0,0,0,0,0
+Gambia,2,Africa,0,0,0,0,2,0,0,0,0,0,0,0,0
+Kosovo,2,Europe,0,0,0,0,0,2,0,0,0,0,0,0,0
+Mongolia,2,Asia,0,0,0,1,0,1,0,0,0,0,0,0,0
+Antarctica,2,Antarctica,0,0,0,1,1,0,0,0,0,0,0,0,0
+Luxembourg,2,Europe,1,1,0,0,0,0,0,0,0,0,0,0,0
+Eritrea,2,Africa,0,0,0,0,2,0,0,0,0,0,0,0,0
+Guinea-Bissau,1,Africa,0,0,0,0,1,0,0,0,0,0,0,0,0
+Zimbabwe,1,Africa,0,0,0,0,0,1,0,0,0,0,0,0,0
+Lesotho,1,Africa,1,0,0,0,0,0,0,0,0,0,0,0,0
+Rhodesia,1,Africa,1,0,0,0,0,0,0,0,0,0,0,0,0
+Western Sahara,1,Africa,0,0,0,0,1,0,0,0,0,0,0,0,0
+Djibouti,1,Africa,0,0,0,0,1,0,0,0,0,0,0,0,0

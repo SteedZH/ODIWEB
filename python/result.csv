@@ -1,0 +1,148 @@
+,country,plant_number,continent,Hydro,Gas,Solar,Wind,Oil,Coal,Biomass,Waste,Geothermal,Nuclear,Other,Cogeneration,Wave and Tidal
+0,United Kingdom,764,Europe,43,13,289,256,3,3,68,89,0,0,0,0,0
+1,India,540,Asia,132,45,77,69,15,166,28,0,0,7,0,1,0
+2,Australia,243,Oceania,39,84,5,29,21,22,17,23,0,0,0,0,0
+3,Japan,231,Asia,36,24,96,2,24,23,0,1,11,13,0,0,0
+4,Norway,229,Europe,216,3,0,8,0,0,0,0,0,0,0,0,0
+5,Italy,171,Europe,42,32,53,1,8,7,0,0,25,0,3,0,0
+6,Vietnam,153,Asia,115,9,0,4,5,19,1,0,0,0,0,0,0
+7,Chile,151,South America,62,3,5,11,41,5,10,0,0,0,0,0,0
+8,Sweden,115,Europe,101,2,0,5,0,0,5,0,0,2,0,0,0
+9,Switzerland,111,Europe,107,0,0,0,0,0,0,0,0,4,0,0,0
+10,Argentina,110,South America,27,29,0,3,41,3,0,0,0,1,4,0,0
+11,South Korea,85,Asia,24,22,9,10,2,9,2,2,0,4,0,0,1
+12,Germany,85,Europe,14,6,35,12,3,7,6,2,0,0,0,0,0
+13,Iran,81,Asia,18,46,0,1,15,0,0,0,0,1,0,0,0
+14,Austria,77,Europe,73,0,0,4,0,0,0,0,0,0,0,0,0
+15,South Africa,70,Africa,3,1,27,17,3,12,2,4,0,1,0,0,0
+16,Belgium,48,Europe,7,17,0,11,8,0,2,0,0,3,0,0,0
+17,Turkey,48,Asia,13,10,3,1,1,11,0,0,9,0,0,0,0
+18,Greece,43,Europe,11,7,13,5,3,3,0,1,0,0,0,0,0
+19,Philippines,43,Asia,9,4,14,0,4,8,1,0,3,0,0,0,0
+20,Uruguay,42,South America,2,2,10,14,4,0,10,0,0,0,0,0,0
+21,Spain,42,Europe,12,6,3,7,2,3,1,5,0,3,0,0,0
+22,Guatemala,39,North America,17,0,1,2,7,2,9,0,1,0,0,0,0
+23,Pakistan,36,Asia,7,9,0,4,8,5,0,0,0,2,0,0,0
+24,Bangladesh,35,Asia,1,16,0,0,17,1,0,0,0,0,0,0,0
+25,Myanmar,34,Asia,20,12,0,0,0,2,0,0,0,0,0,0,0
+26,Sri Lanka,34,Asia,17,0,0,9,8,0,0,0,0,0,0,0,0
+27,Netherlands,33,Europe,0,7,0,22,0,3,0,0,0,1,0,0,0
+28,Ireland,32,Europe,1,4,0,23,4,0,0,0,0,0,0,0,0
+29,North Korea,30,Asia,14,0,0,0,0,15,0,0,0,0,0,0,0
+30,Egypt,30,Africa,2,22,0,1,5,0,0,0,0,0,0,0,0
+31,Morocco,29,Africa,15,2,0,11,1,0,0,0,0,0,0,0,0
+32,Tunisia,27,Africa,6,19,0,2,0,0,0,0,0,0,0,0,0
+33,New Zealand,26,Oceania,15,2,0,4,1,1,0,0,3,0,0,0,0
+34,Algeria,26,Africa,1,25,0,0,0,0,0,0,0,0,0,0,0
+35,Malaysia,25,Asia,5,10,3,0,3,3,1,0,0,0,0,0,0
+36,Israel,22,Asia,0,7,11,2,0,2,0,0,0,0,0,0,0
+37,Kenya,22,Africa,8,0,0,2,6,0,0,0,6,0,0,0,0
+38,Russia,21,Europe,3,10,0,0,0,5,0,0,0,3,0,0,0
+39,Poland,21,Europe,3,6,0,0,0,11,0,0,0,0,0,0,0
+40,Taiwan,20,Asia,4,5,0,5,1,2,0,0,0,3,0,0,0
+41,Laos,20,Asia,19,0,0,0,0,1,0,0,0,0,0,0,0
+42,Iceland,20,Europe,14,0,0,0,0,0,0,0,6,0,0,0,0
+43,Ecuador,20,South America,9,4,0,0,6,0,0,0,0,0,0,0,0
+44,Iraq,19,Asia,7,10,0,0,2,0,0,0,0,0,0,0,0
+45,Sudan,19,Africa,6,1,0,0,10,0,2,0,0,0,0,0,0
+46,Bolivia,18,South America,10,8,0,0,0,0,0,0,0,0,0,0,0
+47,Syrian Arab Republic,18,Asia,3,8,0,0,7,0,0,0,0,0,0,0,0
+48,Bulgaria,18,Europe,7,0,0,1,0,9,0,0,0,1,0,0,0
+49,Ukraine,18,Europe,2,0,0,0,0,13,0,0,0,3,0,0,0
+50,Georgia,18,Asia,16,2,0,0,0,0,0,0,0,0,0,0,0
+51,Czech Republic,17,Europe,2,0,14,0,0,0,0,0,0,0,0,0,0
+52,Denmark,17,Europe,0,2,1,8,0,5,0,0,1,0,0,0,0
+53,Belarus,17,Europe,0,17,0,0,0,0,0,0,0,0,0,0,0
+54,Estonia,16,Europe,0,2,0,12,2,0,0,0,0,0,0,0,0
+55,Romania,16,Europe,2,3,0,2,0,8,0,0,0,0,0,0,0
+56,Nicaragua,15,North America,2,1,0,0,8,0,0,2,2,0,0,0,0
+57,Papua New Guinea,15,Oceania,6,1,0,0,7,0,0,0,1,0,0,0,0
+58,Uzbekistan,15,Asia,6,6,0,0,1,2,0,0,0,0,0,0,0
+59,China,15,Asia,7,1,1,4,0,2,0,0,0,0,0,0,0
+60,Democratic Republic of the Congo,15,Africa,13,1,0,0,1,0,0,0,0,0,0,0,0
+61,United Arab Emirates,15,Asia,0,15,0,0,0,0,0,0,0,0,0,0,0
+62,Azerbaijan,14,Asia,5,8,0,0,1,0,0,0,0,0,0,0,0
+63,Singapore,14,Asia,0,8,0,0,3,0,0,3,0,0,0,0,0
+64,Zambia,14,Africa,5,0,0,0,7,1,1,0,0,0,0,0,0
+65,Saudi Arabia,13,Asia,0,4,0,0,9,0,0,0,0,0,0,0,0
+66,Ethiopia,13,Africa,11,0,0,1,0,0,0,0,1,0,0,0,0
+67,Hungary,12,Europe,0,8,0,0,1,2,0,0,0,1,0,0,0
+68,Macedonia,12,Europe,10,0,0,0,0,2,0,0,0,0,0,0,0
+69,Nigeria,12,Africa,3,9,0,0,0,0,0,0,0,0,0,0,0
+70,Honduras,12,North America,3,0,3,1,2,0,2,0,1,0,0,0,0
+71,Fiji,12,Oceania,2,0,0,1,3,0,3,0,0,0,0,0,0
+72,Nepal,12,Asia,12,0,0,0,0,0,0,0,0,0,0,0,0
+73,Dominican Republic,12,North America,2,1,1,1,5,2,0,0,0,0,0,0,0
+74,Libya,12,Africa,0,8,0,0,4,0,0,0,0,0,0,0,0
+75,Bosnia and Herzegovina,12,Europe,9,0,0,0,0,3,0,0,0,0,0,0,0
+76,Madagascar,11,Africa,5,2,0,0,3,1,0,0,0,0,0,0,0
+77,Serbia,11,Europe,4,0,0,0,0,7,0,0,0,0,0,0,0
+78,Panama,11,North America,8,1,0,0,2,0,0,0,0,0,0,0,0
+79,Tanzania,11,Africa,6,4,0,0,1,0,0,0,0,0,0,0,0
+80,Angola,10,Africa,2,3,0,0,4,0,0,0,0,0,0,0,0
+81,Tajikistan,10,Asia,8,0,0,0,1,1,0,0,0,0,0,0,0
+82,Rwanda,10,Africa,5,1,1,0,2,0,0,1,0,0,0,0,0
+83,Finland,10,Europe,7,0,0,0,1,0,2,0,0,0,0,0,0
+84,Guinea,9,Africa,6,0,0,0,3,0,0,0,0,0,0,0,0
+85,Oman,9,Asia,0,9,0,0,0,0,0,0,0,0,0,0,0
+86,Jamaica,9,North America,3,1,0,1,4,0,0,0,0,0,0,0,0
+87,Thailand,9,Asia,1,3,5,0,0,0,0,0,0,0,0,0,0
+88,Jordan,8,Asia,0,7,0,0,1,0,0,0,0,0,0,0,0
+89,Kyrgyzstan,8,Asia,6,0,0,0,1,1,0,0,0,0,0,0,0
+90,Kuwait,8,Asia,0,6,0,0,2,0,0,0,0,0,0,0,0
+91,Namibia,8,Africa,1,0,3,0,3,1,0,0,0,0,0,0,0
+92,Albania,8,Europe,7,0,0,0,0,0,0,0,0,0,1,0,0
+93,Armenia,8,Asia,4,3,0,0,0,0,0,0,0,1,0,0,0
+94,El Salvador,8,North America,4,0,0,0,2,0,0,0,2,0,0,0,0
+95,Peru,7,South America,4,2,0,1,0,0,0,0,0,0,0,0,0
+96,Kazakhstan,7,Asia,0,1,1,0,0,5,0,0,0,0,0,0,0
+97,Lebanon,7,Asia,0,2,0,0,5,0,0,0,0,0,0,0,0
+98,Afghanistan,7,Asia,6,1,0,0,0,0,0,0,0,0,0,0,0
+99,Yemen,7,Asia,0,1,0,0,6,0,0,0,0,0,0,0,0
+100,Bahrain,7,Asia,0,6,0,0,1,0,0,0,0,0,0,0,0
+101,Turkmenistan,7,Asia,0,5,0,0,2,0,0,0,0,0,0,0,0
+102,Moldova,6,Europe,2,3,0,0,0,1,0,0,0,0,0,0,0
+103,Mauritius,6,Africa,1,0,1,0,0,2,2,0,0,0,0,0,0
+104,Cambodia,6,Asia,3,0,0,0,1,0,1,1,0,0,0,0,0
+105,Cameroon,6,Africa,3,1,0,0,2,0,0,0,0,0,0,0,0
+106,Trinidad and Tobago,6,North America,0,4,0,0,2,0,0,0,0,0,0,0,0
+107,Mauritania,6,Africa,0,1,1,1,3,0,0,0,0,0,0,0,0
+108,Gabon,6,Africa,3,2,0,0,1,0,0,0,0,0,0,0,0
+109,Lithuania,6,Europe,2,4,0,0,0,0,0,0,0,0,0,0,0
+110,Senegal,6,Africa,1,0,0,0,5,0,0,0,0,0,0,0,0
+111,Niger,6,Africa,0,0,0,0,5,1,0,0,0,0,0,0,0
+112,Uganda,6,Africa,4,0,0,0,1,0,1,0,0,0,0,0,0
+113,Swaziland,6,Africa,3,0,0,0,0,0,3,0,0,0,0,0,0
+114,Bhutan,5,Asia,5,0,0,0,0,0,0,0,0,0,0,0,0
+115,Burkina Faso,5,Africa,2,0,0,0,3,0,0,0,0,0,0,0,0
+116,French Guiana,5,South America,1,2,0,0,1,0,1,0,0,0,0,0,0
+117,Malawi,5,Africa,3,1,0,0,0,0,1,0,0,0,0,0,0
+118,Ghana,5,Africa,3,2,0,0,0,0,0,0,0,0,0,0,0
+119,Latvia,5,Europe,3,2,0,0,0,0,0,0,0,0,0,0,0
+120,Guyana,5,South America,0,0,0,0,4,0,1,0,0,0,0,0,0
+121,Brunei Darussalam,4,Asia,0,4,0,0,0,0,0,0,0,0,0,0,0
+122,Mali,4,Africa,4,0,0,0,0,0,0,0,0,0,0,0,0
+123,Togo,3,Africa,1,1,0,0,1,0,0,0,0,0,0,0,0
+124,Montenegro,3,Europe,2,0,0,0,0,1,0,0,0,0,0,0,0
+125,Burundi,3,Africa,3,0,0,0,0,0,0,0,0,0,0,0,0
+126,Equatorial Guinea,3,Africa,1,2,0,0,0,0,0,0,0,0,0,0,0
+127,Mozambique,3,Africa,3,0,0,0,0,0,0,0,0,0,0,0,0
+128,Cape Verde,3,Africa,0,0,0,0,3,0,0,0,0,0,0,0,0
+129,Sierra Leone,3,Africa,1,0,0,0,2,0,0,0,0,0,0,0,0
+130,Paraguay,3,South America,3,0,0,0,0,0,0,0,0,0,0,0,0
+131,Central African Republic,2,Africa,1,0,0,0,1,0,0,0,0,0,0,0,0
+132,Botswana,2,Africa,0,0,0,0,0,2,0,0,0,0,0,0,0
+133,Liberia,2,Africa,1,0,0,0,1,0,0,0,0,0,0,0,0
+134,Benin,2,Africa,0,1,0,0,1,0,0,0,0,0,0,0,0
+135,Gambia,2,Africa,0,0,0,0,2,0,0,0,0,0,0,0,0
+136,Kosovo,2,Europe,0,0,0,0,0,2,0,0,0,0,0,0,0
+137,Mongolia,2,Asia,0,0,0,1,0,1,0,0,0,0,0,0,0
+138,Antarctica,2,Antarctica,0,0,0,1,1,0,0,0,0,0,0,0,0
+139,Luxembourg,2,Europe,1,1,0,0,0,0,0,0,0,0,0,0,0
+140,Eritrea,2,Africa,0,0,0,0,2,0,0,0,0,0,0,0,0
+141,Guinea-Bissau,1,Africa,0,0,0,0,1,0,0,0,0,0,0,0,0
+142,Zimbabwe,1,Africa,0,0,0,0,0,1,0,0,0,0,0,0,0
+143,Lesotho,1,Africa,1,0,0,0,0,0,0,0,0,0,0,0,0
+144,Rhodesia,1,Africa,1,0,0,0,0,0,0,0,0,0,0,0,0
+145,Western Sahara,1,Africa,0,0,0,0,1,0,0,0,0,0,0,0,0
+146,Djibouti,1,Africa,0,0,0,0,1,0,0,0,0,0,0,0,0

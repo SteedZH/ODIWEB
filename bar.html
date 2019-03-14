@@ -73,17 +73,45 @@ svg.append("g")
 // //   console.log(root.value)
 //   partition.nodes(root);
 //   x.domain([0, root.value]).nice();
-// //   console.log(root)
+//   console.log(root)
 // //   console.log(root.value)
 //   down(root, 0);
 // });
 
-d3.csv("join.csv",function(data){
-    // console.log(data[0]);
+d3.csv("result.csv",function(data){
+    console.log(data[0]);   
+    var chil =[];
+    var chi = {};
+    data.forEach(function(value0,index0,array0){
+        var dic =[];
+        dic.push({"name": "Hydro","size": +value0["Hydro"]});
+        dic.push({"name": "Gas","size": +value0["Gas"]});
+        dic.push({"name": "Solar","size": +value0["Solar"]});
+        dic.push({"name": "Wind","size": +value0["Wind"]});
+        dic.push({"name": "Oil","size": +value0["Oil"]});
+        dic.push({"name": "Coal","size": +value0["Coal"]});
+        dic.push({"name": "Biomass","size": +value0["Biomass"]});
+        dic.push({"name": "Waste","size": +value0["Waste"]});
+        dic.push({"name": "Geothermal","size": +value0["Geothermal"]});
+        dic.push({"name": "Nuclear","size": +value0["Nuclear"]});
+        dic.push({"name": "Other","size": +value0["Other"]});
+        dic.push({"name": "Cogeneration","size": +value0["Cogeneration"]});
+        dic.push({"name": "Wave and Tidal","size": +value0["Wave and Tidal"]});
+        chi = {
+            "name": value0["country"],
+            "continent": value0["continent"],
+            "children" : dic
+        }
+        chil.push(chi);
+    });
+    console.log(chil);
+
+
     var array_use = [{ "name" : "Africa" , "children" : [] }, { "name" : "Asia" , "children" : [] }, { "name" : "Europe" , "children" : [] },
     { "name" : "South America" , "children" : [] }, { "name" : "North America" , "children" : [] }, { "name" : "Oceania" , "children" : [] }, { "name" : "Antarctica" , "children" : [] }];
-    // console.log(data[0]["continent"]);
-    data.forEach(function(value, index, array){
+    
+    chil.forEach(function(value, index, array){
+        // console.log(data)
         continent_all = ["Africa", "Asia","Europe","South America","North America","Oceania","Antarctica"];
         continent_all.forEach(function(v, i, a){
             if (value["continent"] == v) {
@@ -96,6 +124,7 @@ d3.csv("join.csv",function(data){
             }
             });
     })
+    // console.log(array_use)
     var dict = {"name": "continent_data", "children": array_use}
     // dict = JSON.stringify(dict);
     partition.nodes(dict)
@@ -103,7 +132,7 @@ d3.csv("join.csv",function(data){
 
     down(dict, 0)
 
-    console.log(dict);
+    // console.log(dict);
     });
 
 function down(d, i) {

@@ -43,27 +43,27 @@ result = pd.merge(df1, country, how='left', on="country")
 
 # result.to_csv("join.csv")
 result = pd.read_csv("join.csv")
-test = result["continent"].value_counts()
+# test = result["continent"].value_counts()
 
-pd.concat([result, pd.DataFrame(columns=["Hydro",
-                                         "Gas",
-                                         "Solar",
-                                         "Wind",
-                                         "Oil",
-                                         "Coal",
-                                         "Biomass",
-                                         "Waste",
-                                         "Geothermal",
-                                         "Nuclear",
-                                         "Other",
-                                         "Cogeneration",
-                                         "Wave and Tidal"])], sort=False)
-
+# pd.concat([result, pd.DataFrame(columns=["Hydro",
+#                                          "Gas",
+#                                          "Solar",
+#                                          "Wind",
+#                                          "Oil",
+#                                          "Coal",
+#                                          "Biomass",
+#                                          "Waste",
+#                                          "Geothermal",
+#                                          "Nuclear",
+#                                          "Other",
+#                                          "Cogeneration",
+#                                          "Wave and Tidal"])], sort=False)
+#
 result = pd.concat(
     [
         result,
         pd.DataFrame(
-            0,
+            data=0,
             index=result.index,
             columns=["Hydro",
                      "Gas",
@@ -81,13 +81,13 @@ result = pd.concat(
         )
     ], axis=1
 )
-
+print("hello")
 for index, row in df3.iterrows():
     # print(result[row.fuel1])
     #
     # if string == row.country_long:
 
-    print(row.fuel1)
+    # print(row.fuel1)
     result.loc[result["country"] == row.country_long, row.fuel1] += 1
     #
     # else:
@@ -95,4 +95,5 @@ for index, row in df3.iterrows():
     #     string = row.country_long
     #     result.loc[result[row.country_long] == row.country_long, row.fuel1] = result[row.fuel1] + 1
 
+result.to_csv("result.csv")
 print("hello")

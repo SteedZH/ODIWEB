@@ -59,7 +59,6 @@
                     });
                 
                     d3.csv("refine.csv", function(data) {
-                        console.log(data)
                     return {
                         country: data["country_long"],
                         capacity: +data["capacity_mw"],
@@ -76,7 +75,7 @@
                         console.log(error);
                         return;
                     }
-                console.log(data);
+                // console.log(data[0]["capacity"]);
                 
                 var tooltip = d3.select("body")
                     .append("div")
