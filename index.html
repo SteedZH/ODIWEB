@@ -2,33 +2,99 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Map</title>
+        <title>Plant Dataset Visualisation</title>
         <link rel="stylesheet" type="text/css" href="map.css">
         <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
+        <style>
+            /* text {
+                font: 10px sans-serif;
+                } */
+
+                rect.background {
+                fill: rgb(220, 255, 238);
+                }
+
+                .axis {
+                shape-rendering: crispEdges;
+                }
+
+                .axis path,
+                .axis line {
+                fill: none;
+                stroke: #000;
+                }
+                
+                .wrap{margin-top: 30px;
+                        margin-left: 20px;
+                        margin-right: 20px;
+                }
+                .left {width:30%;height:800px;background:rgb(255, 221, 212);
+                    float: left
+                }
+                .right {width:70%;height:800px;background:rgb(220, 255, 238);
+                    float:left
+                    }
+                #right1 {width:40%;height:1250px;background:rgb(255, 221, 212);
+                    float: right
+                }
+                #left1 {width:60%;height:1250px;background:rgb(220, 255, 238);
+                    float:right
+                    }
+                #mapText {
+                    height: 100%;
+                    width: 80%;
+                    text-align:left;
+                    text-indent: 3%;
+                    line-height:120%;
+                    margin-left: auto;
+                    margin-right: auto;
+                    font-size : 22px;
+                    margin-top: 10%;
+                }
+        </style>
     </head>
     <body>
+         <h1 style="color:rgb(0, 0, 0); text-align:center; position: relative; top: 10px;">COMP6214  Coursework -- Plant Dataset Visualisation</h1>
+         <div class = "wrap">
+            <div class="left"> 
+                <p id= mapText>
+                    This is the global distribution of plants according to the plant dataset. On this map, we could obviously see geographic location of plants in 
+                    every country and generally know the number of plants in differrnt places.
+                </p>
+            </div> 
+            <div class="right", id="myMap">
+            </div>     
+         </div>
+         <div class="wrap">
+             <div id="right1">
+                 
+             </div>
+             <div id="left1">
+
+             </div>
+         </div>
         <script>
-            var width = window.innerWidth;
-            var height = window.innerHeight;
+            var width = window.innerWidth ;
+            var height = 1000 ;
             var centered;
 
-            var svg = d3.select("body")
+            var svg = d3.select("#myMap")
                 .append("svg")
-                .attr("width", 1200)
-                .attr("height", 800)
-                .attr("transform", "translate(600,100)")
-                .attr("viewBox", "0,0,1900,500")
+                .attr("width", "100%" )
+                .attr("height", "100%" )
+                // .attr("transform", "translate("+ width/8 + "," +"120)")
+                // .attr("viewBox", "300,100,1600,500")
                 .append("g");
             
             var projection = d3.geo.mercator()
                                 .center([0,0])
-                                .scale(300)
-                                .translate([width/2, height/2]);
+                                .scale(160)
+                                .translate([width/3, height/2]);
             
             var path = d3.geo.path()
                         .projection(projection);
             
-            var color = d3.scale.category20();
+            var map_color = d3.scale.category20();
 
             var world = svg.append("g");
                         
@@ -46,7 +112,7 @@
                     // .attr("strole", "#000")
                     // .attr("stroke-width", 1)
                     .attr("fill", function(d,i){
-				        return color(i);
+				        return map_color(i);
                     })
                     .attr("d", path )
                     .on("mouseover",function(d,i){
@@ -55,7 +121,7 @@
                     })
                     .on("mouseout",function(d,i){
                         d3.select(this)
-                            .attr("fill",color(i));
+                            .attr("fill",map_color(i));
                     });
                 
                     d3.csv("refine.csv", function(data) {
@@ -97,7 +163,7 @@
                     .on("mouseover", function(d){
                                 d3.select(this)
                                     .classed("active", true);
-                                console.log("just had a mouseover", d.country);
+                                // console.log("just had a mouseover", d.country);
                                 tooltip.html(d.country+"<br/>"+"Capacity: "+d.capacity+"<br/>"+"fuel: "+d.fuel+"<br/>"+"Longitude: "+d.longitude+"<br/>"+"latitude " +d.latitude+"<br/>")
                                     .style("left",(d3.event.pageX) + "px")
                                     .style("top",(d3.event.pageY+20) + "px")
@@ -121,14 +187,15 @@
 
                 if(d && centered !== d){
                     var centroid =path.centroid(d);
+                    // console.log(centroid)
                     x = centroid[0];
                     y = centroid[1];
-                    k = 4;
+                    k = 2;
                     centered = d;
                 }
                 else{
-                    x = width/2;
-                    y = height/2;
+                    x = width;
+                    y = height/4;
                     k = 1;
                     centered = null;
                 }
@@ -138,9 +205,290 @@
                     });
                 svg.transition()
                     .duration(750)
-                    .attr("transform", "translate(" + width /2 +"," + height/2+")scale("+k+")translate("+ -x +","+ -y +")")
+                    .attr("transform", "translate(" + width +"," + height/4 +")scale("+k+")translate("+ -x +","+ -y +")")
                     .style("stroke-width", 1.5/k +"px");
             }
         </script>
+        <script>
+        // hierarchy chart
+            var margin = {top: 80, right: 120, bottom: 0, left: 160}
+            var width = 960 - margin.left - margin.right
+            var height = 1600 - margin.top - margin.bottom;
+
+            var x = d3.scale.linear()
+                .range([0, width]);
+
+            var barHeight = 20;
+
+            var color = d3.scale.ordinal()
+                .range(["steelblue", "#ccc"]);
+
+            var duration = 750,
+                delay = 25;
+
+            var partition = d3.layout.partition()
+                .value(function(d) { return d.size; });
+
+            var xAxis = d3.svg.axis()
+                .scale(x)
+                .orient("top");
+
+            var hierarchy_svg = d3.select("#left1").append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+                .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+            hierarchy_svg.append("rect")
+                .attr("class", "background")
+                .attr("width", width)
+                .attr("height", 1170)
+                .on("click", up);
+
+            hierarchy_svg.append("g")
+                .attr("class", "x axis");
+
+            hierarchy_svg.append("g")
+                .attr("class", "y axis")
+            .append("line")
+                .attr("y1", "15%");
+
+            // d3.json("readme.json", function(error, root) {
+            //   if (error) throw error;
+            //   console.log(root)
+            // //   console.log(root.value)
+            //   partition.nodes(root);
+            //   x.domain([0, root.value]).nice();
+            //   console.log(root)
+            // //   console.log(root.value)
+            //   down(root, 0);
+            // });
+
+            d3.csv("result.csv",function(data){
+                console.log(data[0]);   
+                var chil =[];
+                var chi = {};
+                data.forEach(function(value0,index0,array0){
+                    var dic =[];
+                    dic.push({"name": "Hydro","size": +value0["Hydro"]});
+                    dic.push({"name": "Gas","size": +value0["Gas"]});
+                    dic.push({"name": "Solar","size": +value0["Solar"]});
+                    dic.push({"name": "Wind","size": +value0["Wind"]});
+                    dic.push({"name": "Oil","size": +value0["Oil"]});
+                    dic.push({"name": "Coal","size": +value0["Coal"]});
+                    dic.push({"name": "Biomass","size": +value0["Biomass"]});
+                    dic.push({"name": "Waste","size": +value0["Waste"]});
+                    dic.push({"name": "Geothermal","size": +value0["Geothermal"]});
+                    dic.push({"name": "Nuclear","size": +value0["Nuclear"]});
+                    dic.push({"name": "Other","size": +value0["Other"]});
+                    dic.push({"name": "Cogeneration","size": +value0["Cogeneration"]});
+                    dic.push({"name": "Wave and Tidal","size": +value0["Wave and Tidal"]});
+                    chi = {
+                        "name": value0["country"],
+                        "continent": value0["continent"],
+                        "children" : dic
+                    }
+                    chil.push(chi);
+                });
+                console.log(chil);
+
+
+                var array_use = [{ "name" : "Africa" , "children" : [] }, { "name" : "Asia" , "children" : [] }, { "name" : "Europe" , "children" : [] },
+                { "name" : "South America" , "children" : [] }, { "name" : "North America" , "children" : [] }, { "name" : "Oceania" , "children" : [] }, { "name" : "Antarctica" , "children" : [] }];
+                
+                chil.forEach(function(value, index, array){
+                    // console.log(data)
+                    continent_all = ["Africa", "Asia","Europe","South America","North America","Oceania","Antarctica"];
+                    continent_all.forEach(function(v, i, a){
+                        if (value["continent"] == v) {
+                        delete value["continent"];
+                        array_use.forEach(function(val, ind, arr){
+                            if(val["name"] == v){
+                                val["children"].push(value);
+                            }
+                        });
+                        }
+                        });
+                })
+                // console.log(array_use)
+                var dict = {"name": "continent_data", "children": array_use}
+                // dict = JSON.stringify(dict);
+                partition.nodes(dict)
+                x.domain([0, dict.value]).nice();
+
+                down(dict, 0)
+
+                // console.log(dict);
+                });
+
+            function down(d, i) {
+            if (!d.children || this.__transition__) return;
+            var end = duration + d.children.length * delay;
+
+            // Mark any currently-displayed bars as exiting.
+            var exit = hierarchy_svg.selectAll(".enter")
+                .attr("class", "exit");
+
+            // Entering nodes immediately obscure the clicked-on bar, so hide it.
+            exit.selectAll("rect").filter(function(p) { return p === d; })
+                .style("fill-opacity", 1e-6);
+
+            // Enter the new bars for the clicked-on data.
+            // Per above, entering bars are immediately visible.
+            var enter = bar(d)
+                .attr("transform", stack(i))
+                .style("opacity", 1);
+
+            // Have the text fade-in, even though the bars are visible.
+            // Color the bars as parents; they will fade to children if appropriate.
+            enter.select("text").style("fill-opacity", 1e-6);
+            enter.select("rect").style("fill", color(true));
+
+            // Update the x-scale domain.
+            x.domain([0, d3.max(d.children, function(d) { return d.value; })]).nice();
+
+            // Update the x-axis.
+            hierarchy_svg.selectAll(".x.axis").transition()
+                .duration(duration)
+                .call(xAxis);
+
+            // Transition entering bars to their new position.
+            var enterTransition = enter.transition()
+                .duration(duration)
+                .delay(function(d, i) { return i * delay; })
+                .attr("transform", function(d, i) { return "translate(0," + barHeight * i * 1.2 + ")"; });
+
+            // Transition entering text.
+            enterTransition.select("text")
+                .style("fill-opacity", 1);
+
+            // Transition entering rects to the new x-scale.
+            enterTransition.select("rect")
+                .attr("width", function(d) { return x(d.value); })
+                .style("fill", function(d) { return color(!!d.children); });
+
+            // Transition exiting bars to fade out.
+            var exitTransition = exit.transition()
+                .duration(duration)
+                .style("opacity", 1e-6)
+                .remove();
+
+            // Transition exiting bars to the new x-scale.
+            exitTransition.selectAll("rect")
+                .attr("width", function(d) { return x(d.value); });
+
+            // Rebind the current node to the background.
+            hierarchy_svg.select(".background")
+                .datum(d)
+                .transition()
+                .duration(end);
+
+            d.index = i;
+            }
+
+            function up(d) {
+            if (!d.parent || this.__transition__) return;
+            var end = duration + d.children.length * delay;
+
+            // Mark any currently-displayed bars as exiting.
+            var exit = hierarchy_svg.selectAll(".enter")
+                .attr("class", "exit");
+
+            // Enter the new bars for the clicked-on data's parent.
+            var enter = bar(d.parent)
+                .attr("transform", function(d, i) { return "translate(0," + barHeight * i * 1.2 + ")"; })
+                .style("opacity", 1e-6);
+
+            // Color the bars as appropriate.
+            // Exiting nodes will obscure the parent bar, so hide it.
+            enter.select("rect")
+                .style("fill", function(d) { return color(!!d.children); })
+                .filter(function(p) { return p === d; })
+                .style("fill-opacity", 1e-6);
+
+            // Update the x-scale domain.
+            x.domain([0, d3.max(d.parent.children, function(d) { return d.value; })]).nice();
+
+            // Update the x-axis.
+            hierarchy_svg.selectAll(".x.axis").transition()
+                .duration(duration)
+                .call(xAxis);
+
+            // Transition entering bars to fade in over the full duration.
+            var enterTransition = enter.transition()
+                .duration(end)
+                .style("opacity", 1);
+
+            // Transition entering rects to the new x-scale.
+            // When the entering parent rect is done, make it visible!
+            enterTransition.select("rect")
+                .attr("width", function(d) { return x(d.value); })
+                .each("end", function(p) { if (p === d) d3.select(this).style("fill-opacity", null); });
+
+            // Transition exiting bars to the parent's position.
+            var exitTransition = exit.selectAll("g").transition()
+                .duration(duration)
+                .delay(function(d, i) { return i * delay; })
+                .attr("transform", stack(d.index));
+
+            // Transition exiting text to fade out.
+            exitTransition.select("text")
+                .style("fill-opacity", 1e-6);
+
+            // Transition exiting rects to the new scale and fade to parent color.
+            exitTransition.select("rect")
+                .attr("width", function(d) { return x(d.value); })
+                .style("fill", color(true));
+
+            // Remove exiting nodes when the last child has finished transitioning.
+            exit.transition()
+                .duration(end)
+                .remove();
+
+            // Rebind the current parent to the background.
+            hierarchy_svg.select(".background")
+                .datum(d.parent)
+                .transition()
+                .duration(end);
+            }
+
+            // Creates a set of bars for the given data node, at the specified index.
+            function bar(d) {
+                // console.log(d.children)
+            var bar = hierarchy_svg.insert("g", ".y.axis")
+                .attr("class", "enter")
+                .attr("transform", "translate(0,5)")
+                .selectAll("g")
+                .data(d.children)
+                .enter().append("g")
+                .style("cursor", function(d) { return !d.children ? null : "pointer"; })
+                .on("click", down);
+
+            bar.append("text")
+                .attr("x", -6)
+                .attr("y", barHeight / 2)
+                .attr("dy", ".35em")
+                .style("text-anchor", "end")
+                .text(function(d) { return d.name; });
+
+            bar.append("rect")
+                .attr("width", function(d) { return x(d.value); })
+                .attr("height", barHeight);
+
+            return bar;
+            }
+
+            // A stateful closure for stacking bars horizontally.
+            function stack(i) {
+            var x0 = 0;
+            return function(d) {
+                var tx = "translate(" + x0 + "," + barHeight * i * 1.2 + ")";
+                x0 += x(d.value);
+                return tx;
+            };
+            }
+
+        </script>
+        
     </body>
 </html>
