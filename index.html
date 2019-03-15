@@ -6,10 +6,27 @@
         <link rel="stylesheet" type="text/css" href="map.css">
         <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
         <style>
-            /* text {
-                font: 10px sans-serif;
-                } */
-
+            circle {
+                fill: #fff;
+                fill-opacity: 0.4;
+                stroke: #111;
+            }  
+            circle.active{
+                fill: rgb(0, 0, 0);
+                }
+                
+            .tooltip{
+                    font-family: simsun;
+                    font-size: 14px;
+                    width: 120;
+                    height: auto;
+                    position: absolute;
+                    text-align: center;
+                    border-style: solid; 
+                    border-width: 1px;
+                    background-color: white;
+                    border-radius: 5px;
+                }
                 rect.background {
                 fill: rgb(220, 255, 238);
                 }
@@ -76,6 +93,19 @@
                  margin-right: auto;
                  font-size : 25px;
                 }
+                .clean{
+                    text-indent: 0px;
+                    margin-top: 5px;
+                    margin-bottom: 5px;
+                    width: 80%;
+                    text-align:left;
+                    /* text-indent: 2%; */
+                    line-height:160%;
+                    margin-left: auto;
+                    margin-right: auto;
+                    font-size : 25px;
+                }
+
         </style>
     </head>
     <body>
@@ -164,7 +194,7 @@
                  <h3 style="text-align: left; font-size: 26px; margin-left: 8%; margin-bottom: 15px">
                         2. Cleaning Data Description
                  </h3>
-                 <p class="par">
+                 <p class="clean">
                      The tools used for data cleaning are Open Refine, Excel and python.</br>
                      List of error types:</br></br>
                      1.Multiple Representation:</br>
@@ -195,8 +225,19 @@
                  <h3 style="text-align: left; font-size: 26px; margin-left: 8%; margin-bottom: 15px">
                         Reference
                  </h3>
-                 <p>
-                     
+                 <p class="clean">
+                     [1] Mike Bostock (2018) <i>click-to-zoom via transform</i>. Available from: 
+                     <a href="https://bl.ocks.org/mbostock/2206590">https://bl.ocks.org/mbostock/2206590</a>.</br>
+                     [2] Mike Bostock (2018) <i>Hierarchical Bar Chart</i>. Available from:
+                     <a href="https://bl.ocks.org/mbostock/1283663">https://bl.ocks.org/mbostock/1283663</a>.</br>
+                     [3] OUR D3.JS (2014) Available from: <a href="http://www.ourd3js.com/wordpress/296/">http://www.ourd3js.com/wordpress/296/</a>
+                 </p>
+                 <h3 style="text-align: left; font-size: 26px; margin-left: 8%; margin-bottom: 15px">
+                        Data
+                 </h3>
+                 <p class="clean">
+                     [1] Worldmap data from <a href="https://geojson-maps.ash.ms/">https://geojson-maps.ash.ms/</a></br>
+                     [2] Continent-country data from <a href="https://github.com/annexare/Countries">https://github.com/annexare/Countries</a>
                  </p>
             </div>
          </div>
